@@ -1,0 +1,36 @@
+professor_id,nome_professor,email_professor,materia_principal,materias_ensina,data_contratacao,status_professor,unidade_base,carga_horaria_semanal,observacoes
+P001,Rafaela Moura Costa,rafaela.costa573@cursoficticio.com.br,Matemática,Matemática; História,2019-04-02,Ativo,Sul,10.0,coordena simulados
+P002,Lucas Gomes Melo,lucas.melo323@cursoficticio.com.br,Matemática,Matemática; História,2024-04-12,Ativo,Sul,30.0,atua também online
+P003,Victor Rodrigues Melo,victor.melo166@cursoficticio.com.br,Matemática,Matemática,2024-07-18,Ativo,Centro,20.0,
+P004,Diego Rocha Lima,diego.lima242@cursoficticio.com.br,Matemática,Matemática,2015-08-26,Ativo,Sul,10.0,substituto eventual
+P005,Gabriela Pereira Cardoso,gabriela.cardoso184@cursoficticio.com.br,Física,Física; Português,2019-02-28,Ativo,Online,40.0,
+P006,Luísa Moreira Barbosa,luisa.barbosa82@cursoficticio.com.br,Física,Física; Matemática; GEOGRAFIA,2016-12-04,Ativo,Online,12.0,
+P007,Karina Moreira Ferreira,karina.ferreira328@cursoficticio.com.br,Física,Física; História; Sociologia,2024-09-18,Ativo,Online,20.0,
+P008,GABRIELA LIMA PEREIRA,,Química,Química; BIOLOGIA; Sociologia,2019-04-18,Ativo,Online,10.0,coordena simulados
+P009,Caio Teixeira Araújo,caio.araujo815@cursoficticio.com.br,Química,Química; Redação; Matemática,2023-03-11,Ativo,Centro,,sem observações
+P010,Olívia Moura Souza,olivia.souza147@cursoficticio.com.br,Biologia,Biologia,2015-08-01,Ativo,Sul,24.0,coordena simulados
+P011,Alice Martins Rodrigues,alice.rodrigues428@cursoficticio.com.br,Biologia,Biologia; Matemática; Sociologia,2021-06-22,Ativo,Sul,16.0,
+P012,Sofia Carvalho Ribeiro,sofia.ribeiro477@cursoficticio.com.br,Biologia,Biologia; Geografia,2020-07-15,Ativo,Online,20.0,atua também online
+P013,Pedro Pereira Moura,pedro.moura388@cursoficticio.com.br,Biologia,Biologia,2020-07-05,Ativo,Sul,40.0,sem observações
+P014,João Lima Araújo,joao.araujo380@cursoficticio.com.br,História,História; Inglês,2017-09-23,Ativo,Centro,40.0,coordena simulados
+P015,Beatriz Souza Rocha,beatriz.rocha89@cursoficticio.com.br,História,Historia; Matemática,2018-05-24,Ativo,Sul,40.0,
+P016,Heitor Teixeira Silva,heitor.silva578@cursoficticio.com.br,Geografia,Geografia; Biologia,2021-12-14,Ativo,Online,20.0,coordena simulados
+P017,Tatiane Costa Barbosa,tatiane.barbosa1@cursoficticio.com.br,Geografia,Geografia,2024-01-25,Ativo,Online,12.0,atua também online
+P018,Gustavo Santos Gomes,gustavo.gomes505@cursoficticio.com.br,Geografia,Geografia,2016-07-15,Ativo,Online,20.0,substituto eventual
+P019,Helena Almeida Araújo,helena.araujo389@cursoficticio.com.br,Português,Português; Física,2024-06-14,Ativo,Centro,24.0,coordena simulados
+P020,Maria Teixeira Oliveira,maria.oliveira619@cursoficticio.com.br,Português,Português,2016-02-19,Ativo,Centro,24.0,atua também online
+P021,Diego Correia Ribeiro,diego.ribeiro672@cursoficticio.com.br,Português,Português; FILOSOFIA; Matemática,2019-05-23,Ativo,Online,10.0,substituto eventual
+P022,Luísa Moreira Cardoso,luisa.cardoso603@cursoficticio.com.br,Redação,Redação; Sociologia; Física,2018-12-03,Ativo,Sul,16.0,coordena simulados
+P023,Valentina Cavalcanti Cavalcanti,valentina.cavalcanti715@cursoficticio.com.br,Redação,Redação; FÍSICA; Matemática,2023-06-05,Ativo,Centro,24.0,
+P024,LUÍSA SANTOS OLIVEIRA,luisa.oliveira636@cursoficticio.com.br,Inglês,Inglês; Português,2024-03-19,Inativo,Sul,12.0,atua também online
+P025,Rafael Ribeiro Souza,rafael.souza226@cursoficticio.com.br,Inglês,Inglês,2019-02-03,Ativo,Sul,40.0,substituto eventual
+P026,Sofia Ribeiro Rodrigues,sofia.rodrigues919@cursoficticio.com.br,Inglês,Inglês,2021-09-01,Ativo,Online,40.0,
+P027,Bruno Souza Melo,bruno.melo369@cursoficticio.com.br,Inglês,Inglês; História,2017-12-05,Ativo,Aldeota,12.0,substituto eventual
+P028,Karina Araújo Nascimento,karina.nascimento862@cursoficticio.com.br,Filosofia,Filosofia,2021-05-25,Ativo,Aldeota,24.0,sem observações
+P029,Gustavo Costa Araújo,gustavo.araujo266@cursoficticio.com.br,Filosofia,Filosofia; Matemática,2020-01-23,Ativo,Aldeota,24.0,
+P030,Mariana Teixeira Carvalho,mariana.carvalho91@cursoficticio.com.br,Filosofia,Filosofia; Português; Matemática,2022-02-23,Ativo,Online,40.0,atua também online
+P031,Rafaela Teixeira Teixeira,,Sociologia,Sociologia; Português; Química,2023-01-14,Ativo,Online,30.0,coordena simulados
+P032,Diego Lima Nascimento,diego.nascimento311@cursoficticio.com.br,Sociologia,Sociologia; Geografia; Inglês,2024-01-09,Inativo,Online,,sem observações
+P033,Rafaela Cavalcanti Martins,rafaela.martins245@cursoficticio.com.br,Sociologia,Sociologia; Redação; Filosofia,2017-04-16,Ativo,Centro,30.0,
+P034,Victor Melo Araújo,victor.araujo97@cursoficticio.com.br,Sociologia,Sociologia; Matemática,2017-04-19,Ativo,Online,40.0,coordena simulados
+P_DUP_001,Diego Rocha Lima,diego.lima242@cursoficticio.com.br,Matemática,Matemática,2015-08-26,Ativo,Sul,10.0,possível duplicidade de cadastro

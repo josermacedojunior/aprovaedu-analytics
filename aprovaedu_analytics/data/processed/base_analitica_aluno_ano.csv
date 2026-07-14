@@ -1,0 +1,58 @@
+aluno_id,ano,qtd_materias,nota_diagnostico_media,bolsa_media,aulas_registradas,aulas_presentes,taxa_presenca,nota_media_simulados,qtd_simulados_feitos,aprovado,cidade,escola_origem
+A00001,2023,9,58.47,13.333333333333334,,,,,,1,Fortaleza,Não informado
+A00001,2024,8,56.11,20.0,,,,,,1,Fortaleza,Não informado
+A00002,2025,8,57.61,5.625,,,,,,0,Crato,Federal
+A00003,2022,11,59.32,10.0,,,,,,0,Horizonte,Privada
+A00004,2021,10,54.64,20.5,,,,65.2,4.0,0,Juazeiro do Norte,Publica
+A00005,2022,11,63.81,10.909090909090908,,,,,,0,Caucaia,Não informado
+A00006,2023,9,62.3,13.333333333333334,,,,,,1,Horizonte,privada
+A00006,2024,10,60.09,16.0,,,,,,1,Horizonte,privada
+A00007,2024,7,54.19,19.285714285714285,,,,,,0,Maracanaú,Não informado
+A00008,2024,7,64.99,13.571428571428571,,,,,,0,Itapipoca,Pública
+A00008,2025,8,61.86,18.75,,,,,,1,Itapipoca,Pública
+A00009,2021,10,57.46,11.0,13.0,11.0,0.846,61.08,4.0,0,Fortaleza,privada
+A00010,2022,11,67.01,22.272727272727273,,,,,,0,Sobral,Privada
+A00011,2021,7,58.94,6.428571428571429,11.0,8.0,0.727,50.92,4.0,0,Aquiraz,Não informado
+A00011,2022,7,57.16,17.142857142857142,,,,,,0,Aquiraz,Não informado
+A00012,2023,9,55.72,16.11111111111111,,,,,,0,Eusébio,Publica
+A00012,2024,9,67.01,15.555555555555555,,,,,,0,Eusébio,Publica
+A00013,2021,9,64.2,29.444444444444443,,,,51.63,3.0,0,Maracanaú,Pública
+A00014,2023,7,64.06,18.571428571428573,,,,,,0,Juazeiro do Norte,privada
+A00015,2022,8,50.19,19.375,,,,,,0,Fortaleza,Não informado
+A00016,2022,7,73.39,7.857142857142857,,,,,,0,Fortaleza,Federal
+A00016,2023,9,58.81,6.666666666666667,,,,,,1,Fortaleza,Federal
+A00017,2025,9,59.99,5.0,,,,,,1,Juazeiro do Norte,Pública
+A00018,2022,11,50.91,9.545454545454545,,,,,,0,Fortaleza,Não informado
+A00019,2023,9,57.77,10.555555555555555,,,,,,1,Fortaleza,Não informado
+A00020,2024,11,60.25,14.545454545454545,,,,,,0,Fortaleza,Não informado
+A00021,2025,7,59.46,10.714285714285714,,,,,,1,Aquiraz,Pública
+A00022,2022,10,49.19,13.0,,,,,,1,Fortaleza,privada
+A00022,2023,11,54.72,16.818181818181817,,,,,,0,Fortaleza,privada
+A00023,2023,8,54.12,14.375,,,,,,1,Juazeiro do Norte,Não informado
+A00023,2024,8,55.88,8.125,,,,,,1,Juazeiro do Norte,Não informado
+A00024,2021,7,63.1,15.0,13.0,12.0,0.923,61.48,4.0,1,Maracanaú,Federal
+A00024,2022,11,57.44,13.636363636363637,,,,,,0,Maracanaú,Federal
+A00025,2021,8,52.09,16.25,,,,61.27,4.0,1,Crato,Publica
+A00025,2022,8,61.86,11.875,,,,,,1,Crato,Publica
+A00026,2021,8,57.96,16.25,,,,49.2,4.0,1,Juazeiro do Norte,privada
+A00026,2022,9,56.56,28.333333333333332,,,,,,1,Juazeiro do Norte,privada
+A00027,2024,10,55.84,9.0,,,,,,1,Pacatuba,Pública
+A00028,2023,8,64.51,12.5,,,,,,0,Pacatuba,Pública
+A00029,2024,7,55.19,19.285714285714285,,,,,,1,Eusébio,Publica
+A00030,2025,9,60.88,11.666666666666666,,,,,,0,Fortaleza,Privada
+A00031,2022,9,55.24,26.11111111111111,,,,,,0,Crato,Privada
+A00031,2023,10,55.51,12.5,,,,,,1,Crato,Privada
+A00031,2024,7,59.31,22.142857142857142,,,,,,1,Crato,Privada
+A00032,2024,11,58.26,7.7272727272727275,,,,,,0,Sobral,Não informado
+A00033,2021,8,58.64,8.75,12.0,9.0,0.75,73.47,4.0,0,Maracanaú,Não informado
+A00033,2022,7,48.09,7.142857142857143,,,,,,0,Maracanaú,Não informado
+A00034,2023,10,63.25,15.0,,,,,,1,Juazeiro do Norte,Federal
+A00035,2022,9,58.56,3.888888888888889,,,,,,1,Eusébio,Federal
+A00036,2023,11,54.9,17.727272727272727,,,,,,0,Sobral,Pública
+A00037,2024,11,55.25,7.7272727272727275,,,,,,0,Fortaleza,Federal
+A00037,2025,11,61.61,14.090909090909092,,,,,,1,Fortaleza,Federal
+A00038,2022,9,52.74,17.77777777777778,,,,,,0,Sobral,Pública
+A00038,2023,10,62.1,13.0,,,,,,0,Sobral,Pública
+A00039,2023,7,58.89,9.285714285714286,,,,,,0,Fortaleza,Publica
+A00040,2021,8,57.96,15.0,9.0,7.0,0.778,65.6,4.0,0,Pacatuba,Publica
+A00041,2023,2,54.1,0.0,,,,,,0,Horizonte,Federal

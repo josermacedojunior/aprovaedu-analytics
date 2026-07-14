@@ -1,0 +1,501 @@
+aula_id,oferta_id,ano,data_aula,materia,professor_id,turma,tema_aula,duracao_min,modalidade_aula
+L0000001,O20210001,2021,2021-02-25,Matemática,P002,Extensivo A,Laboratório Matemática,50,Presencial
+L0000002,O20210001,2021,2021-02-17,Matemática,P002,Extensivo A,Laboratório Matemática,60,Híbrido
+L0000003,O20210001,2021,2021-03-16,Matemática,P002,Extensivo A,Resolução de questões Matemática,120,online
+L0000004,O20210001,2021,2021-03-05,Matemática,P002,Extensivo A, Matemática,90,online
+L0000005,O20210001,2021,2021-04-28,Matemática,P002,Extensivo A,Laboratório Matemática,,
+L0000006,O20210001,2021,2021-04-04,Matemática,P002,Extensivo A,Correção de simulado Matemática,75,
+L0000007,O20210001,2021,2021-05-10,Matemática,P002,Extensivo A,Resolução de questões Matemática,75,Online
+L0000008,O20210001,2021,2021-05-17,Matemática,P002,Extensivo A, Matemática,60,Online
+L0000009,O20210001,2021,2021-06-22,Matemática,P002,Extensivo A,Aula teórica Matemática,60,online
+L0000010,O20210001,2021,2021-06-24,Matemática,P002,Extensivo A,Aula teórica Matemática,75,Híbrido
+L0000011,O20210002,2021,2021-02-09,Física,P006,Extensivo A, Física,120,Online
+L0000012,O20210002,2021,2021-02-21,Física,P006,Extensivo A,Revisão Física,120,Online
+L0000013,O20210002,2021,2021-03-02,Física,P006,Extensivo A,Aula teórica Física,50,online
+L0000014,O20210002,2021,2021-03-12,Física,P006,Extensivo A, Física,75,
+L0000015,O20210002,2021,2021-04-10,Física,P006,Extensivo A,Aula teórica Física,120,Online
+L0000016,O20210002,2021,2021-04-03,Física,P006,Extensivo A, Física,120,Presencial
+L0000017,O20210002,2021,2021-05-11,Física,P006,Extensivo A, Física,60,Presencial
+L0000018,O20210002,2021,2021-05-14,Física,P006,Extensivo A,Correção de simulado Física,120,
+L0000019,O20210002,2021,2021-06-13,Física,P006,Extensivo A,Revisão Física,120,Online
+L0000020,O20210002,2021,2021-06-03,Física,P006,Extensivo A,Revisão Física,120,online
+L0000021,O20210002,2021,2021-07-02,Física,P006,Extensivo A,Laboratório Física,75,Presencial
+L0000022,O20210002,2021,2021-07-12,Física,P006,Extensivo A,Resolução de questões Física,90,Presencial
+L0000023,O20210002,2021,2021-08-18,Física,P006,Extensivo A,Revisão Física,120,
+L0000024,O20210002,2021,2021-08-15,Física,P006,Extensivo A,Resolução de questões Física,120,Presencial
+L0000025,O20210003,2021,2021-02-24,QUÍMICA,P008,Extensivo A,Resolução de questões Química,120,Presencial
+L0000026,O20210003,2021,2021-02-19,QUÍMICA,P008,Extensivo A,Laboratório Química,60,Online
+L0000027,O20210003,2021,2021-03-01,QUÍMICA,P008,Extensivo A, Química,50,Presencial
+L0000028,O20210003,2021,2021-03-11,QUÍMICA,P008,Extensivo A, Química,120,Online
+L0000029,O20210003,2021,05/04/2021,QUÍMICA,P008,Extensivo A,Resolução de questões Química,,
+L0000030,O20210003,2021,2021-04-02,QUÍMICA,P008,Extensivo A,Aula teórica Química,60,Presencial
+L0000031,O20210003,2021,2021-05-28,QUÍMICA,P008,Extensivo A,Revisão Química,50,Híbrido
+L0000032,O20210003,2021,2021-05-03,QUÍMICA,P008,Extensivo A,Correção de simulado Química,90,Híbrido
+L0000033,O20210003,2021,2021-06-22,QUÍMICA,P008,Extensivo A,Laboratório Química,50,
+L0000034,O20210003,2021,2021-06-08,QUÍMICA,P008,Extensivo A,Resolução de questões Química,90,Online
+L0000035,O20210003,2021,2021-07-25,QUÍMICA,P008,Extensivo A,Aula teórica Química,75,Online
+L0000036,O20210003,2021,2021-07-14,QUÍMICA,P008,Extensivo A,Correção de simulado Química,120,online
+L0000037,O20210003,2021,2021-08-19,QUÍMICA,P008,Extensivo A, Química,120,Híbrido
+L0000038,O20210004,2021,2021-02-12,Biologia,P010,Extensivo A,Correção de simulado Biologia,,online
+L0000039,O20210004,2021,2021-02-20,Biologia,P010,Extensivo A,Revisão Biologia,50,Híbrido
+L0000040,O20210004,2021,2021-03-25,Biologia,P010,Extensivo A,Laboratório Biologia,90,Híbrido
+L0000041,O20210004,2021,2021-03-02,Biologia,P010,Extensivo A,Revisão Biologia,75,
+L0000042,O20210004,2021,2021-04-19,Biologia,P010,Extensivo A, Biologia,,
+L0000043,O20210004,2021,2021-04-09,Biologia,P010,Extensivo A,Resolução de questões Biologia,50,online
+L0000044,O20210004,2021,2021-05-11,Biologia,P010,Extensivo A,Revisão Biologia,90,Híbrido
+L0000045,O20210004,2021,2021-05-13,Biologia,P010,Extensivo A,Resolução de questões Biologia,,Online
+L0000046,O20210004,2021,2021-06-14,Biologia,P010,Extensivo A,Laboratório Biologia,75,
+L0000047,O20210004,2021,2021-06-22,Biologia,P010,Extensivo A,Resolução de questões Biologia,90,Online
+L0000048,O20210004,2021,2021-07-23,Biologia,P010,Extensivo A, Biologia,90,
+L0000049,O20210005,2021,2021-02-15,História,P014,Extensivo A,Revisão História,120,
+L0000050,O20210005,2021,2021/02/21,História,P014,Extensivo A, História,90,Híbrido
+L0000051,O20210005,2021,2021-03-09,História,P014,Extensivo A,Aula teórica História,90,
+L0000052,O20210005,2021,2021-03-09,História,P014,Extensivo A,Aula teórica História,90,online
+L0000053,O20210005,2021,2021-04-13,História,P014,Extensivo A,Resolução de questões História,90,online
+L0000054,O20210005,2021,2021-04-27,História,P014,Extensivo A,Resolução de questões História,75,Online
+L0000055,O20210005,2021,2021-05-09,História,P014,Extensivo A,Aula teórica História,75,
+L0000056,O20210005,2021,2021-05-24,História,P014,Extensivo A,Aula teórica História,50,Presencial
+L0000057,O20210005,2021,2021-06-20,História,P014,Extensivo A,Aula teórica História,75,Híbrido
+L0000058,O20210005,2021,2021-06-15,História,P014,Extensivo A,Resolução de questões História,50,Híbrido
+L0000059,O20210005,2021,2021-07-05,História,P014,Extensivo A, História,75,online
+L0000060,O20210005,2021,2021-07-10,História,P014,Extensivo A, História,75,Online
+L0000061,O20210005,2021,2021-08-11,História,P014,Extensivo A,Revisão História,120,
+L0000062,O20210005,2021,2021-08-10,História,P014,Extensivo A,Laboratório História,50,Presencial
+L0000063,O20210006,2021,2021-02-06,Geografia,P016,Extensivo A, Geografia,,
+L0000064,O20210006,2021,2021-02-09,Geografia,P016,Extensivo A,Aula teórica Geografia,,Online
+L0000065,O20210006,2021,2021-03-05,Geografia,P016,Extensivo A, Geografia,90,Híbrido
+L0000066,O20210006,2021,2021-03-13,Geografia,P016,Extensivo A,Correção de simulado Geografia,50,Online
+L0000067,O20210006,2021,2021-04-24,Geografia,P016,Extensivo A,Aula teórica Geografia,75,Online
+L0000068,O20210006,2021,2021-04-07,Geografia,P016,Extensivo A,Aula teórica Geografia,50,online
+L0000069,O20210006,2021,2021-05-06,Geografia,P016,Extensivo A,Laboratório Geografia,60,Online
+L0000070,O20210006,2021,2021-05-10,Geografia,P016,Extensivo A,Resolução de questões Geografia,90,Presencial
+L0000071,O20210006,2021,2021-06-10,Geografia,P016,Extensivo A, Geografia,120,Presencial
+L0000072,O20210006,2021,2021-06-20,Geografia,P016,Extensivo A,Resolução de questões Geografia,,
+L0000073,O20210006,2021,2021-07-21,Geografia,P016,Extensivo A,Correção de simulado Geografia,60,Online
+L0000074,O20210007,2021,2021-02-13,Português,P019,Extensivo A,Correção de simulado Português,90,Híbrido
+L0000075,O20210007,2021,2021-02-06,Português,P019,Extensivo A,Laboratório Português,90,online
+L0000076,O20210007,2021,2021-03-05,Português,P019,Extensivo A,Revisão Português,50,Presencial
+L0000077,O20210007,2021,2021-03-08,Português,P019,Extensivo A, Português,90,online
+L0000078,O20210007,2021,2021-04-16,Português,P019,Extensivo A,Revisão Português,75,online
+L0000079,O20210007,2021,2021-04-08,Português,P019,Extensivo A,Laboratório Português,75,Presencial
+L0000080,O20210007,2021,2021-05-06,Português,P019,Extensivo A, Português,,online
+L0000081,O20210007,2021,2021-05-25,Português,P019,Extensivo A,Revisão Português,90,online
+L0000082,O20210007,2021,2021-06-06,Português,P019,Extensivo A,Aula teórica Português,50,Híbrido
+L0000083,O20210007,2021,2021-06-19,Português,P019,Extensivo A,Correção de simulado Português,60,
+L0000084,O20210008,2021,2021-02-03,Redação,P023,Extensivo A,Resolução de questões Redação,120,Online
+L0000085,O20210008,2021,2021-02-23,Redação,P023,Extensivo A,Revisão Redação,90,Online
+L0000086,O20210008,2021,2021-03-05,Redação,P023,Extensivo A,Resolução de questões Redação,75,Híbrido
+L0000087,O20210008,2021,2021-03-21,Redação,P023,Extensivo A,Aula teórica Redação,90,Presencial
+L0000088,O20210008,2021,2021-04-09,Redação,P023,Extensivo A,Revisão Redação,90,
+L0000089,O20210008,2021,2021-04-02,Redação,P023,Extensivo A,Correção de simulado Redação,60,Híbrido
+L0000090,O20210008,2021,08/05/2021,Redação,P023,Extensivo A,Aula teórica Redação,75,Híbrido
+L0000091,O20210008,2021,2021-05-12,Redação,P023,Extensivo A,Revisão Redação,75,
+L0000092,O20210008,2021,2021-06-24,Redação,P023,Extensivo A,Aula teórica Redação,120,
+L0000093,O20210008,2021,2021-06-10,Redação,P023,Extensivo A,Resolução de questões Redação,120,Online
+L0000094,O20210008,2021,2021-07-02,Redação,P023,Extensivo A,Revisão Redação,,Online
+L0000095,O20210008,2021,2021-07-01,Redação,P023,Extensivo A, Redação,50,
+L0000096,O20210008,2021,2021-08-02,Redação,P023,Extensivo A,Correção de simulado Redação,,online
+L0000097,O20210009,2021,2021-02-01,Inglês,P025,Extensivo A,Laboratório Inglês,60,Presencial
+L0000098,O20210009,2021,03/02/2021,Inglês,P025,Extensivo A, Inglês,,Online
+L0000099,O20210009,2021,2021-03-08,Inglês,P025,Extensivo A,Correção de simulado Inglês,90,Online
+L0000100,O20210009,2021,2021-03-15,Inglês,P025,Extensivo A,Laboratório Inglês,120,
+L0000101,O20210009,2021,2021-04-13,Inglês,P025,Extensivo A,Resolução de questões Inglês,90,Online
+L0000102,O20210009,2021,04-16-2021,Inglês,P025,Extensivo A, Inglês,,Presencial
+L0000103,O20210009,2021,2021-05-18,Inglês,P025,Extensivo A,Revisão Inglês,120,Híbrido
+L0000104,O20210009,2021,2021/05/09,Inglês,P025,Extensivo A,Laboratório Inglês,,Híbrido
+L0000105,O20210009,2021,2021-06-08,Inglês,P025,Extensivo A,Aula teórica Inglês,,Online
+L0000106,O20210009,2021,2021-06-23,Inglês,P025,Extensivo A, Inglês,50,online
+L0000107,O20210009,2021,2021-07-23,Inglês,P025,Extensivo A,Laboratório Inglês,,
+L0000108,O20210009,2021,2021-07-23,Inglês,P025,Extensivo A,Correção de simulado Inglês,120,Presencial
+L0000109,O20210009,2021,2021-08-06,Inglês,P025,Extensivo A,Aula teórica Inglês,120,Presencial
+L0000110,O20210010,2021,2021-02-05,Filosofia,P030,Extensivo A,Aula teórica Filosofia,120,online
+L0000111,O20210010,2021,02-28-2021,Filosofia,P030,Extensivo A,Revisão Filosofia,,Presencial
+L0000112,O20210010,2021,2021-03-05,Filosofia,P030,Extensivo A,Laboratório Filosofia,60,Online
+L0000113,O20210010,2021,2021-03-08,Filosofia,P030,Extensivo A,Correção de simulado Filosofia,75,Presencial
+L0000114,O20210010,2021,2021-04-20,Filosofia,P030,Extensivo A,Resolução de questões Filosofia,90,
+L0000115,O20210010,2021,2021-04-19,Filosofia,P030,Extensivo A, Filosofia,75,online
+L0000116,O20210010,2021,2021-05-02,Filosofia,P030,Extensivo A,Revisão Filosofia,50,Presencial
+L0000117,O20210010,2021,2021-05-02,Filosofia,P030,Extensivo A, Filosofia,60,online
+L0000118,O20210011,2021,2021-02-10,Sociologia,P034,Extensivo A,Aula teórica Sociologia,60,Presencial
+L0000119,O20210011,2021,2021-02-14,Sociologia,P034,Extensivo A,Resolução de questões Sociologia,90,online
+L0000120,O20210011,2021,2021-03-06,Sociologia,P034,Extensivo A,Aula teórica Sociologia,120,Online
+L0000121,O20210011,2021,2021-03-17,Sociologia,P034,Extensivo A,Laboratório Sociologia,120,
+L0000122,O20210011,2021,2021-04-28,Sociologia,P034,Extensivo A, Sociologia,120,
+L0000123,O20210011,2021,2021-04-20,Sociologia,P034,Extensivo A,Revisão Sociologia,90,Híbrido
+L0000124,O20210011,2021,2021-05-10,Sociologia,P034,Extensivo A, Sociologia,120,Presencial
+L0000125,O20210011,2021,05-05-2021,Sociologia,P034,Extensivo A,Resolução de questões Sociologia,,Híbrido
+L0000126,O20210012,2021,2021-02-14,MATEMÁTICA,P004,Extensivo B, Matemática,60,Híbrido
+L0000127,O20210012,2021,2021-02-19,MATEMÁTICA,P004,Extensivo B,Laboratório Matemática,50,online
+L0000128,O20210012,2021,2021-03-04,MATEMÁTICA,P004,Extensivo B,Aula teórica Matemática,90,
+L0000129,O20210012,2021,2021/03/02,MATEMÁTICA,P004,Extensivo B, Matemática,50,Híbrido
+L0000130,O20210012,2021,2021-04-10,MATEMÁTICA,P004,Extensivo B,Correção de simulado Matemática,,
+L0000131,O20210012,2021,2021-04-06,MATEMÁTICA,P004,Extensivo B,Aula teórica Matemática,,
+L0000132,O20210012,2021,2021-05-01,MATEMÁTICA,P004,Extensivo B,Aula teórica Matemática,60,online
+L0000133,O20210012,2021,2021-05-19,MATEMÁTICA,P004,Extensivo B,Resolução de questões Matemática,,Híbrido
+L0000134,O20210012,2021,2021-06-04,MATEMÁTICA,P004,Extensivo B,Laboratório Matemática,,Presencial
+L0000135,O20210012,2021,2021-06-19,MATEMÁTICA,P004,Extensivo B,Laboratório Matemática,75,
+L0000136,O20210012,2021,2021-07-03,MATEMÁTICA,P004,Extensivo B,Resolução de questões Matemática,50,Online
+L0000137,O20210013,2021,2021-02-16,Física,P006,Extensivo B, Física,120,
+L0000138,O20210013,2021,2021-02-28,Física,P006,Extensivo B,Resolução de questões Física,,
+L0000139,O20210013,2021,2021-03-24,Física,P006,Extensivo B,Laboratório Física,120,Online
+L0000140,O20210013,2021,2021-03-22,Física,P006,Extensivo B,Laboratório Física,60,Online
+L0000141,O20210013,2021,2021-04-11,Física,P006,Extensivo B,Laboratório Física,75,
+L0000142,O20210013,2021,2021-04-18,Física,P006,Extensivo B,Revisão Física,60,Híbrido
+L0000143,O20210013,2021,2021-05-13,Física,P006,Extensivo B,Aula teórica Física,120,
+L0000144,O20210013,2021,2021-05-08,Física,P006,Extensivo B,Aula teórica Física,75,Híbrido
+L0000145,O20210014,2021,2021-02-09,Química,P008,Extensivo B, Química,,Online
+L0000146,O20210014,2021,2021-02-06,Química,P008,Extensivo B,Revisão Química,50,Presencial
+L0000147,O20210014,2021,2021-03-11,Química,P008,Extensivo B,Aula teórica Química,,Presencial
+L0000148,O20210014,2021,2021-03-19,Química,P008,Extensivo B,Correção de simulado Química,60,Presencial
+L0000149,O20210014,2021,2021-04-12,Química,P008,Extensivo B,Resolução de questões Química,120,
+L0000150,O20210014,2021,2021-04-26,Química,P008,Extensivo B, Química,,online
+L0000151,O20210014,2021,2021-05-17,Química,P008,Extensivo B,Aula teórica Química,120,Online
+L0000152,O20210014,2021,2021-05-15,Química,P008,Extensivo B,Laboratório Química,90,
+L0000153,O20210014,2021,2021-06-08,Química,P008,Extensivo B,Aula teórica Química,50,Presencial
+L0000154,O20210014,2021,2021-06-12,Química,P008,Extensivo B, Química,75,online
+L0000155,O20210015,2021,2021-02-10,Biologia,P010,Extensivo B,Aula teórica Biologia,50,Online
+L0000156,O20210015,2021,2021-02-18,Biologia,P010,Extensivo B,Revisão Biologia,,Híbrido
+L0000157,O20210015,2021,2021-03-09,Biologia,P010,Extensivo B,Aula teórica Biologia,90,
+L0000158,O20210015,2021,2021-03-26,Biologia,P010,Extensivo B,Correção de simulado Biologia,120,Híbrido
+L0000159,O20210015,2021,2021-04-03,Biologia,P010,Extensivo B, Biologia,75,online
+L0000160,O20210015,2021,2021-04-02,Biologia,P010,Extensivo B,Revisão Biologia,75,online
+L0000161,O20210015,2021,2021-05-17,Biologia,P010,Extensivo B,Resolução de questões Biologia,75,Híbrido
+L0000162,O20210015,2021,2021-05-23,Biologia,P010,Extensivo B,Correção de simulado Biologia,90,Online
+L0000163,O20210016,2021,2021-02-01,História,P015,Extensivo B,Correção de simulado História,120,online
+L0000164,O20210016,2021,2021-02-16,História,P015,Extensivo B,Correção de simulado História,75,online
+L0000165,O20210016,2021,2021-03-04,História,P015,Extensivo B,Laboratório História,90,
+L0000166,O20210016,2021,2021-03-17,História,P015,Extensivo B, História,90,online
+L0000167,O20210016,2021,2021-04-11,História,P015,Extensivo B,Revisão História,50,
+L0000168,O20210016,2021,2021-04-20,História,P015,Extensivo B, História,75,
+L0000169,O20210016,2021,2021-05-13,História,P015,Extensivo B,Aula teórica História,60,Presencial
+L0000170,O20210016,2021,2021-05-21,História,P015,Extensivo B,Revisão História,50,online
+L0000171,O20210016,2021,2021-06-01,História,P015,Extensivo B,Revisão História,90,online
+L0000172,O20210016,2021,2021-06-16,História,P015,Extensivo B,Correção de simulado História,,
+L0000173,O20210016,2021,2021-07-19,História,P015,Extensivo B,Laboratório História,90,
+L0000174,O20210016,2021,2021-07-18,História,P015,Extensivo B,Aula teórica História,50,Online
+L0000175,O20210016,2021,2021-08-01,História,P015,Extensivo B,Laboratório História,60,online
+L0000176,O20210017,2021,2021-02-01,Geografia,P018,Extensivo B, Geografia,50,Online
+L0000177,O20210017,2021,2021-02-06,Geografia,P018,Extensivo B,Aula teórica Geografia,120,Presencial
+L0000178,O20210017,2021,2021-03-22,Geografia,P018,Extensivo B, Geografia,50,Presencial
+L0000179,O20210017,2021,2021-03-06,Geografia,P018,Extensivo B,Revisão Geografia,50,online
+L0000180,O20210017,2021,2021-04-27,Geografia,P018,Extensivo B,Laboratório Geografia,60,Híbrido
+L0000181,O20210017,2021,2021-04-13,Geografia,P018,Extensivo B,Revisão Geografia,,
+L0000182,O20210017,2021,2021-05-11,Geografia,P018,Extensivo B, Geografia,120,Presencial
+L0000183,O20210017,2021,2021-05-19,Geografia,P018,Extensivo B, Geografia,120,online
+L0000184,O20210017,2021,2021/06/22,Geografia,P018,Extensivo B,Resolução de questões Geografia,,Híbrido
+L0000185,O20210017,2021,2021-06-17,Geografia,P018,Extensivo B,Correção de simulado Geografia,50,Presencial
+L0000186,O20210017,2021,2021-07-12,Geografia,P018,Extensivo B,Laboratório Geografia,,Online
+L0000187,O20210018,2021,2021-02-12,Português,P020,Extensivo B,Aula teórica Português,,Online
+L0000188,O20210018,2021,2021-02-15,Português,P020,Extensivo B,Aula teórica Português,,Presencial
+L0000189,O20210018,2021,2021-03-25,Português,P020,Extensivo B,Correção de simulado Português,50,Online
+L0000190,O20210018,2021,2021-03-14,Português,P020,Extensivo B,Resolução de questões Português,,Online
+L0000191,O20210018,2021,2021-04-03,Português,P020,Extensivo B, Português,,Online
+L0000192,O20210018,2021,2021-04-08,Português,P020,Extensivo B,Resolução de questões Português,60,Online
+L0000193,O20210018,2021,2021/05/03,Português,P020,Extensivo B,Laboratório Português,75,Online
+L0000194,O20210018,2021,2021-05-10,Português,P020,Extensivo B,Aula teórica Português,120,
+L0000195,O20210018,2021,2021-06-27,Português,P020,Extensivo B,Aula teórica Português,,online
+L0000196,O20210018,2021,2021-06-02,Português,P020,Extensivo B,Revisão Português,,online
+L0000197,O20210019,2021,2021-02-02,Redação,P022,Extensivo B, Redação,60,
+L0000198,O20210019,2021,2021-02-22,Redação,P022,Extensivo B,Laboratório Redação,,online
+L0000199,O20210019,2021,2021-03-12,Redação,P022,Extensivo B,Revisão Redação,90,Híbrido
+L0000200,O20210019,2021,2021-03-10,Redação,P022,Extensivo B, Redação,90,Presencial
+L0000201,O20210019,2021,2021-04-03,Redação,P022,Extensivo B, Redação,50,
+L0000202,O20210019,2021,2021-04-04,Redação,P022,Extensivo B,Laboratório Redação,90,
+L0000203,O20210019,2021,2021-05-01,Redação,P022,Extensivo B,Aula teórica Redação,60,Presencial
+L0000204,O20210019,2021,2021-05-18,Redação,P022,Extensivo B,Resolução de questões Redação,120,
+L0000205,O20210019,2021,2021-06-15,Redação,P022,Extensivo B,Laboratório Redação,,online
+L0000206,O20210020,2021,2021-02-13,Inglês,P024,Extensivo B, Inglês,50,
+L0000207,O20210020,2021,2021-02-01,Inglês,P024,Extensivo B, Inglês,60,
+L0000208,O20210020,2021,2021-03-03,Inglês,P024,Extensivo B, Inglês,60,Presencial
+L0000209,O20210020,2021,2021-03-19,Inglês,P024,Extensivo B,Revisão Inglês,,Presencial
+L0000210,O20210020,2021,2021-04-12,Inglês,P024,Extensivo B,Revisão Inglês,,Presencial
+L0000211,O20210020,2021,2021-04-20,Inglês,P024,Extensivo B,Resolução de questões Inglês,75,online
+L0000212,O20210020,2021,2021-05-22,Inglês,P024,Extensivo B,Revisão Inglês,75,online
+L0000213,O20210020,2021,2021-05-10,Inglês,P024,Extensivo B,Laboratório Inglês,75,Presencial
+L0000214,O20210020,2021,2021-06-18,Inglês,P024,Extensivo B, Inglês,,Híbrido
+L0000215,O20210020,2021,2021-06-22,Inglês,P024,Extensivo B,Aula teórica Inglês,120,online
+L0000216,O20210020,2021,2021-07-03,Inglês,P024,Extensivo B,Correção de simulado Inglês,50,online
+L0000217,O20210020,2021,2021-07-28,Inglês,P024,Extensivo B,Resolução de questões Inglês,50,Presencial
+L0000218,O20210020,2021,2021-08-01,Inglês,P024,Extensivo B,Revisão Inglês,120,Online
+L0000219,O20210021,2021,2021-02-04,Filosofia,P030,Extensivo B,Correção de simulado Filosofia,,Híbrido
+L0000220,O20210021,2021,2021-02-09,Filosofia,P030,Extensivo B,Laboratório Filosofia,,online
+L0000221,O20210021,2021,2021-03-12,Filosofia,P030,Extensivo B, Filosofia,50,online
+L0000222,O20210021,2021,2021-03-08,Filosofia,P030,Extensivo B,Resolução de questões Filosofia,50,Online
+L0000223,O20210021,2021,2021-04-15,Filosofia,P030,Extensivo B,Revisão Filosofia,120,online
+L0000224,O20210021,2021,2021-04-18,Filosofia,P030,Extensivo B,Aula teórica Filosofia,90,Presencial
+L0000225,O20210021,2021,2021-05-07,Filosofia,P030,Extensivo B,Aula teórica Filosofia,75,Híbrido
+L0000226,O20210021,2021,2021-05-03,Filosofia,P030,Extensivo B,Revisão Filosofia,75,online
+L0000227,O20210022,2021,2021-02-17,Sociologia,P031,Extensivo B,Resolução de questões Sociologia,50,Híbrido
+L0000228,O20210022,2021,2021-02-20,Sociologia,P031,Extensivo B,Correção de simulado Sociologia,,Online
+L0000229,O20210022,2021,2021-03-22,Sociologia,P031,Extensivo B, Sociologia,120,Presencial
+L0000230,O20210022,2021,2021-03-15,Sociologia,P031,Extensivo B,Aula teórica Sociologia,90,Online
+L0000231,O20210022,2021,2021-04-01,Sociologia,P031,Extensivo B,Aula teórica Sociologia,,online
+L0000232,O20210022,2021,2021-04-05,Sociologia,P031,Extensivo B,Laboratório Sociologia,,Híbrido
+L0000233,O20210022,2021,2021-05-15,Sociologia,P031,Extensivo B,Revisão Sociologia,120,online
+L0000234,O20210022,2021,2021-05-19,Sociologia,P031,Extensivo B,Revisão Sociologia,120,online
+L0000235,O20210022,2021,2021-06-01,Sociologia,P031,Extensivo B,Aula teórica Sociologia,60,
+L0000236,O20210023,2021,2021-02-18,Matemática,P003,Intensivo ENEM,Correção de simulado Matemática,50,online
+L0000237,O20210023,2021,2021-02-28,Matemática,P003,Intensivo ENEM,Correção de simulado Matemática,60,online
+L0000238,O20210023,2021,2021-03-18,Matemática,P003,Intensivo ENEM,Resolução de questões Matemática,90,
+L0000239,O20210023,2021,2021-03-07,Matemática,P003,Intensivo ENEM,Resolução de questões Matemática,75,Híbrido
+L0000240,O20210023,2021,2021-04-01,Matemática,P003,Intensivo ENEM,Revisão Matemática,120,Híbrido
+L0000241,O20210023,2021,2021-04-19,Matemática,P003,Intensivo ENEM,Revisão Matemática,50,Híbrido
+L0000242,O20210023,2021,2021/05/07,Matemática,P003,Intensivo ENEM,Correção de simulado Matemática,120,online
+L0000243,O20210023,2021,2021-05-27,Matemática,P003,Intensivo ENEM,Laboratório Matemática,,online
+L0000244,O20210023,2021,2021-06-18,Matemática,P003,Intensivo ENEM,Revisão Matemática,120,online
+L0000245,O20210024,2021,2021-02-14,Física,P007,Intensivo ENEM,Aula teórica Física,120,Online
+L0000246,O20210024,2021,2021-02-26,Física,P007,Intensivo ENEM,Laboratório Física,120,online
+L0000247,O20210024,2021,2021/03/03,Física,P007,Intensivo ENEM,Correção de simulado Física,120,Online
+L0000248,O20210024,2021,2021-03-14,Física,P007,Intensivo ENEM, Física,60,Híbrido
+L0000249,O20210024,2021,2021-04-24,Física,P007,Intensivo ENEM,Laboratório Física,,online
+L0000250,O20210024,2021,2021-04-17,Física,P007,Intensivo ENEM,Resolução de questões Física,75,online
+L0000251,O20210024,2021,2021-05-09,Física,P007,Intensivo ENEM,Revisão Física,75,online
+L0000252,O20210024,2021,2021-05-24,Física,P007,Intensivo ENEM,Correção de simulado Física,75,Presencial
+L0000253,O20210024,2021,2021-06-21,Física,P007,Intensivo ENEM,Laboratório Física,120,Híbrido
+L0000254,O20210025,2021,2021-02-26,Química,P008,Intensivo ENEM,Resolução de questões Química,75,Online
+L0000255,O20210025,2021,2021-02-07,Química,P008,Intensivo ENEM, Química,90,Presencial
+L0000256,O20210025,2021,2021-03-11,Química,P008,Intensivo ENEM, Química,120,Presencial
+L0000257,O20210025,2021,28/03/2021,Química,P008,Intensivo ENEM, Química,,Presencial
+L0000258,O20210025,2021,2021-04-18,Química,P008,Intensivo ENEM, Química,,
+L0000259,O20210025,2021,2021-04-07,Química,P008,Intensivo ENEM,Resolução de questões Química,90,online
+L0000260,O20210025,2021,2021-05-26,Química,P008,Intensivo ENEM,Aula teórica Química,60,Híbrido
+L0000261,O20210025,2021,2021-05-08,Química,P008,Intensivo ENEM,Resolução de questões Química,120,Presencial
+L0000262,O20210025,2021,2021-06-09,Química,P008,Intensivo ENEM,Laboratório Química,60,Presencial
+L0000263,O20210026,2021,2021-02-21,Biologia,P013,Intensivo ENEM, Biologia,60,Híbrido
+L0000264,O20210026,2021,2021-02-26,Biologia,P013,Intensivo ENEM,Resolução de questões Biologia,60,
+L0000265,O20210026,2021,2021-03-20,Biologia,P013,Intensivo ENEM,Revisão Biologia,,Online
+L0000266,O20210026,2021,2021-03-06,Biologia,P013,Intensivo ENEM,Laboratório Biologia,90,Presencial
+L0000267,O20210026,2021,2021-04-12,Biologia,P013,Intensivo ENEM,Revisão Biologia,60,Híbrido
+L0000268,O20210026,2021,2021-04-27,Biologia,P013,Intensivo ENEM,Resolução de questões Biologia,,Presencial
+L0000269,O20210026,2021,2021-05-08,Biologia,P013,Intensivo ENEM,Laboratório Biologia,,Online
+L0000270,O20210026,2021,12/05/2021,Biologia,P013,Intensivo ENEM, Biologia,60,
+L0000271,O20210026,2021,2021-06-16,Biologia,P013,Intensivo ENEM,Aula teórica Biologia,,online
+L0000272,O20210026,2021,2021-06-24,Biologia,P013,Intensivo ENEM,Revisão Biologia,60,Híbrido
+L0000273,O20210026,2021,2021-07-06,Biologia,P013,Intensivo ENEM,Correção de simulado Biologia,75,online
+L0000274,O20210026,2021,2021-07-03,Biologia,P013,Intensivo ENEM, Biologia,90,
+L0000275,O20210027,2021,2021-02-08,História,P015,Intensivo ENEM,Aula teórica História,50,Presencial
+L0000276,O20210027,2021,2021-02-21,História,P015,Intensivo ENEM,Laboratório História,50,Híbrido
+L0000277,O20210027,2021,2021-03-13,História,P015,Intensivo ENEM, História,,online
+L0000278,O20210027,2021,2021-03-15,História,P015,Intensivo ENEM,Revisão História,60,Presencial
+L0000279,O20210027,2021,2021-04-04,História,P015,Intensivo ENEM,Revisão História,120,
+L0000280,O20210027,2021,25/04/2021,História,P015,Intensivo ENEM, História,75,Presencial
+L0000281,O20210027,2021,2021-05-21,História,P015,Intensivo ENEM,Correção de simulado História,60,Presencial
+L0000282,O20210027,2021,2021-05-18,História,P015,Intensivo ENEM,Correção de simulado História,,online
+L0000283,O20210027,2021,27/06/2021,História,P015,Intensivo ENEM,Aula teórica História,90,Híbrido
+L0000284,O20210028,2021,2021-02-27,Geografia,P016,Intensivo ENEM,Revisão Geografia,90,Híbrido
+L0000285,O20210028,2021,2021-02-11,Geografia,P016,Intensivo ENEM,Laboratório Geografia,50,online
+L0000286,O20210028,2021,2021-03-19,Geografia,P016,Intensivo ENEM,Laboratório Geografia,50,online
+L0000287,O20210028,2021,2021-03-13,Geografia,P016,Intensivo ENEM,Laboratório Geografia,60,Online
+L0000288,O20210028,2021,2021-04-10,Geografia,P016,Intensivo ENEM,Revisão Geografia,50,
+L0000289,O20210028,2021,04-06-2021,Geografia,P016,Intensivo ENEM,Laboratório Geografia,75,Presencial
+L0000290,O20210028,2021,2021-05-18,Geografia,P016,Intensivo ENEM,Laboratório Geografia,120,Presencial
+L0000291,O20210028,2021,2021-05-14,Geografia,P016,Intensivo ENEM,Revisão Geografia,90,online
+L0000292,O20210028,2021,2021-06-18,Geografia,P016,Intensivo ENEM, Geografia,50,Presencial
+L0000293,O20210029,2021,2021-02-07,Português,P020,Intensivo ENEM, Português,90,
+L0000294,O20210029,2021,2021-02-09,Português,P020,Intensivo ENEM, Português,90,Presencial
+L0000295,O20210029,2021,2021-03-21,Português,P020,Intensivo ENEM,Resolução de questões Português,90,Híbrido
+L0000296,O20210029,2021,2021-03-20,Português,P020,Intensivo ENEM,Aula teórica Português,120,Presencial
+L0000297,O20210029,2021,2021-04-07,Português,P020,Intensivo ENEM, Português,75,Presencial
+L0000298,O20210029,2021,2021-04-10,Português,P020,Intensivo ENEM,Resolução de questões Português,120,online
+L0000299,O20210029,2021,2021-05-13,Português,P020,Intensivo ENEM, Português,75,Online
+L0000300,O20210029,2021,2021-05-04,Português,P020,Intensivo ENEM,Laboratório Português,90,Híbrido
+L0000301,O20210030,2021,2021/02/12,Redação,P023,Intensivo ENEM,Laboratório Redação,75,Online
+L0000302,O20210030,2021,2021-02-16,Redação,P023,Intensivo ENEM, Redação,120,Presencial
+L0000303,O20210030,2021,22/03/2021,Redação,P023,Intensivo ENEM,Resolução de questões Redação,75,Híbrido
+L0000304,O20210030,2021,2021-03-24,Redação,P023,Intensivo ENEM,Resolução de questões Redação,,Híbrido
+L0000305,O20210030,2021,27/04/2021,Redação,P023,Intensivo ENEM, Redação,75,Híbrido
+L0000306,O20210030,2021,2021-04-03,Redação,P023,Intensivo ENEM,Resolução de questões Redação,90,online
+L0000307,O20210030,2021,2021-05-20,Redação,P023,Intensivo ENEM,Laboratório Redação,60,
+L0000308,O20210030,2021,2021-05-16,Redação,P023,Intensivo ENEM,Revisão Redação,120,online
+L0000309,O20210030,2021,2021-06-24,Redação,P023,Intensivo ENEM, Redação,60,Híbrido
+L0000310,O20210030,2021,2021/06/11,Redação,P023,Intensivo ENEM, Redação,75,Híbrido
+L0000311,O20210030,2021,07-12-2021,Redação,P023,Intensivo ENEM,Aula teórica Redação,,
+L0000312,O20210031,2021,2021-02-15,Inglês,P026,Intensivo ENEM,Revisão Inglês,75,online
+L0000313,O20210031,2021,2021-02-20,Inglês,P026,Intensivo ENEM, Inglês,50,Online
+L0000314,O20210031,2021,2021-03-11,Inglês,P026,Intensivo ENEM,Aula teórica Inglês,50,Híbrido
+L0000315,O20210031,2021,03-07-2021,Inglês,P026,Intensivo ENEM,Resolução de questões Inglês,50,
+L0000316,O20210031,2021,2021-04-14,Inglês,P026,Intensivo ENEM,Revisão Inglês,,
+L0000317,O20210031,2021,2021-04-02,Inglês,P026,Intensivo ENEM,Revisão Inglês,50,Presencial
+L0000318,O20210031,2021,2021-05-27,Inglês,P026,Intensivo ENEM, Inglês,120,
+L0000319,O20210031,2021,2021-05-18,Inglês,P026,Intensivo ENEM,Aula teórica Inglês,75,online
+L0000320,O20210031,2021,2021-06-03,Inglês,P026,Intensivo ENEM, Inglês,,Híbrido
+L0000321,O20210031,2021,2021-06-25,Inglês,P026,Intensivo ENEM,Resolução de questões Inglês,,
+L0000322,O20210031,2021,2021-07-20,Inglês,P026,Intensivo ENEM,Resolução de questões Inglês,120,Híbrido
+L0000323,O20210031,2021,2021-07-02,Inglês,P026,Intensivo ENEM,Correção de simulado Inglês,50,Presencial
+L0000324,O20210031,2021,2021-08-17,Inglês,P026,Intensivo ENEM,Revisão Inglês,60,
+L0000325,O20210032,2021,2021-02-26,Filosofia,P028,Intensivo ENEM,Aula teórica Filosofia,120,online
+L0000326,O20210032,2021,2021-02-27,Filosofia,P028,Intensivo ENEM,Laboratório Filosofia,90,Online
+L0000327,O20210032,2021,2021-03-10,Filosofia,P028,Intensivo ENEM,Revisão Filosofia,50,
+L0000328,O20210032,2021,2021-03-01,Filosofia,P028,Intensivo ENEM, Filosofia,60,Online
+L0000329,O20210032,2021,2021-04-17,Filosofia,P028,Intensivo ENEM,Resolução de questões Filosofia,60,
+L0000330,O20210032,2021,2021-04-24,Filosofia,P028,Intensivo ENEM, Filosofia,50,Híbrido
+L0000331,O20210032,2021,2021-05-16,Filosofia,P028,Intensivo ENEM,Resolução de questões Filosofia,50,
+L0000332,O20210032,2021,2021-05-18,Filosofia,P028,Intensivo ENEM,Resolução de questões Filosofia,60,Presencial
+L0000333,O20210033,2021,2021-02-01,Sociologia,P034,Intensivo ENEM,Correção de simulado Sociologia,60,online
+L0000334,O20210033,2021,2021-02-08,Sociologia,P034,Intensivo ENEM,Revisão Sociologia,,Híbrido
+L0000335,O20210033,2021,2021-03-07,Sociologia,P034,Intensivo ENEM, Sociologia,50,online
+L0000336,O20210033,2021,2021-03-18,Sociologia,P034,Intensivo ENEM,Aula teórica Sociologia,60,Híbrido
+L0000337,O20210033,2021,2021-04-13,Sociologia,P034,Intensivo ENEM, Sociologia,60,online
+L0000338,O20210033,2021,12/04/2021,Sociologia,P034,Intensivo ENEM, Sociologia,90,
+L0000339,O20210033,2021,2021-05-02,Sociologia,P034,Intensivo ENEM,Resolução de questões Sociologia,75,Presencial
+L0000340,O20210033,2021,2021-05-18,Sociologia,P034,Intensivo ENEM,Correção de simulado Sociologia,75,Presencial
+L0000341,O20210033,2021,2021-06-28,Sociologia,P034,Intensivo ENEM, Sociologia,50,Híbrido
+L0000342,O20210033,2021,2021-06-11,Sociologia,P034,Intensivo ENEM,Resolução de questões Sociologia,120,Presencial
+L0000343,O20210033,2021,07-17-2021,Sociologia,P034,Intensivo ENEM,Resolução de questões Sociologia,120,Híbrido
+L0000344,O20210033,2021,2021-07-24,Sociologia,P034,Intensivo ENEM,Aula teórica Sociologia,75,
+L0000345,O20210033,2021,2021-08-26,Sociologia,P034,Intensivo ENEM,Aula teórica Sociologia,60,Híbrido
+L0000346,O20210033,2021,2021-08-08,Sociologia,P034,Intensivo ENEM,Revisão Sociologia,60,Online
+L0000347,O20210034,2021,2021-02-03,Matemática,P003,Revisão Final,Resolução de questões Matemática,50,Híbrido
+L0000348,O20210034,2021,2021-02-17,Matemática,P003,Revisão Final,Correção de simulado Matemática,90,online
+L0000349,O20210034,2021,2021-03-13,Matemática,P003,Revisão Final,Aula teórica Matemática,90,
+L0000350,O20210034,2021,2021-03-28,Matemática,P003,Revisão Final,Laboratório Matemática,120,
+L0000351,O20210034,2021,2021-04-27,Matemática,P003,Revisão Final,Laboratório Matemática,,Presencial
+L0000352,O20210034,2021,2021-04-04,Matemática,P003,Revisão Final,Aula teórica Matemática,50,Online
+L0000353,O20210034,2021,2021-05-11,Matemática,P003,Revisão Final,Correção de simulado Matemática,75,Híbrido
+L0000354,O20210034,2021,2021-05-25,Matemática,P003,Revisão Final,Revisão Matemática,60,Híbrido
+L0000355,O20210034,2021,2021-06-25,Matemática,P003,Revisão Final,Revisão Matemática,50,Híbrido
+L0000356,O20210034,2021,2021-06-03,Matemática,P003,Revisão Final,Aula teórica Matemática,60,
+L0000357,O20210034,2021,2021-07-16,Matemática,P003,Revisão Final,Laboratório Matemática,120,Presencial
+L0000358,O20210035,2021,2021-02-08,Física,P006,Revisão Final,Resolução de questões Física,,Híbrido
+L0000359,O20210035,2021,2021-02-19,Física,P006,Revisão Final,Correção de simulado Física,90,Presencial
+L0000360,O20210035,2021,2021-03-21,Física,P006,Revisão Final,Aula teórica Física,50,Online
+L0000361,O20210035,2021,2021-03-16,Física,P006,Revisão Final,Resolução de questões Física,75,Híbrido
+L0000362,O20210035,2021,2021-04-07,Física,P006,Revisão Final,Correção de simulado Física,,
+L0000363,O20210035,2021,2021-04-07,Física,P006,Revisão Final,Resolução de questões Física,50,Online
+L0000364,O20210035,2021,2021-05-10,Física,P006,Revisão Final,Resolução de questões Física,90,online
+L0000365,O20210035,2021,2021-05-06,Física,P006,Revisão Final,Revisão Física,50,Presencial
+L0000366,O20210035,2021,2021-06-23,Física,P006,Revisão Final,Aula teórica Física,75,online
+L0000367,O20210035,2021,2021-06-28,Física,P006,Revisão Final, Física,75,online
+L0000368,O20210035,2021,2021-07-18,Física,P006,Revisão Final, Física,50,Presencial
+L0000369,O20210036,2021,2021-02-22,Química,P009,Revisão Final,Correção de simulado Química,75,Híbrido
+L0000370,O20210036,2021,2021-02-14,Química,P009,Revisão Final,Correção de simulado Química,,Híbrido
+L0000371,O20210036,2021,2021-03-05,Química,P009,Revisão Final,Aula teórica Química,60,Online
+L0000372,O20210036,2021,2021-03-23,Química,P009,Revisão Final,Aula teórica Química,60,
+L0000373,O20210036,2021,2021-04-04,Química,P009,Revisão Final,Revisão Química,120,Online
+L0000374,O20210036,2021,2021-04-07,Química,P009,Revisão Final,Resolução de questões Química,120,Presencial
+L0000375,O20210036,2021,2021-05-19,Química,P009,Revisão Final,Aula teórica Química,,online
+L0000376,O20210036,2021,2021-05-18,Química,P009,Revisão Final,Resolução de questões Química,120,online
+L0000377,O20210036,2021,2021-06-11,Química,P009,Revisão Final,Correção de simulado Química,50,online
+L0000378,O20210036,2021,2021-06-17,Química,P009,Revisão Final, Química,60,online
+L0000379,O20210036,2021,2021-07-06,Química,P009,Revisão Final,Aula teórica Química,60,online
+L0000380,O20210036,2021,2021-07-11,Química,P009,Revisão Final,Resolução de questões Química,50,
+L0000381,O20210036,2021,2021-08-19,Química,P009,Revisão Final, Química,50,Online
+L0000382,O20210037,2021,2021-02-11,BIOLOGIA,P013,Revisão Final,Aula teórica Biologia,120,
+L0000383,O20210037,2021,2021-02-01,BIOLOGIA,P013,Revisão Final, Biologia,120,Online
+L0000384,O20210037,2021,2021-03-11,BIOLOGIA,P013,Revisão Final,Correção de simulado Biologia,60,Híbrido
+L0000385,O20210037,2021,2021-03-24,BIOLOGIA,P013,Revisão Final,Laboratório Biologia,90,online
+L0000386,O20210037,2021,2021-04-03,BIOLOGIA,P013,Revisão Final,Revisão Biologia,60,
+L0000387,O20210037,2021,2021-04-22,BIOLOGIA,P013,Revisão Final,Revisão Biologia,120,Online
+L0000388,O20210037,2021,2021-05-26,BIOLOGIA,P013,Revisão Final,Resolução de questões Biologia,75,
+L0000389,O20210037,2021,2021-05-26,BIOLOGIA,P013,Revisão Final,Revisão Biologia,50,online
+L0000390,O20210037,2021,2021-06-09,BIOLOGIA,P013,Revisão Final,Laboratório Biologia,50,online
+L0000391,O20210037,2021,2021-06-20,BIOLOGIA,P013,Revisão Final,Laboratório Biologia,60,
+L0000392,O20210037,2021,2021-07-21,BIOLOGIA,P013,Revisão Final,Resolução de questões Biologia,75,Online
+L0000393,O20210037,2021,2021-07-22,BIOLOGIA,P013,Revisão Final, Biologia,90,Online
+L0000394,O20210038,2021,2021-02-23,História,P015,Revisão Final,Revisão História,120,online
+L0000395,O20210038,2021,2021-02-17,História,P015,Revisão Final,Laboratório História,,Híbrido
+L0000396,O20210038,2021,2021-03-07,História,P015,Revisão Final,Correção de simulado História,120,
+L0000397,O20210038,2021,2021-03-07,História,P015,Revisão Final,Revisão História,90,Híbrido
+L0000398,O20210038,2021,2021-04-01,História,P015,Revisão Final,Revisão História,50,Híbrido
+L0000399,O20210038,2021,2021-04-04,História,P015,Revisão Final,Resolução de questões História,60,Híbrido
+L0000400,O20210038,2021,2021-05-02,História,P015,Revisão Final, História,120,
+L0000401,O20210038,2021,2021-05-17,História,P015,Revisão Final, História,120,online
+L0000402,O20210038,2021,2021-06-01,História,P015,Revisão Final, História,60,Online
+L0000403,O20210038,2021,01/06/2021,História,P015,Revisão Final,Resolução de questões História,75,online
+L0000404,O20210038,2021,2021-07-13,História,P015,Revisão Final,Revisão História,50,Online
+L0000405,O20210038,2021,2021-07-19,História,P015,Revisão Final,Aula teórica História,90,online
+L0000406,O20210038,2021,2021/08/11,História,P015,Revisão Final,Resolução de questões História,120,Híbrido
+L0000407,O20210038,2021,2021-08-25,História,P015,Revisão Final, História,50,online
+L0000408,O20210039,2021,2021-02-08,Geografia,P016,Revisão Final,Revisão Geografia,75,
+L0000409,O20210039,2021,2021-02-08,Geografia,P016,Revisão Final,Revisão Geografia,75,Híbrido
+L0000410,O20210039,2021,2021-03-20,Geografia,P016,Revisão Final,Aula teórica Geografia,75,Presencial
+L0000411,O20210039,2021,2021-03-06,Geografia,P016,Revisão Final,Resolução de questões Geografia,75,
+L0000412,O20210039,2021,2021-04-21,Geografia,P016,Revisão Final,Revisão Geografia,75,Presencial
+L0000413,O20210039,2021,2021-04-16,Geografia,P016,Revisão Final,Resolução de questões Geografia,75,
+L0000414,O20210039,2021,2021-05-06,Geografia,P016,Revisão Final, Geografia,120,online
+L0000415,O20210039,2021,2021-05-20,Geografia,P016,Revisão Final,Resolução de questões Geografia,90,
+L0000416,O20210039,2021,2021-06-07,Geografia,P016,Revisão Final, Geografia,50,Presencial
+L0000417,O20210039,2021,2021-06-14,Geografia,P016,Revisão Final,Revisão Geografia,60,Presencial
+L0000418,O20210039,2021,2021-07-17,Geografia,P016,Revisão Final,Laboratório Geografia,90,
+L0000419,O20210039,2021,2021-07-19,Geografia,P016,Revisão Final, Geografia,60,Híbrido
+L0000420,O20210039,2021,2021-08-19,Geografia,P016,Revisão Final,Laboratório Geografia,75,Híbrido
+L0000421,O20210039,2021,2021-08-03,Geografia,P016,Revisão Final,Correção de simulado Geografia,60,Híbrido
+L0000422,O20210040,2021,2021-02-22,Português,P019,Revisão Final,Correção de simulado Português,,
+L0000423,O20210040,2021,2021-02-27,Português,P019,Revisão Final,Correção de simulado Português,90,Presencial
+L0000424,O20210040,2021,2021-03-28,Português,P019,Revisão Final, Português,120,
+L0000425,O20210040,2021,2021-03-06,Português,P019,Revisão Final,Aula teórica Português,75,Online
+L0000426,O20210040,2021,2021-04-05,Português,P019,Revisão Final,Aula teórica Português,50,online
+L0000427,O20210040,2021,2021-04-02,Português,P019,Revisão Final,Resolução de questões Português,50,Online
+L0000428,O20210040,2021,2021-05-07,Português,P019,Revisão Final,Aula teórica Português,90,
+L0000429,O20210040,2021,2021-05-23,Português,P019,Revisão Final,Revisão Português,75,
+L0000430,O20210041,2021,2021-02-11,Redação,P022,Revisão Final,Aula teórica Redação,120,Híbrido
+L0000431,O20210041,2021,2021-02-13,Redação,P022,Revisão Final,Resolução de questões Redação,60,
+L0000432,O20210041,2021,2021-03-05,Redação,P022,Revisão Final,Aula teórica Redação,50,Online
+L0000433,O20210041,2021,2021-03-23,Redação,P022,Revisão Final,Laboratório Redação,50,Híbrido
+L0000434,O20210041,2021,2021-04-15,Redação,P022,Revisão Final,Aula teórica Redação,90,
+L0000435,O20210041,2021,2021-04-14,Redação,P022,Revisão Final,Resolução de questões Redação,50,Online
+L0000436,O20210041,2021,2021-05-16,Redação,P022,Revisão Final,Revisão Redação,75,Presencial
+L0000437,O20210041,2021,2021-05-10,Redação,P022,Revisão Final,Revisão Redação,75,Online
+L0000438,O20210041,2021,2021-06-18,Redação,P022,Revisão Final,Resolução de questões Redação,,Presencial
+L0000439,O20210041,2021,2021-06-24,Redação,P022,Revisão Final,Revisão Redação,90,
+L0000440,O20210041,2021,2021-07-20,Redação,P022,Revisão Final,Resolução de questões Redação,,
+L0000441,O20210041,2021,2021-07-24,Redação,P022,Revisão Final,Laboratório Redação,75,Presencial
+L0000442,O20210042,2021,2021-02-01,Inglês,P026,Revisão Final, Inglês,50,online
+L0000443,O20210042,2021,2021-02-02,Inglês,P026,Revisão Final, Inglês,60,Presencial
+L0000444,O20210042,2021,2021-03-20,Inglês,P026,Revisão Final, Inglês,120,
+L0000445,O20210042,2021,2021-03-10,Inglês,P026,Revisão Final,Laboratório Inglês,50,Presencial
+L0000446,O20210042,2021,2021-04-12,Inglês,P026,Revisão Final,Resolução de questões Inglês,120,Online
+L0000447,O20210042,2021,2021-04-06,Inglês,P026,Revisão Final,Revisão Inglês,60,Online
+L0000448,O20210042,2021,05-22-2021,Inglês,P026,Revisão Final,Revisão Inglês,120,Presencial
+L0000449,O20210042,2021,2021-05-15,Inglês,P026,Revisão Final,Laboratório Inglês,75,Presencial
+L0000450,O20210042,2021,2021-06-27,Inglês,P026,Revisão Final,Revisão Inglês,60,Presencial
+L0000451,O20210042,2021,2021-06-01,Inglês,P026,Revisão Final,Revisão Inglês,,Presencial
+L0000452,O20210042,2021,2021-07-26,Inglês,P026,Revisão Final,Correção de simulado Inglês,50,Online
+L0000453,O20210042,2021,2021-07-16,Inglês,P026,Revisão Final,Laboratório Inglês,120,Híbrido
+L0000454,O20210042,2021,2021-08-16,Inglês,P026,Revisão Final,Revisão Inglês,,
+L0000455,O20210043,2021,2021-02-07,Filosofia,P029,Revisão Final,Resolução de questões Filosofia,120,Presencial
+L0000456,O20210043,2021,2021-02-05,Filosofia,P029,Revisão Final,Revisão Filosofia,90,online
+L0000457,O20210043,2021,2021-03-05,Filosofia,P029,Revisão Final,Aula teórica Filosofia,60,Presencial
+L0000458,O20210043,2021,03-12-2021,Filosofia,P029,Revisão Final,Resolução de questões Filosofia,75,Online
+L0000459,O20210043,2021,2021-04-17,Filosofia,P029,Revisão Final,Aula teórica Filosofia,90,Híbrido
+L0000460,O20210043,2021,2021-04-24,Filosofia,P029,Revisão Final,Resolução de questões Filosofia,,
+L0000461,O20210043,2021,2021-05-02,Filosofia,P029,Revisão Final,Aula teórica Filosofia,60,Híbrido
+L0000462,O20210043,2021,2021-05-10,Filosofia,P029,Revisão Final,Revisão Filosofia,120,
+L0000463,O20210043,2021,2021-06-28,Filosofia,P029,Revisão Final,Laboratório Filosofia,75,Online
+L0000464,O20210044,2021,2021/02/09,Sociologia,P034,Revisão Final,Resolução de questões Sociologia,60,online
+L0000465,O20210044,2021,2021-02-26,Sociologia,P034,Revisão Final, Sociologia,,online
+L0000466,O20210044,2021,2021/03/18,Sociologia,P034,Revisão Final,Laboratório Sociologia,75,online
+L0000467,O20210044,2021,2021-03-24,Sociologia,P034,Revisão Final,Aula teórica Sociologia,75,Híbrido
+L0000468,O20210044,2021,2021-04-05,Sociologia,P034,Revisão Final,Aula teórica Sociologia,50,Híbrido
+L0000469,O20210044,2021,2021-04-21,Sociologia,P034,Revisão Final,Aula teórica Sociologia,75,Online
+L0000470,O20210044,2021,2021-05-05,Sociologia,P034,Revisão Final,Resolução de questões Sociologia,50,online
+L0000471,O20210044,2021,2021-05-20,Sociologia,P034,Revisão Final,Revisão Sociologia,90,Presencial
+L0000472,O20220045,2022,2022-02-16,Matemática,P002,Extensivo A,Resolução de questões Matemática,50,online
+L0000473,O20220045,2022,2022/02/05,Matemática,P002,Extensivo A,Resolução de questões Matemática,90,Online
+L0000474,O20220045,2022,2022-03-05,Matemática,P002,Extensivo A, Matemática,120,Presencial
+L0000475,O20220045,2022,2022-03-10,Matemática,P002,Extensivo A, Matemática,,Presencial
+L0000476,O20220045,2022,2022-04-05,Matemática,P002,Extensivo A,Revisão Matemática,50,Presencial
+L0000477,O20220045,2022,2022-04-21,Matemática,P002,Extensivo A,Laboratório Matemática,90,Presencial
+L0000478,O20220045,2022,2022-05-28,Matemática,P002,Extensivo A,Revisão Matemática,60,online
+L0000479,O20220045,2022,2022-05-06,Matemática,P002,Extensivo A,Revisão Matemática,,
+L0000480,O20220045,2022,2022-06-02,Matemática,P002,Extensivo A,Resolução de questões Matemática,50,Presencial
+L0000481,O20220045,2022,2022-06-02,Matemática,P002,Extensivo A,Laboratório Matemática,75,
+L0000482,O20220045,2022,2022-07-14,Matemática,P002,Extensivo A, Matemática,90,Online
+L0000483,O20220045,2022,2022-07-10,Matemática,P002,Extensivo A,Resolução de questões Matemática,,online
+L0000484,O20220045,2022,08-14-2022,Matemática,P002,Extensivo A,Laboratório Matemática,60,
+L0000485,O20220045,2022,2022-08-16,Matemática,P002,Extensivo A,Aula teórica Matemática,75,online
+L0000486,O20220046,2022,2022-02-16,Física,P006,Extensivo A,Aula teórica Física,75,Híbrido
+L0000487,O20220046,2022,2022-02-09,Física,P006,Extensivo A,Aula teórica Física,,Online
+L0000488,O20220046,2022,2022-03-13,Física,P006,Extensivo A,Resolução de questões Física,60,Híbrido
+L0000489,O20220046,2022,2022-03-03,Física,P006,Extensivo A,Laboratório Física,60,Híbrido
+L0000490,O20220046,2022,2022-04-09,Física,P006,Extensivo A,Laboratório Física,,Presencial
+L0000491,O20220046,2022,2022-04-09,Física,P006,Extensivo A,Revisão Física,60,Online
+L0000492,O20220046,2022,2022-05-13,Física,P006,Extensivo A,Correção de simulado Física,60,Presencial
+L0000493,O20220046,2022,2022-05-07,Física,P006,Extensivo A,Aula teórica Física,60,Online
+L0000494,O20220046,2022,2022-06-21,Física,P006,Extensivo A,Correção de simulado Física,50,Híbrido
+L0000495,O20220046,2022,2022-06-04,Física,P006,Extensivo A, Física,75,Online
+L0000496,O20220046,2022,2022-07-16,Física,P006,Extensivo A,Correção de simulado Física,60,
+L0000497,O20220046,2022,2022-07-20,Física,P006,Extensivo A,Laboratório Física,120,Online
+L0000498,O20220046,2022,2022-08-26,Física,P006,Extensivo A,Aula teórica Física,60,Presencial
+L0000499,O20220047,2022,2022-02-17,Química,P008,Extensivo A,Revisão Química,75,Presencial
+L0000500,O20220047,2022,2022-02-04,Química,P008,Extensivo A,Resolução de questões Química,120,Online

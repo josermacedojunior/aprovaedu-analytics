@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AprovaEdu Analytics — Dashboard</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+  :root { --azul:#2E5FA3; --laranja:#E27D60; --verde:#3B8C6E; --cinza:#6b7280; }
+  * { box-sizing: border-box; }
+  body { font-family: 'Segoe UI', system-ui, sans-serif; margin:0; background:#f4f6fa; color:#1f2937; }
+  header { background:var(--azul); color:#fff; padding:22px 32px; }
+  header h1 { margin:0; font-size:1.35rem; font-weight:600; }
+  header p { margin:6px 0 0; opacity:.85; font-size:.9rem; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(340px,1fr)); gap:18px; padding:24px 32px; max-width:1300px; margin:0 auto; }
+  .card { background:#fff; border-radius:10px; padding:18px 20px; box-shadow:0 1px 4px rgba(0,0,0,.08); }
+  .card h2 { margin:0 0 4px; font-size:1rem; color:var(--azul); }
+  .card p.sub { margin:0 0 12px; font-size:.8rem; color:var(--cinza); }
+  .kpis { display:grid; grid-template-columns:repeat(auto-fit,minmax(160px,1fr)); gap:14px; padding:20px 32px 0; max-width:1300px; margin:0 auto; }
+  .kpi { background:#fff; border-radius:10px; padding:14px 18px; box-shadow:0 1px 4px rgba(0,0,0,.08); border-left:4px solid var(--azul); }
+  .kpi.alt { border-left-color:var(--laranja); }
+  .kpi.ok { border-left-color:var(--verde); }
+  .kpi .v { font-size:1.6rem; font-weight:700; }
+  .kpi .l { font-size:.78rem; color:var(--cinza); margin-top:2px; }
+  footer { padding:14px 32px 28px; font-size:.78rem; color:var(--cinza); max-width:1300px; margin:0 auto; }
+  canvas { max-height:320px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>AprovaEdu Analytics — Rede de Cursinhos Pré-Vestibular (2021–2025)</h1>
+  <p>Dashboard gerado automaticamente pelo pipeline (src/build_dashboard.py). Dados fictícios do desafio técnico.</p>
+</header>
+
+<div class="kpis">
+  <div class="kpi"><div class="v">339</div><div class="l">Aprovações únicas (2021–2025)</div></div>
+  <div class="kpi ok"><div class="v">+45%</div><div class="l">Crescimento de aprovados 2022 → 2023</div></div>
+  <div class="kpi alt"><div class="v">51%</div><div class="l">Taxa de conclusão em Inglês (menor da rede)</div></div>
+  <div class="kpi"><div class="v">86% vs 81%</div><div class="l">Presença média: aprovados vs demais</div></div>
+</div>
+
+<div class="grid">
+  <div class="card">
+    <h2>Aprovados por ano</h2>
+    <p class="sub">Base de Aprovações completa (sem amostragem)</p>
+    <canvas id="chAno"></canvas>
+  </div>
+  <div class="card">
+    <h2>Nota final média no vestibular</h2>
+    <p class="sub">Qualidade das aprovações, por ano</p>
+    <canvas id="chNota"></canvas>
+  </div>
+  <div class="card">
+    <h2>Taxa de conclusão por matéria</h2>
+    <p class="sub">Amostra de 500 matrículas — Inglês em destaque</p>
+    <canvas id="chConclusao"></canvas>
+  </div>
+  <div class="card">
+    <h2>Nota de diagnóstico por matéria</h2>
+    <p class="sub">Nível de entrada dos alunos (0–100)</p>
+    <canvas id="chDiag"></canvas>
+  </div>
+  <div class="card">
+    <h2>Aprovações por universidade</h2>
+    <p class="sub">Total 2021–2025</p>
+    <canvas id="chUni"></canvas>
+  </div>
+  <div class="card">
+    <h2>Canal de captação dos estudantes</h2>
+    <p class="sub">Amostra de 500 estudantes</p>
+    <canvas id="chCanal"></canvas>
+  </div>
+</div>
+
+<footer>
+  Limitações de amostragem: 5 das 9 tabelas fornecidas são amostras parciais e independentes —
+  ver README.md e relatorio_final.md para o detalhamento da confiança de cada indicador.
+</footer>
+
+<script>
+const IND = {"q1_aprovacoes_por_ano": [{"ano": 2021, "alunos_matriculados_amostra": 9, "alunos_aprovados": 50, "variacao_pct": NaN}, {"ano": 2022, "alunos_matriculados_amostra": 15, "alunos_aprovados": 53, "variacao_pct": 6.0}, {"ano": 2023, "alunos_matriculados_amostra": 15, "alunos_aprovados": 77, "variacao_pct": 45.3}, {"ano": 2024, "alunos_matriculados_amostra": 12, "alunos_aprovados": 79, "variacao_pct": 2.6}, {"ano": 2025, "alunos_matriculados_amostra": 6, "alunos_aprovados": 80, "variacao_pct": 1.3}], "q1_nota_final_media_por_ano": {"2021": 721.7, "2022": 744.6, "2023": 703.9, "2024": 732.3, "2025": 721.2}, "q2_presenca_por_grupo": [{"grupo": "Aprovados", "mean": 0.855, "median": 0.866, "std": 0.103, "count": 18}, {"grupo": "Sem registro de aprovação", "mean": 0.81, "median": 0.786, "std": 0.102, "count": 29}], "q2_teste_hipotese": {"teste": "Mann-Whitney U (unilateral: aprovados > demais)", "estatistica_U": 331.5, "p_valor": 0.0623, "n_aprovados": 18, "n_demais": 29}, "q3_por_materia_matriculas": [{"materia_declarada": "Matemática", "nota_diagnostico_media": 60.977, "taxa_conclusao": 0.661, "qtd_matriculas": 56}, {"materia_declarada": "Biologia", "nota_diagnostico_media": 60.668, "taxa_conclusao": 0.684, "qtd_matriculas": 38}, {"materia_declarada": "Redação", "nota_diagnostico_media": 59.311, "taxa_conclusao": 0.643, "qtd_matriculas": 56}, {"materia_declarada": "Filosofia", "nota_diagnostico_media": 59.081, "taxa_conclusao": 0.738, "qtd_matriculas": 42}, {"materia_declarada": "Inglês", "nota_diagnostico_media": 58.8, "taxa_conclusao": 0.51, "qtd_matriculas": 49}, {"materia_declarada": "Física", "nota_diagnostico_media": 58.636, "taxa_conclusao": 0.6, "qtd_matriculas": 45}, {"materia_declarada": "Português", "nota_diagnostico_media": 58.184, "taxa_conclusao": 0.661, "qtd_matriculas": 56}, {"materia_declarada": "Química", "nota_diagnostico_media": 58.183, "taxa_conclusao": 0.722, "qtd_matriculas": 36}, {"materia_declarada": "História", "nota_diagnostico_media": 57.08, "taxa_conclusao": 0.675, "qtd_matriculas": 40}, {"materia_declarada": "Geografia", "nota_diagnostico_media": 55.8, "taxa_conclusao": 0.658, "qtd_matriculas": 38}, {"materia_declarada": "Sociologia", "nota_diagnostico_media": 54.768, "taxa_conclusao": 0.682, "qtd_matriculas": 44}], "q3_por_materia_simulados": [{"materia": "Matemática", "nota_media_simulado": 60.7, "qtd_resultados": 393}, {"materia": "Física", "nota_media_simulado": 59.6, "qtd_resultados": 107}], "q3_nota_por_dificuldade_simulado": [{"dificuldade": "Fácil", "mean": 60.2, "count": 235.0}, {"dificuldade": "Difícil", "mean": 60.8, "count": 221.0}], "analises_adicionais": {"aprovacoes_por_universidade": {"UECE": 60, "UFC": 51, "UNILAB": 35, "UERN": 33, "UFRN": 32, "UVA": 31, "UNIFOR": 29, "IFCE": 25, "UFCA": 23, "UFPE": 20}, "top10_cursos_aprovados": {"Enfermagem": 28, "Arquitetura": 27, "Engenharia de Software": 27, "Odontologia": 27, "Engenharia Civil": 26, "Direito": 26, "Design": 25, "Medicina": 24, "Administração": 24, "Economia": 24}, "aprovacoes_por_modalidade_vaga": {"Ampla concorrência": 111, "PCD": 64, "Cota escola pública": 58, "Não informado": 56, "PPI": 50}, "canal_captacao_estudantes": {"Instagram": 151, "Google": 75, "Não informado": 74, "Feira escolar": 69, "WhatsApp": 67, "Indicação": 64}}};
+const AZUL='#2E5FA3', LARANJA='#E27D60', VERDE='#3B8C6E';
+Chart.defaults.font.family = "'Segoe UI', system-ui, sans-serif";
+Chart.defaults.plugins.legend.display = false;
+
+// Aprovados por ano
+const q1 = IND.q1_aprovacoes_por_ano;
+new Chart(chAno, { type:'bar',
+  data:{ labels:q1.map(r=>r.ano), datasets:[{ data:q1.map(r=>r.alunos_aprovados), backgroundColor:AZUL, borderRadius:6 }] },
+  options:{ scales:{ y:{ beginAtZero:true } } } });
+
+// Nota final média
+const nf = IND.q1_nota_final_media_por_ano;
+new Chart(chNota, { type:'line',
+  data:{ labels:Object.keys(nf), datasets:[{ data:Object.values(nf), borderColor:LARANJA, backgroundColor:LARANJA, tension:.3, pointRadius:5 }] },
+  options:{ scales:{ y:{ suggestedMin:650, suggestedMax:800 } } } });
+
+// Conclusão por matéria
+const q3 = [...IND.q3_por_materia_matriculas].sort((a,b)=>a.taxa_conclusao-b.taxa_conclusao);
+new Chart(chConclusao, { type:'bar',
+  data:{ labels:q3.map(r=>r.materia_declarada),
+         datasets:[{ data:q3.map(r=>+(r.taxa_conclusao*100).toFixed(1)),
+                     backgroundColor:q3.map(r=>r.materia_declarada==='Inglês'?LARANJA:AZUL), borderRadius:5 }] },
+  options:{ indexAxis:'y', scales:{ x:{ max:100, title:{display:true,text:'% concluídas'} } } } });
+
+// Diagnóstico por matéria
+const qd = [...IND.q3_por_materia_matriculas].sort((a,b)=>a.nota_diagnostico_media-b.nota_diagnostico_media);
+new Chart(chDiag, { type:'bar',
+  data:{ labels:qd.map(r=>r.materia_declarada),
+         datasets:[{ data:qd.map(r=>+r.nota_diagnostico_media.toFixed(1)), backgroundColor:AZUL, borderRadius:5 }] },
+  options:{ indexAxis:'y', scales:{ x:{ min:0, max:70 } } } });
+
+// Universidades
+const uni = IND.analises_adicionais.aprovacoes_por_universidade;
+new Chart(chUni, { type:'bar',
+  data:{ labels:Object.keys(uni), datasets:[{ data:Object.values(uni), backgroundColor:AZUL, borderRadius:5 }] },
+  options:{ indexAxis:'y' } });
+
+// Canal de captação
+const canal = IND.analises_adicionais.canal_captacao_estudantes;
+new Chart(chCanal, { type:'doughnut',
+  data:{ labels:Object.keys(canal),
+         datasets:[{ data:Object.values(canal),
+                     backgroundColor:[AZUL,VERDE,'#9ca3af',LARANJA,'#7c5cbf','#c9a227'] }] },
+  options:{ plugins:{ legend:{ display:true, position:'right' } } } });
+</script>
+</body>
+</html>

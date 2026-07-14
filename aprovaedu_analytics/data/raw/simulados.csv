@@ -1,0 +1,166 @@
+simulado_id,ano,data_simulado,materia,professor_id,professor_nome_informado,dificuldade,tipo_simulado,total_questoes,tempo_limite_min,tema
+S20210001,2021,2021-09-22,Matemática,P002,Lucas Gomes Melo,Fácil,Revisão,60,300,
+S20210002,2021,2021-05-03,Matemática,P003,Victor Rodrigues Melo,Difícil,ENEM,45,300,Conteúdo acumulado
+S20210003,2021,2021-10-23,Matemática,P004,Diego Rocha Lima,Fácil,Por matéria,90,300,
+S20210004,2021,2021-06-15,Física,P006,Luísa Moreira Barbosa,Difícil,Revisão,90,120,Competências gerais
+S20210005,2021,2021/04/02,Física,P006,Luísa Moreira Barbosa,Fácil,Por matéria,60,300,Treino de velocidade
+S20210006,2021,2021-11-23,Física,P005,Gabriela Pereira Cardoso,Média,Revisão,30,180,Treino de velocidade
+S20210007,2021,2021-09-19,Química,P009,Caio Teixeira Araújo,Fácil,ENEM,60,300,Conteúdo acumulado
+S20210008,2021,2021-11-21,Química,P009,Caio Teixeira Araújo,Média,Por matéria,30,300,Treino de velocidade
+S20210009,2021,2021-04-09,Química,P009,Caio Teixeira Araújo,Média,Vestibular estadual,20,180,Competências gerais
+S20210010,2021,2021-11-04,Biologia,P010,Olívia Moura Souza,Média,Vestibular estadual,30,90,Treino de velocidade
+S20210011,2021,2021-10-02,Biologia,P010,Olívia Moura Souza,Média,Revisão,30,120,Treino de velocidade
+S20210012,2021,2021-05-13,Biologia,P012,Sofia Carvalho Ribeiro,Média,ENEM,60,300,Revisão bimestral
+S20210013,2021,06-07-2021,História,P015,Beatriz Souza Rocha,Difícil,Vestibular estadual,45,300,Treino de velocidade
+S20210014,2021,2021-10-26,História,P014,João Lima Araújo,média,Por matéria,90,60,
+S20210015,2021,2021-09-07,História,P014,João Lima Araújo,,Por matéria,20,90,Treino de velocidade
+S20210016,2021,01/05/2021,Geografia,P018,Gustavo Santos Gomes,Fácil,ENEM,45,120,Interdisciplinar
+S20210017,2021,2021-04-15,Geografia,P018,Gustavo Santos Gomes,Difícil,ENEM,90,120,
+S20210018,2021,2021-10-24,Geografia,P016,Heitor Teixeira Silva,Média,Vestibular estadual,60,90,
+S20210019,2021,2021-09-12,Português,P019,Helena Almeida Araújo,Média,Revisão,30,60,Treino de velocidade
+S20210020,2021,2021-10-02,Português,P020,Maria Teixeira Oliveira,Média,ENEM,90,120,Revisão bimestral
+S20210021,2021,2021-10-24,Português,P020,Maria Teixeira Oliveira,Dificil,ENEM,30,60,Conteúdo acumulado
+S20210022,2021,2021-04-22,Redação,P023,Valentina Cavalcanti Cavalcanti,Média,Revisão,1,90,Revisão bimestral
+S20210023,2021,2021-06-15,Redação,P023,Valentina Cavalcanti Cavalcanti,Média,ENEM,1,90,Conteúdo acumulado
+S20210024,2021,2021-11-09,Redação,P022,Luísa Moreira Cardoso,Difícil,ENEM,1,60,Interdisciplinar
+S20210025,2021,2021-09-05,Inglês,P026,Sofia Ribeiro Rodrigues,Difícil,ENEM,60,90,
+S20210026,2021,09-10-2021,Inglês,P024,LUÍSA SANTOS OLIVEIRA,Fácil,Por matéria,30,90,Conteúdo acumulado
+S20210027,2021,2021-05-08,Inglês,P026,Sofia Ribeiro Rodrigues,Difícil,Por matéria,20,60,
+S20210028,2021,2021-07-27,FILOSOFIA,P030,Mariana Teixeira Carvalho,Fácil,Vestibular estadual,60,300,Revisão bimestral
+S20210029,2021,2021-11-08,Filosofia,P030,Mariana Teixeira Carvalho,Média,Por matéria,20,300,Revisão bimestral
+S20210030,2021,2021-04-28,Filosofia,P030,Mariana Teixeira Carvalho,Média,Por matéria,30,90,Interdisciplinar
+S20210031,2021,2021/05/17,Sociologia,P032,Diego Lima Nascimento,Fácil,Vestibular estadual,30,90,Conteúdo acumulado
+S20210032,2021,2021-05-11,Sociologia,P034,Victor Melo Araújo,Difícil,Vestibular estadual,30,90,
+S20210033,2021,2021-11-17,Sociologia,P034,Victor Melo Araújo,Média,ENEM,45,120,Conteúdo acumulado
+S20220034,2022,23/06/2022,Matemática,P002,Lucas Gomes Melo,Média,ENEM,20,90,Interdisciplinar
+S20220035,2022,2022-07-21,Matemática,P001,Rafaela Moura Costa,Dificil,ENEM,45,60,Treino de velocidade
+S20220036,2022,2022-10-27,Mat.,P004,Diego Rocha Lima,Média,Vestibular estadual,30,60,Revisão bimestral
+S20220037,2022,2022-07-23,Física,P007,Karina Moreira Ferreira,Fácil,Vestibular estadual,60,120,Competências gerais
+S20220038,2022,2022-06-05,Física,P007,Karina Moreira Ferreira,Média,Revisão,30,60,Treino de velocidade
+S20220039,2022,2022-09-12,Física,P005,Gabriela Pereira Cardoso,Difícil,Vestibular estadual,45,90,Competências gerais
+S20220040,2022,2022-08-23,Química,P009,Caio Teixeira Araújo,Fácil,Revisão,30,300,Revisão bimestral
+S20220041,2022,2022-11-06,Química,P008,GABRIELA LIMA PEREIRA,Difícil,Revisão,30,120,Interdisciplinar
+S20220042,2022,2022-09-20,Química,P008,GABRIELA LIMA PEREIRA,Média,Vestibular estadual,60,300,
+S20220043,2022,2022-06-10,Biologia,P012,Sofia Carvalho Ribeiro,Difícil,Revisão,30,300,Revisão bimestral
+S20220044,2022,2022-11-18,Biologia,P013,Pedro Pereira Moura,Difícil,Revisão,90,300,Interdisciplinar
+S20220045,2022,2022-09-06,Biologia,P011,Alice Martins Rodrigues,Difícil,Por matéria,90,120,Revisão bimestral
+S20220046,2022,2022-09-28,História,P015,Beatriz Souza Rocha,Média,Vestibular estadual,90,180,Treino de velocidade
+S20220047,2022,2022-10-09,História,P015,Beatriz Souza Rocha,Difícil,Revisão,20,300,
+S20220048,2022,09-01-2022,História,P014,João Lima Araújo,média,Vestibular estadual,90,300,Treino de velocidade
+S20220049,2022,2022-07-11,Geografia,P017,Tatiane Costa Barbosa,Fácil,ENEM,45,60,Conteúdo acumulado
+S20220050,2022,2022-06-25,Geografia,P017,Tatiane Costa Barbosa,Média,Revisão,30,60,
+S20220051,2022,2022-08-10,Geografia,P016,Heitor Teixeira Silva,Difícil,Revisão,45,120,Competências gerais
+S20220052,2022,2022-07-27,Português,P019,Helena Almeida Araújo,Média,Por matéria,20,90,Interdisciplinar
+S20220053,2022,2022-08-25,Português,P020,Maria Teixeira Oliveira,média,Por matéria,60,180,Revisão bimestral
+S20220054,2022,2022-07-24,Português,P020,Maria Teixeira Oliveira,Difícil,Por matéria,20,180,Revisão bimestral
+S20220055,2022,2022-08-10,Redação,P022,Luísa Moreira Cardoso,Fácil,ENEM,1,60,Revisão bimestral
+S20220056,2022,2022-08-18,Redação,P022,Luísa Moreira Cardoso,Fácil,ENEM,1,90,Treino de velocidade
+S20220057,2022,2022-06-17,Redação,P023,Valentina Cavalcanti Cavalcanti,Fácil,Por matéria,1,60,Interdisciplinar
+S20220058,2022,2022-10-28,Inglês,P024,LUÍSA SANTOS OLIVEIRA,Média,ENEM,30,90,Competências gerais
+S20220059,2022,2022-08-15,Inglês,P026,Sofia Ribeiro Rodrigues,,Vestibular estadual,60,90,Revisão bimestral
+S20220060,2022,2022-09-28,Inglês,P024,LUÍSA SANTOS OLIVEIRA,Difícil,Por matéria,30,120,
+S20220061,2022,2022-10-02,Filosofia,P028,Karina Araújo Nascimento,Fácil,Revisão,90,300,Conteúdo acumulado
+S20220062,2022,2022-09-14,Filosofia,P029,Gustavo Costa Araújo,Média,Revisão,90,90,Conteúdo acumulado
+S20220063,2022,2022-08-12,Filosofia,P029,Gustavo Costa Araújo,Difícil,ENEM,45,300,Conteúdo acumulado
+S20220064,2022,2022-06-16,Sociologia,P033,Rafaela Cavalcanti Martins,Média,Revisão,45,60,Conteúdo acumulado
+S20220065,2022,2022-08-11,Sociologia,P033,Rafaela Cavalcanti Martins,Fácil,Vestibular estadual,90,300,
+S20220066,2022,2022-10-02,Sociologia,P032,Diego Lima Nascimento,Difícil,ENEM,30,300,Revisão bimestral
+S20230067,2023,2023-09-03,Matemática,P003,Victor Rodrigues Melo,Média,Por matéria,90,60,Competências gerais
+S20230068,2023,2023-08-06,Matemática,P003,Victor Rodrigues Melo,Fácil,Por matéria,60,60,Revisão bimestral
+S20230069,2023,2023-06-27,Matemática,P004,Diego Rocha Lima,Média,Revisão,90,180,Interdisciplinar
+S20230070,2023,2023-08-02,Física,P005,Gabriela Pereira Cardoso,Média,Revisão,20,300,Treino de velocidade
+S20230071,2023,2023-04-15,Física,P007,Karina Moreira Ferreira,Fácil,ENEM,90,180,Treino de velocidade
+S20230072,2023,2023-05-10,Física,P006,Luísa Moreira Barbosa,Difícil,Revisão,90,60,Treino de velocidade
+S20230073,2023,2023-04-25,Química,P008,GABRIELA LIMA PEREIRA,Difícil,Vestibular estadual,20,60,Revisão bimestral
+S20230074,2023,2023-11-21,Química,P008,GABRIELA LIMA PEREIRA,Média,Por matéria,45,60,Treino de velocidade
+S20230075,2023,2023-10-21,Química,P008,GABRIELA LIMA PEREIRA,Fácil,Por matéria,20,90,Conteúdo acumulado
+S20230076,2023,2023-08-07,Biologia,P010,Olívia Moura Souza,Difícil,ENEM,20,90,Treino de velocidade
+S20230077,2023,2023-06-10,Biologia,P012,Sofia Carvalho Ribeiro,Média,Vestibular estadual,60,180,Revisão bimestral
+S20230078,2023,2023-08-20,Biologia,P011,Alice Martins Rodrigues,Média,Vestibular estadual,90,90,
+S20230079,2023,09-01-2023,História,P015,Beatriz Souza Rocha,Média,ENEM,20,90,Interdisciplinar
+S20230080,2023,12/07/2023,História,P015,Beatriz Souza Rocha,Média,Vestibular estadual,30,300,Treino de velocidade
+S20230081,2023,2023-08-20,História,P014,João Lima Araújo,Difícil,Vestibular estadual,20,120,
+S20230082,2023,18/10/2023,Geografia,P016,Heitor Teixeira Silva,Média,Revisão,30,90,Competências gerais
+S20230083,2023,14/07/2023,Geografia,P016,Heitor Teixeira Silva,Média,Revisão,30,60,Treino de velocidade
+S20230084,2023,07-25-2023,Geografia,P016,Heitor Teixeira Silva,Média,Revisão,30,180,Conteúdo acumulado
+S20230085,2023,04-18-2023,Português,P019,Helena Almeida Araújo,média,Revisão,30,300,Interdisciplinar
+S20230086,2023,2023-08-06,Português,P021,Diego Correia Ribeiro,Média,ENEM,90,300,Conteúdo acumulado
+S20230087,2023,2023-05-20,Português,P021,Diego Correia Ribeiro,Média,Vestibular estadual,60,300,Interdisciplinar
+S20230088,2023,2023-07-11,Redação,P023,Valentina Cavalcanti Cavalcanti,Média,Por matéria,1,90,Interdisciplinar
+S20230089,2023,2023-09-03,Redação,P022,Luísa Moreira Cardoso,Média,Redação,1,60,Interdisciplinar
+S20230090,2023,2023-06-18,Redação,P022,Luísa Moreira Cardoso,média,Redação,1,90,Conteúdo acumulado
+S20230091,2023,2023-09-05,Inglês,P025,Rafael Ribeiro Souza,Média,Por matéria,20,120,Revisão bimestral
+S20230092,2023,2023-04-12,Inglês,P025,Rafael Ribeiro Souza,Difícil,ENEM,30,60,Revisão bimestral
+S20230093,2023,2023-10-17,Inglês,P027,Bruno Souza Melo,Fácil,Por matéria,60,90,Revisão bimestral
+S20230094,2023,2023-08-07,Filosofia,P028,Karina Araújo Nascimento,Fácil,Por matéria,20,90,
+S20230095,2023,2023-10-15,Filosofia,P030,Mariana Teixeira Carvalho,Média,ENEM,90,120,Revisão bimestral
+S20230096,2023,09-08-2023,Filosofia,P030,Mariana Teixeira Carvalho,média,Por matéria,60,60,Treino de velocidade
+S20230097,2023,2023-06-01,Sociologia,P031,Rafaela Teixeira Teixeira,Fácil,ENEM,30,120,Revisão bimestral
+S20230098,2023,2023-10-06,Sociologia,P032,Diego Lima Nascimento,Média,Revisão,90,60,Competências gerais
+S20230099,2023,2023-09-06,Sociologia,P032,Diego Lima Nascimento,Fácil,ENEM,30,60,
+S20240100,2024,2024-04-05,Matemática,P003,Victor Rodrigues Melo,Média,ENEM,20,300,Conteúdo acumulado
+S20240101,2024,2024-11-27,Matemática,P004,Diego Rocha Lima,Média,ENEM,20,300,
+S20240102,2024,2024-06-18,Matemática,P001,Rafaela Moura Costa,Média,Vestibular estadual,30,180,Competências gerais
+S20240103,2024,2024-08-21,Fisica,P005,Gabriela Pereira Cardoso,Fácil,Por matéria,30,300,Conteúdo acumulado
+S20240104,2024,2024-10-11,Física,P007,Karina Moreira Ferreira,média,Vestibular estadual,60,90,Revisão bimestral
+S20240105,2024,2024-06-24,Física,P007,Karina Moreira Ferreira,Difícil,Por matéria,30,90,
+S20240106,2024,2024-04-08,Quimica,P009,Caio Teixeira Araújo,Média,ENEM,30,120,
+S20240107,2024,2024-10-06,Química,P009,Caio Teixeira Araújo,Média,Vestibular estadual,60,180,Conteúdo acumulado
+S20240108,2024,2024-05-10,Química,P009,Caio Teixeira Araújo,Difícil,Vestibular estadual,45,300,Revisão bimestral
+S20240109,2024,2024-09-14,Biologia,P010,Olívia Moura Souza,Dificil,Por matéria,30,120,Treino de velocidade
+S20240110,2024,2024-09-21,Biologia,P013,Pedro Pereira Moura,Média,Por matéria,45,90,Interdisciplinar
+S20240111,2024,2024-09-15,Biologia,P011,Alice Martins Rodrigues,média,ENEM,60,180,Revisão bimestral
+S20240112,2024,2024-11-21,História,P015,Beatriz Souza Rocha,Difícil,Revisão,20,60,Competências gerais
+S20240113,2024,2024-07-02,História,P015,Beatriz Souza Rocha,Fácil,Por matéria,20,60,Interdisciplinar
+S20240114,2024,2024-07-13,História,P014,João Lima Araújo,Média,Revisão,90,60,Revisão bimestral
+S20240115,2024,2024-09-11,Geografia,P017,Tatiane Costa Barbosa,Média,Revisão,20,90,Conteúdo acumulado
+S20240116,2024,2024-04-09,Geografia,P018,Gustavo Santos Gomes,Fácil,Por matéria,45,90,Competências gerais
+S20240117,2024,2024-09-01,Geografia,P018,Gustavo Santos Gomes,média,ENEM,30,60,Interdisciplinar
+S20240118,2024,2024-10-20,PORTUGUÊS,P019,Helena Almeida Araújo,média,Vestibular estadual,45,60,Treino de velocidade
+S20240119,2024,2024-06-20,Português,P019,Helena Almeida Araújo,Fácil,Revisão,60,300,Competências gerais
+S20240120,2024,2024-10-23,Português,P019,Helena Almeida Araújo,Difícil,ENEM,60,60,Conteúdo acumulado
+S20240121,2024,2024-05-12,Redação,P023,Valentina Cavalcanti Cavalcanti,média,Por matéria,1,60,
+S20240122,2024,2024-05-07,Redação,P022,Luísa Moreira Cardoso,média,Vestibular estadual,1,60,Interdisciplinar
+S20240123,2024,2024/06/27,Redação,P023,Valentina Cavalcanti Cavalcanti,Média,ENEM,1,90,Interdisciplinar
+S20240124,2024,2024-08-28,Inglês,P024,LUÍSA SANTOS OLIVEIRA,Média,ENEM,90,300,Treino de velocidade
+S20240125,2024,2024-07-20,Inglês,P027,Bruno Souza Melo,Média,Vestibular estadual,60,180,Competências gerais
+S20240126,2024,2024-07-02,Inglês,P026,Sofia Ribeiro Rodrigues,Média,Revisão,90,180,
+S20240127,2024,2024-06-12,Filosofia,P030,Mariana Teixeira Carvalho,Média,Vestibular estadual,45,300,Interdisciplinar
+S20240128,2024,2024-07-09,Filosofia,P030,Mariana Teixeira Carvalho,Média,Revisão,20,180,Interdisciplinar
+S20240129,2024,2024-06-14,FILOSOFIA,P030,Mariana Teixeira Carvalho,Média,ENEM,60,300,
+S20240130,2024,2024-10-24,Sociologia,P033,Rafaela Cavalcanti Martins,Fácil,Vestibular estadual,20,90,Conteúdo acumulado
+S20240131,2024,2024-06-13,Sociologia,P031,Rafaela Teixeira Teixeira,Difícil,ENEM,30,90,Revisão bimestral
+S20240132,2024,2024-11-25,Sociologia,P033,Rafaela Cavalcanti Martins,Difícil,ENEM,30,180,
+S20250133,2025,2025-11-18,Matemática,P003,Victor Rodrigues Melo,Fácil,Revisão,60,90,Conteúdo acumulado
+S20250134,2025,2025-06-04,Matemática,P003,Victor Rodrigues Melo,Média,Revisão,20,90,Revisão bimestral
+S20250135,2025,2025-09-03,Matemática,P002,Lucas Gomes Melo,Difícil,Vestibular estadual,90,120,Interdisciplinar
+S20250136,2025,2025-09-15,Física,P006,Luísa Moreira Barbosa,Fácil,Revisão,90,60,Conteúdo acumulado
+S20250137,2025,2025-08-09,Física,P006,Luísa Moreira Barbosa,Difícil,ENEM,30,180,Revisão bimestral
+S20250138,2025,2025-07-19,Física,P007,Karina Moreira Ferreira,Média,Por matéria,60,60,Interdisciplinar
+S20250139,2025,2025-07-02,Química,P008,GABRIELA LIMA PEREIRA,Fácil,Por matéria,30,60,Interdisciplinar
+S20250140,2025,2025-04-11,Química,P008,GABRIELA LIMA PEREIRA,Difícil,Por matéria,45,180,Revisão bimestral
+S20250141,2025,2025-06-05,Química,P008,GABRIELA LIMA PEREIRA,Fácil,Vestibular estadual,45,300,Interdisciplinar
+S20250142,2025,2025-10-25,Biologia,P013,Pedro Pereira Moura,Difícil,ENEM,90,90,
+S20250143,2025,2025-07-24,Biologia,P012,Sofia Carvalho Ribeiro,Difícil,ENEM,20,300,Interdisciplinar
+S20250144,2025,2025-11-27,Biologia,P012,Sofia Carvalho Ribeiro,Fácil,Revisão,20,60,Conteúdo acumulado
+S20250145,2025,2025-06-04,História,P014,João Lima Araújo,Média,Revisão,30,180,
+S20250146,2025,2025-09-23,História,P014,João Lima Araújo,Média,Vestibular estadual,45,120,Competências gerais
+S20250147,2025,2025-10-08,História,P014,João Lima Araújo,Média,Por matéria,60,90,
+S20250148,2025,2025-10-12,Geografia,P018,Gustavo Santos Gomes,Média,Revisão,30,90,Revisão bimestral
+S20250149,2025,2025-08-23,Geografia,P018,Gustavo Santos Gomes,Difícil,Revisão,60,60,Interdisciplinar
+S20250150,2025,2025-09-01,Geografia,P016,Heitor Teixeira Silva,Difícil,Por matéria,90,120,Revisão bimestral
+S20250151,2025,2025-08-04,Português,P019,Helena Almeida Araújo,Fácil,Vestibular estadual,60,180,Conteúdo acumulado
+S20250152,2025,2025-07-22,Português,P019,Helena Almeida Araújo,Difícil,ENEM,90,90,Interdisciplinar
+S20250153,2025,2025-05-19,Português,P021,Diego Correia Ribeiro,Fácil,Vestibular estadual,30,120,Revisão bimestral
+S20250154,2025,2025-07-26,Redação,P023,Valentina Cavalcanti Cavalcanti,Média,Por matéria,1,60,Conteúdo acumulado
+S20250155,2025,2025-06-14,Redação,P023,Valentina Cavalcanti Cavalcanti,Média,Revisão,1,60,Competências gerais
+S20250156,2025,2025-04-04,Redação,P022,Luísa Moreira Cardoso,Média,Por matéria,1,60,Revisão bimestral
+S20250157,2025,2025-10-13,Inglês,P026,Sofia Ribeiro Rodrigues,Média,Revisão,45,90,
+S20250158,2025,2025-11-09,Inglês,P024,LUÍSA SANTOS OLIVEIRA,Média,Vestibular estadual,30,180,Conteúdo acumulado
+S20250159,2025,2025-09-27,Inglês,P024,LUÍSA SANTOS OLIVEIRA,Média,Vestibular estadual,60,180,Competências gerais
+S20250160,2025,2025-05-10,Filosofia,P029,Gustavo Costa Araújo,Média,Vestibular estadual,30,90,Treino de velocidade
+S20250161,2025,10/05/2025,Filosofia,P028,Karina Araújo Nascimento,Média,Revisão,45,120,Treino de velocidade
+S20250162,2025,2025-11-05,FILOSOFIA,P028,Karina Araújo Nascimento,média,ENEM,20,120,Revisão bimestral
+S20250163,2025,2025-05-08,Sociologia,P032,Diego Lima Nascimento,Fácil,Revisão,45,300,Conteúdo acumulado
+S20250164,2025,2025-09-13,Sociologia,P032,Diego Lima Nascimento,média,Por matéria,30,180,Treino de velocidade
+S20250165,2025,2025-07-24,Sociologia,P033,Rafaela Cavalcanti Martins,Média,ENEM,90,300,

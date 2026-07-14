@@ -1,0 +1,501 @@
+aluno_id,nome_aluno,cpf_ficticio,email_aluno,telefone,data_nascimento,cidade,escola_origem,data_cadastro,canal_captacao
+A00001,Carla Barbosa Silva,625.588.977-17,carla.silva304@aluno.ficticio.com,(85) 97055-6219,2005-11-08,fortaleza,Não informado,2023-01-15,Instagram
+A00002,Miguel Silva Ribeiro,89233633131,miguel.ribeiro639@aluno.ficticio.com,(85) 93920-1613,2005-11-08,Crato,Federal,2025-03-11,Feira escolar
+A00003,Gabriela Rodrigues Moura,,gabriela.moura824@aluno.ficticio.com,(85) 99873-6068,2003-01-23,Horizonte,Privada,2022-01-15,Indicação
+A00004,Gustavo Correia Martins,832.173.860-56,gustavo.martins730@aluno.ficticio.com,(85) 91408-2238,2004-06-19,Juazeiro do Norte,Publica,03-16-2021,Google
+A00005,Eduarda Rocha Gomes,958.199.764-51,eduarda.gomes400@aluno.ficticio.com,(85) 96283-2856,2008-07-03,Caucaia,,2022-02-21,WhatsApp
+A00006,Lívia Teixeira Silva,147.453.335-47,livia.silva43@aluno.ficticio.com,(85) 96292-5048,2006-06-21,Horizonte,privada,2023-01-08,WhatsApp
+A00007,Gabriela Gomes Ribeiro,861.913.571-16,,(85) 94952-3519,15/11/2008,Maracanaú,Não informado,2024-02-08,
+A00008,Helena Rodrigues Nascimento,269.298.222-55,helena.nascimento421@aluno.ficticio.com,(85) 92472-8815,2006-06-19,Itapipoca,Pública,2024-02-06,instagram
+A00009,Diego Almeida Silva,12082505797,diego.silva760@aluno.ficticio.com,,06/06/2006,fortaleza,privada,2021-02-22,Feira escolar
+A00010,Olívia Dias Almeida,98890623032,olivia.almeida375@aluno.ficticio.com,(85) 93238-8906,2005-08-06,Sobral,Privada,2022-01-23,Instagram
+A00011,Yasmin Souza Dias,53826594933,yasmin.dias518@aluno.ficticio.com,(85) 94056-8476,2007-01-20,Aquiraz,,2021-01-04,Indicação
+A00012,Manuela Lima Santos,994.128.090-66,manuela.santos146@aluno.ficticio.com,,2006-05-08,Eusébio,Publica,2023-02-26,Instagram
+A00013,Beatriz Gomes Almeida,351.903.663-17,beatriz.almeida450@aluno.ficticio.com,(85) 92772-6362,2004-01-05,Maracanaú,Pública,2021-03-09,Instagram
+A00014,Davi Rodrigues Oliveira,038.768.932-20,davi.oliveira926@aluno.ficticio.com,(85) 92792-8603,2008-12-03,Juazeiro do Norte,privada,2023-03-15,WhatsApp
+A00015,Victor Oliveira Dias,099.716.607-54,victor.dias705@aluno.ficticio.com,(85) 91195-3713,2005-01-27,Fortaleza,Não informado,2022-02-06,WhatsApp
+A00016,Ana Santos Ribeiro,21589297794,,(85) 97522-1361,2005-10-21,Fortaleza,Federal,2022-02-28,Indicação
+A00017,Eduarda Dias Correia,,eduarda.correia291@aluno.ficticio.com,(85) 92277-5066,2007-04-07,Juazeiro do Norte,Pública,2025-01-02,Google
+A00018,Helena Rocha Almeida,501.569.159-63,helena.almeida26@aluno.ficticio.com,(85) 92695-1748,2008-02-17,FORTALEZA,Não informado,2022-03-25,WhatsApp
+A00019,Maria Melo Ferreira,105.525.085-47,maria.ferreira16@aluno.ficticio.com,(85) 92191-7137,2006-04-14,Fortaleza,Não informado,2023-02-06,
+A00020,Lívia Almeida Almeida,12781898217,livia.almeida760@aluno.ficticio.com,(85) 99886-4494,2007-07-02,FORTALEZA,,2024-02-19,Instagram
+A00021,Gustavo Correia Ferreira,284.306.012-46,gustavo.ferreira13@aluno.ficticio.com,(85) 93129-7593,2005-04-28,Aquiraz,Pública,2025-03-22,Feira escolar
+A00022,Maria Ferreira Nascimento,64673775041,maria.nascimento448@aluno.ficticio.com,(85) 98182-7025,2005-04-05,fortaleza,privada,2022-03-22,
+A00023,Alice Rocha Araújo,724.083.345-81,alice.araujo48@aluno.ficticio.com,(85) 93683-6361,2004-02-06,Juazeiro do Norte,,2023-01-22,
+A00024,Luísa Cardoso Moreira,24411974237,luisa.moreira152@aluno.ficticio.com,(85) 98328-6237,2007-08-05,Maracanau,Federal,2021/03/12,Google
+A00025,Isabela Cavalcanti Nascimento,418.590.093-71,isabela.nascimento72@aluno.ficticio.com,(85) 94458-1905,11-06-2006,Crato,Publica,2021-02-07,WhatsApp
+A00026,Mariana Melo Lima,162.113.997-29,mariana.lima956@aluno.ficticio.com,(85) 91700-6059,2004-09-19,Juazeiro do Norte,privada,2021-01-02,Instagram
+A00027,Henrique Costa Moreira,64181969161,,,2005-04-13,Pacatuba,Pública,2024-02-01,
+A00028,Helena Araújo Martins,63946621948,helena.martins904@aluno.ficticio.com,(85) 91907-6190,2007-11-22,Pacatuba,Pública,2023-01-12,
+A00029,Isabela Teixeira Martins,576.732.484-78,isabela.martins778@aluno.ficticio.com,(85) 94760-4638,23/07/2004,Eusébio,Publica,02-24-2024,WhatsApp
+A00030,Lívia Ferreira Nascimento,63937291344,livia.nascimento536@aluno.ficticio.com,(85) 96301-5119,2008-04-26,fortaleza,Privada,2025-01-05,Instagram
+A00031,Lucas Moura Gomes,567.985.343-79,lucas.gomes988@aluno.ficticio.com,(85) 95034-4027,2006-08-17,Crato,Privada,2022-02-20,Google
+A00032,Antônio Moura Oliveira,31065117195,antonio.oliveira492@aluno.ficticio.com,(85) 92765-9969,2003-06-22,Sobral,,2024-02-12,Feira escolar
+A00033,Isabela Pereira Pereira,11389235418,isabela.pereira797@aluno.ficticio.com,(85) 91893-8107,2004-10-04,Maracanau,,2021-02-27,
+A00034,Lucas Araújo Carvalho,05351855439,lucas.carvalho804@aluno.ficticio.com,(85) 95798-8074,2004-12-05,Juazeiro do Norte,Federal,2023-01-09,WhatsApp
+A00035,Karina Araújo Nascimento,729.545.538-94,karina.nascimento434@aluno.ficticio.com,,2007-04-20,Eusébio,Federal,2022-01-18,Instagram
+A00036,Laura Rocha Cavalcanti,63120152178,laura.cavalcanti581@aluno.ficticio.com,(85) 91183-9481,2004-03-14,Sobral,Pública,2023-03-13,Indicação
+A00037,Nicolas Moura Teixeira,311.697.694-29,nicolas.teixeira451@aluno.ficticio.com,(85) 95193-8591,09-20-2004,FORTALEZA,Federal,2024-03-07,Feira escolar
+A00038,Luísa Ferreira Cavalcanti,435.116.166-86,luisa.cavalcanti818@aluno.ficticio.com,(85) 93418-5791,2004-03-14,Sobral,Pública,2022-02-06,WhatsApp
+A00039,Lívia Silva Silva,19083215260,livia.silva434@aluno.ficticio.com,(85) 98387-6331,2004-09-06,fortaleza,Publica,2023-02-06,instagram
+A00040,Gustavo Almeida Souza,38635131376,gustavo.souza913@aluno.ficticio.com,(85) 92970-4368,2004-03-24,Pacatuba,Publica,2021-01-25,WhatsApp
+A00041,Alice Melo Ribeiro,645.886.314-95,alice.ribeiro900@aluno.ficticio.com,(85) 95522-6613,2006-10-06,Horizonte,Federal,2023-02-06,
+A00042,Rafaela Teixeira Costa,883.191.963-34,rafaela.costa348@aluno.ficticio.com,(85) 96955-5105,2008-02-06,Eusébio,Pública,2023-02-19,
+A00043,Mariana Rocha Cardoso,271.116.198-98,mariana.cardoso410@aluno.ficticio.com,(85) 97628-1578,2005-04-17,Pacatuba,Publica,2022-01-16,Indicação
+A00044,Yasmin Cavalcanti Araújo,13574468197,yasmin.araujo973@aluno.ficticio.com,(85) 99824-1498,2008-02-06,Maracanau,Pública,2024-02-25,WhatsApp
+A00045,Samuel Ribeiro Correia,89788351055,samuel.correia558@aluno.ficticio.com,(85) 99348-2768,2008-04-20,Itapipoca,,03-15-2023,Indicação
+A00046,Manuela Gomes Pereira,064.357.519-85,manuela.pereira396@aluno.ficticio.com,(85) 98971-4936,2003-07-26,Fortaleza,Publica,2021-03-26,instagram
+A00047,Helena Dias Souza,87112492105,helena.souza779@aluno.ficticio.com,(85) 91893-9162,2003-10-06,Sobral,Publica,2025-02-05,Google
+A00048,Enzo Ribeiro Souza,29107469231,enzo.souza607@aluno.ficticio.com,(85) 94200-3947,2006-04-12,Pacatuba,Publica,2022-02-08,Indicação
+A00049,Beatriz Santos Carvalho,268.504.275-85,beatriz.carvalho654@aluno.ficticio.com,,2003-06-04,Horizonte,Privada,2025-03-22,Feira escolar
+A00050,Rafael Santos Ferreira,32986462336,rafael.ferreira845@aluno.ficticio.com,(85) 93161-7240,2008-12-05,Itapipoca,privada,17/02/2021,Indicação
+A00051,Carla Ferreira Ribeiro,752.584.060-33,carla.ribeiro617@aluno.ficticio.com,(85) 99542-7460,2005-03-13,Eusébio,privada,2024-02-10,Feira escolar
+A00052,Miguel Nascimento Costa,331.047.980-70,miguel.costa860@aluno.ficticio.com,(85) 94952-1063,2007-03-28,Maracanaú,privada,2023-03-23,Instagram
+A00053,Isabela Araújo Rocha,,isabela.rocha15@aluno.ficticio.com,(85) 94960-4542,2004-11-04,Itapipoca,Federal,2021-01-05,Feira escolar
+A00054,Eduarda Rocha Melo,30403194509,eduarda.melo563@aluno.ficticio.com,(85) 91447-4253,2006-02-02,Crato,privada,2022-01-11,Google
+A00055,Arthur Araújo Cavalcanti,169.866.287-69,arthur.cavalcanti425@aluno.ficticio.com,(85) 98580-3922,2006-05-22,fortaleza,Privada,03-16-2025,WhatsApp
+A00056,Eduarda Melo Dias,86429745616,eduarda.dias363@aluno.ficticio.com,(85) 95789-6037,2003-10-05,fortaleza,Não informado,2022-02-12,
+A00057,Ana Almeida Teixeira,995.303.328-93,ana.teixeira198@aluno.ficticio.com,(85) 99101-5537,2004-04-06,Crato,Não informado,2021-02-15,Google
+A00058,Caio Cardoso Almeida,689.171.285-15,caio.almeida39@aluno.ficticio.com,(85) 94605-5145,2004-04-28,Maracanaú,Pública,2022-02-14,Google
+A00059,Maria Moreira Oliveira,824.049.186-87,maria.oliveira674@aluno.ficticio.com,(85) 98660-2819,2003-10-02,Caucaia,Privada,2025-02-14,Feira escolar
+A00060,Carla Almeida Cardoso,69839962116,carla.cardoso435@aluno.ficticio.com,(85) 96844-8776,2006/06/17,Itapipoca,Não informado,2022-01-26,
+A00061,Felipe Ribeiro Araújo,771.866.386-74,felipe.araujo770@aluno.ficticio.com,(85) 91203-9297,2006-06-08,Juazeiro do Norte,Pública,2025-02-10,Feira escolar
+A00062,Diego Souza Moreira,,diego.moreira921@aluno.ficticio.com,(85) 97472-3175,2003-11-04,Fortaleza,,2024-02-01,Feira escolar
+A00063,Nicolas Ferreira Cavalcanti,21631243370,nicolas.cavalcanti761@aluno.ficticio.com,(85) 97698-9743,2007-02-09,Horizonte,Privada,2024-01-24,Google
+A00064,Davi Correia Ribeiro,432.207.352-67,,(85) 91735-8135,2008-08-03,Sobral,Publica,2022-01-18,instagram
+A00065,Davi Oliveira Gomes,155.916.021-89,davi.gomes148@aluno.ficticio.com,(85) 99407-9826,2003-12-05,Maracanau,Privada,2025-03-26,
+A00066,Manuela Silva Carvalho,69975483843,manuela.carvalho164@aluno.ficticio.com,(85) 91203-6772,2007-03-08,Maracanaú,Publica,2023-01-21,Indicação
+A00067,Isabela Carvalho Lima,,isabela.lima552@aluno.ficticio.com,(85) 99425-8464,2008-02-19,Eusébio,Pública,2021-01-23,WhatsApp
+A00068,Bruno Ribeiro Santos,688.784.922-28,bruno.santos815@aluno.ficticio.com,(85) 95869-4180,2004-03-25,Eusébio,Publica,2024-01-05,Feira escolar
+A00069,Isabela Lima Oliveira,24324681254,,,2004-08-03,Itapipoca,Não informado,2023/03/01,WhatsApp
+A00070,Henrique Silva Araújo,450.223.002-94,henrique.araujo147@aluno.ficticio.com,(85) 97168-7391,2003-11-25,fortaleza,Privada,2022-02-23,WhatsApp
+A00071,Caio Ferreira Dias,72563325207,caio.dias110@aluno.ficticio.com,(85) 97221-8661,07-24-2007,Aquiraz,Federal,2022-02-21,WhatsApp
+A00072,Tatiane Ribeiro Ferreira,,tatiane.ferreira365@aluno.ficticio.com,(85) 97811-4844,2007-12-17,Fortaleza,Publica,2021-02-20,Instagram
+A00073,João Correia Teixeira,742.419.508-74,joao.teixeira235@aluno.ficticio.com,(85) 94417-5997,2008-09-27,Maracanaú,Privada,2021-01-12,Google
+A00074,Ana Rocha Correia,735.465.600-83,ana.correia790@aluno.ficticio.com,(85) 99225-3794,2003-07-01,fortaleza,Pública,2022-03-10,WhatsApp
+A00075,Tatiane Oliveira Moura,691.316.873-67,tatiane.moura187@aluno.ficticio.com,(85) 91948-1595,2007-03-05,Juazeiro do Norte,Privada,2024-02-23,instagram
+A00076,Tatiane Teixeira Rodrigues,45769206848,tatiane.rodrigues36@aluno.ficticio.com,(85) 98897-4162,2005-03-01,Aquiraz,Privada,2022-01-28,Instagram
+A00077,Karina Gomes Correia,913.133.798-93,karina.correia278@aluno.ficticio.com,(85) 98591-5269,2003-12-09,Horizonte,privada,2022-03-07,instagram
+A00078,Gustavo Melo Dias,605.550.141-92,gustavo.dias330@aluno.ficticio.com,(85) 99851-7490,2004-03-15,Fortaleza,,2021/03/17,Feira escolar
+A00079,Felipe Nascimento Pereira,283.875.259-52,felipe.pereira426@aluno.ficticio.com,(85) 95683-8433,2006-07-28,Maracanau,Pública,2024-03-24,WhatsApp
+A00080,Samuel Costa Teixeira,381.493.288-96,samuel.teixeira458@aluno.ficticio.com,(85) 96796-5358,2008-08-25,Itapipoca,Pública,2023-02-04,instagram
+A00081,Sofia Melo Correia,658.589.085-82,sofia.correia239@aluno.ficticio.com,(85) 91423-2245,2007-07-08,Fortaleza,,2025-03-01,Google
+A00082,Alice Dias Carvalho,44631395613,alice.carvalho722@aluno.ficticio.com,(85) 92468-6993,14/09/2003,Crato,Publica,2025-03-12,
+A00083,MIGUEL SANTOS SOUZA,27499438850,miguel.souza498@aluno.ficticio.com,(85) 93628-4901,06/05/2008,Crato,Não informado,2022-03-12,Indicação
+A00084,Tatiane Carvalho Cavalcanti,510.946.351-04,tatiane.cavalcanti62@aluno.ficticio.com,(85) 99080-4581,2006-01-26,fortaleza,Não informado,2025-02-09,instagram
+A00085,Alice Lima Rodrigues,684.001.955-02,alice.rodrigues250@aluno.ficticio.com,(85) 97877-6190,2005-03-24,Pacatuba,privada,2021-01-14,instagram
+A00086,Rafael Carvalho Martins,166.334.327-95,rafael.martins99@aluno.ficticio.com,(85) 93165-2492,09-26-2007,Aquiraz,privada,2025-01-21,Indicação
+A00087,Isabela Lima Nascimento,68453197912,isabela.nascimento195@aluno.ficticio.com,(85) 95783-8516,2003-03-26,Aquiraz,Publica,2024-03-25,Instagram
+A00088,Karina Gomes Dias,00031366960,karina.dias873@aluno.ficticio.com,(85) 96548-2212,2003-01-07,Aquiraz,Privada,2022-01-09,
+A00089,Davi Melo Nascimento,27948769878,davi.nascimento607@aluno.ficticio.com,(85) 98729-2361,2007-09-24,Aquiraz,Não informado,2024-01-05,instagram
+A00090,Victor Costa Cavalcanti,86519595302,victor.cavalcanti209@aluno.ficticio.com,(85) 98558-8985,2004-03-09,Sobral,Privada,2024-03-07,WhatsApp
+A00091,Helena Ferreira Ribeiro,460.073.708-08,helena.ribeiro877@aluno.ficticio.com,(85) 93110-5656,2003-12-12,Aquiraz,Publica,2023-02-12,Instagram
+A00092,Laura Silva Barbosa,48599628802,laura.barbosa505@aluno.ficticio.com,(85) 96238-2594,2006-01-08,Caucaia,privada,2022-02-24,Google
+A00093,Miguel Santos Nascimento,48519843885,miguel.nascimento195@aluno.ficticio.com,(85) 93997-3904,2004-02-03,Pacatuba,Pública,2024-01-14,
+A00094,Manuela Lima Ferreira,267.477.668-22,manuela.ferreira352@aluno.ficticio.com,(85) 95151-8085,2007-03-24,Crato,Não informado,2022-01-28,
+A00095,Victor Cardoso Araújo,06634704904,victor.araujo544@aluno.ficticio.com,(85) 91886-3637,27/04/2008,FORTALEZA,Pública,2022-01-24,Feira escolar
+A00096,Carla Almeida Lima,66008780614,carla.lima101@aluno.ficticio.com,(85) 97831-2846,2005-04-26,Crato,privada,03-26-2025,WhatsApp
+A00097,Karina Rodrigues Rocha,60092620211,karina.rocha942@aluno.ficticio.com,(85) 98410-3883,2008-11-04,Horizonte,Não informado,2023-01-22,WhatsApp
+A00098,Alice Melo Martins,84751524945,alice.martins931@aluno.ficticio.com,(85) 94964-9343,2008-01-04,fortaleza,Privada,2022-02-06,instagram
+A00099,Mariana Barbosa Dias,,mariana.dias705@aluno.ficticio.com,(85) 97840-5833,2004-06-10,Pacatuba,Privada,2022-02-23,WhatsApp
+A00100,Nicolas Souza Ferreira,85642271745,nicolas.ferreira658@aluno.ficticio.com,(85) 92364-4716,2007-06-27,Aquiraz,privada,01-11-2025,
+A00101,Miguel Costa Pereira,18620012969,miguel.pereira357@aluno.ficticio.com,(85) 91723-7630,2004-04-24,Maracanau,Federal,2023-01-26,
+A00102,João Gomes Cardoso,28346007791,joao.cardoso97@aluno.ficticio.com,,2004-02-21,Horizonte,Federal,2021-02-05,Instagram
+A00103,Lucas Pereira Nascimento,06111533338,lucas.nascimento630@aluno.ficticio.com,,2006-11-24,Pacatuba,privada,2021-02-06,Indicação
+A00104,Diego Pereira Moreira,014.610.047-90,diego.moreira734@aluno.ficticio.com,(85) 99918-1267,2004-11-26,Eusébio,Privada,2022-01-06,WhatsApp
+A00105,Bruno Ribeiro Oliveira,37362565814,bruno.oliveira979@aluno.ficticio.com,(85) 95152-8392,08-08-2004,Aquiraz,,2023-03-20,Indicação
+A00106,Davi Oliveira Gomes,,davi.gomes829@aluno.ficticio.com,(85) 91544-6215,2003-05-27,Horizonte,Privada,2023-01-05,Google
+A00107,Laura Souza Lima,63076607679,laura.lima416@aluno.ficticio.com,,2006-12-04,Juazeiro do Norte,Federal,2024-02-22,
+A00108,Laura Ribeiro Souza,37793318581,laura.souza817@aluno.ficticio.com,(85) 91073-2827,2003-12-10,Itapipoca,Não informado,2021-02-24,Instagram
+A00109,Carla Martins Moreira,69544173024,carla.moreira120@aluno.ficticio.com,(85) 99395-4036,2008-12-07,Itapipoca,Privada,01/02/2024,Google
+A00110,Gustavo Gomes Ferreira,63001505142,gustavo.ferreira310@aluno.ficticio.com,(85) 95307-1320,2005-11-16,Juazeiro do Norte,Federal,2022-02-01,instagram
+A00111,Rafaela Rodrigues Rocha,82534492537,rafaela.rocha491@aluno.ficticio.com,(85) 99239-7940,2006-07-20,Crato,Privada,2024-03-28,
+A00112,Gustavo Costa Ribeiro,848.959.583-79,gustavo.ribeiro805@aluno.ficticio.com,(85) 92306-1655,2007-05-25,FORTALEZA,Publica,2021-01-05,
+A00113,Beatriz Souza Moura,655.095.846-02,beatriz.moura865@aluno.ficticio.com,,2004-05-02,Aquiraz,privada,2024-01-21,Indicação
+A00114,Lucas Rocha Almeida,691.958.360-72,lucas.almeida469@aluno.ficticio.com,(85) 92310-7626,2007-09-06,Caucaia,Federal,2022-03-22,Google
+A00115,NICOLAS RIBEIRO ROCHA,923.194.505-40,nicolas.rocha548@aluno.ficticio.com,(85) 91909-9287,07-25-2008,Maracanau,Não informado,2021-03-11,Instagram
+A00116,Ana Pereira Nascimento,735.070.527-35,ana.nascimento109@aluno.ficticio.com,(85) 97441-9958,2005-07-28,Caucaia,Publica,2025-02-04,Google
+A00117,Caio Gomes Oliveira,38962368836,caio.oliveira949@aluno.ficticio.com,(85) 91676-9946,2005-09-21,Maracanau,,2024-03-07,instagram
+A00118,Nicolas Carvalho Cavalcanti,94785067306,nicolas.cavalcanti505@aluno.ficticio.com,(85) 99579-4289,2004-08-27,Sobral,Pública,2024-03-09,Instagram
+A00119,Manuela Lima Lima,95106779746,manuela.lima403@aluno.ficticio.com,(85) 95920-5932,2008/12/05,Aquiraz,Pública,2023-03-18,Feira escolar
+A00120,Antônio Moura Silva,546.762.841-42,antonio.silva258@aluno.ficticio.com,(85) 99913-9947,2008-04-05,Maracanaú,Federal,2021-03-09,WhatsApp
+A00121,Davi Correia Gomes,005.094.684-05,davi.gomes46@aluno.ficticio.com,(85) 94821-1560,2005-09-04,Aquiraz,Federal,2023-03-13,Google
+A00122,Ana Gomes Moreira,00186776879,ana.moreira642@aluno.ficticio.com,(85) 93072-4673,2008-10-28,Aquiraz,,2024-03-27,Instagram
+A00123,Davi Ferreira Pereira,81226608556,,(85) 95336-2822,2005-07-12,Maracanau,Federal,2024-02-07,instagram
+A00124,Olívia Moura Nascimento,277.037.782-61,olivia.nascimento636@aluno.ficticio.com,,2006-03-20,Maracanau,Não informado,2024-01-12,instagram
+A00125,Alice Ribeiro Martins,05802838454,alice.martins422@aluno.ficticio.com,(85) 92071-3792,2006-01-27,fortaleza,privada,2023-01-02,
+A00126,Diego Moreira Almeida,94040118309,diego.almeida21@aluno.ficticio.com,(85) 93667-5208,2008-04-12,Maracanaú,,2023-03-27,Instagram
+A00127,Luísa Teixeira Rodrigues,34847601851,luisa.rodrigues107@aluno.ficticio.com,(85) 93802-1716,2008-12-28,Juazeiro do Norte,Federal,2025-03-06,Feira escolar
+A00128,Karina Souza Rocha,92447939502,karina.rocha584@aluno.ficticio.com,(85) 99226-2223,2005-02-01,Maracanau,Federal,2022-02-18,Instagram
+A00129,Rafael Oliveira Cavalcanti,961.347.470-15,rafael.cavalcanti753@aluno.ficticio.com,(85) 98294-8449,2004-05-15,Itapipoca,Não informado,2023-01-17,
+A00130,Karina Moreira Souza,497.178.549-84,karina.souza820@aluno.ficticio.com,(85) 99669-4728,2003-09-17,Maracanau,Pública,2025-03-01,Google
+A00131,Miguel Costa Araújo,653.331.633-15,miguel.araujo778@aluno.ficticio.com,,2004-06-11,Aquiraz,Não informado,2025-01-14,
+A00132,Valentina Oliveira Pereira,94488248145,valentina.pereira510@aluno.ficticio.com,(85) 95445-5222,2006-02-16,Sobral,Publica,2021-03-20,instagram
+A00133,Valentina Pereira Nascimento,11107556829,valentina.nascimento724@aluno.ficticio.com,(85) 98163-8247,2004-05-22,Pacatuba,,2024-02-19,Instagram
+A00134,Valentina Carvalho Cavalcanti,552.975.855-01,,(85) 97771-5522,12-07-2005,Maracanau,privada,03-04-2024,Indicação
+A00135,Helena Moreira Barbosa,02025195060,helena.barbosa115@aluno.ficticio.com,(85) 96722-5288,2003-12-02,Eusébio,Pública,2022-03-25,
+A00136,Alice Martins Araújo,88883743443,alice.araujo660@aluno.ficticio.com,,2003-01-03,Crato,,2025-02-10,Feira escolar
+A00137,João Moura Almeida,,joao.almeida807@aluno.ficticio.com,(85) 98433-5048,2008-05-21,Itapipoca,Privada,2021-02-14,instagram
+A00138,Rafael Carvalho Oliveira,146.724.715-26,rafael.oliveira836@aluno.ficticio.com,(85) 92597-3889,2006-10-23,fortaleza,,22/01/2024,instagram
+A00139,Olívia Barbosa Souza,109.751.139-52,,(85) 92294-8758,2008-05-14,Pacatuba,Não informado,13/02/2024,instagram
+A00140,Davi Carvalho Teixeira,87501722535,davi.teixeira225@aluno.ficticio.com,(85) 96017-8470,2005-10-16,fortaleza,,2021-03-07,instagram
+A00141,Lucas Martins Gomes,362.054.418-88,lucas.gomes398@aluno.ficticio.com,(85) 93395-3542,2007-12-18,fortaleza,Publica,2021-03-13,Google
+A00142,Davi Correia Dias,101.983.255-94,davi.dias44@aluno.ficticio.com,(85) 95750-6742,2005-11-28,Caucaia,Pública,2023-02-19,WhatsApp
+A00143,Luísa Santos Oliveira,83256269602,luisa.oliveira928@aluno.ficticio.com,(85) 99485-7817,2006-07-19,Sobral,privada,2023-01-21,
+A00144,Diego Costa Costa,511.328.788-47,diego.costa568@aluno.ficticio.com,(85) 94520-9736,2007-07-05,Itapipoca,Privada,2021-03-20,Feira escolar
+A00145,Henrique Melo Dias,77956168660,henrique.dias900@aluno.ficticio.com,(85) 99669-8526,2004-11-05,Maracanau,Pública,2023-01-24,Indicação
+A00146,Felipe Souza Santos,382.636.025-90,felipe.santos675@aluno.ficticio.com,(85) 94358-4094,2007-01-27,Aquiraz,Federal,2025-03-05,
+A00147,Mariana Silva Martins,621.094.242-84,mariana.martins61@aluno.ficticio.com,(85) 95311-7881,2004-09-24,Fortaleza,,2023-02-14,Feira escolar
+A00148,Maria Nascimento Almeida,49648556924,maria.almeida247@aluno.ficticio.com,(85) 95906-9957,2003-09-24,Eusébio,Pública,2022-01-07,Feira escolar
+A00149,Antônio Moura Lima,,antonio.lima449@aluno.ficticio.com,(85) 92699-2838,2004-05-12,Crato,Publica,03-04-2025,Instagram
+A00150,Eduarda Dias Cardoso,334.794.847-12,eduarda.cardoso357@aluno.ficticio.com,(85) 96622-2194,2005-02-22,Caucaia,privada,2021-01-18,Feira escolar
+A00151,Valentina Correia Cardoso,071.959.772-50,valentina.cardoso968@aluno.ficticio.com,(85) 99249-2028,28/11/2003,Itapipoca,,2024-02-26,Feira escolar
+A00152,Bruno Moreira Moura,62425036153,bruno.moura483@aluno.ficticio.com,(85) 98618-2940,2007-05-12,Maracanaú,Privada,2024-03-18,instagram
+A00153,Caio Cardoso Rocha,53075216906,caio.rocha949@aluno.ficticio.com,(85) 95213-6234,2006-07-28,Eusébio,privada,2023-02-10,Google
+A00154,Mariana Moura Silva,21251245967,mariana.silva792@aluno.ficticio.com,(85) 93275-6217,2006-07-24,Aquiraz,Não informado,2023-02-11,instagram
+A00155,Karina Costa Dias,843.103.012-59,karina.dias496@aluno.ficticio.com,(85) 92443-7549,2006-08-27,Itapipoca,Não informado,2022-03-10,Indicação
+A00156,Laura Costa Souza,34971176187,laura.souza933@aluno.ficticio.com,(85) 96713-8989,2007-09-01,Maracanaú,privada,2023-01-22,
+A00157,Luísa Souza Souza,80641841529,luisa.souza369@aluno.ficticio.com,(85) 97594-7445,2003-08-06,FORTALEZA,Privada,2024-01-09,instagram
+A00158,Heitor Gomes Lima,041.348.269-65,heitor.lima641@aluno.ficticio.com,(85) 93128-2835,2007-09-11,FORTALEZA,Publica,2023/01/14,instagram
+A00159,Alice Araújo Rocha,440.438.179-40,alice.rocha893@aluno.ficticio.com,(85) 97927-3823,2006-03-16,Maracanau,Pública,2024-03-11,Instagram
+A00160,Pedro Souza Ferreira,26285058572,pedro.ferreira724@aluno.ficticio.com,(85) 99946-3900,2003-03-27,Crato,Publica,2025/01/13,
+A00161,Davi Santos Moreira,356.051.473-55,davi.moreira799@aluno.ficticio.com,(85) 91665-6702,2008-03-18,fortaleza,Federal,2025-02-09,Feira escolar
+A00162,Rafael Pereira Ferreira,31536452455,rafael.ferreira791@aluno.ficticio.com,(85) 98012-2152,2006-12-04,Aquiraz,,2022-01-07,Indicação
+A00163,Manuela Rocha Martins,24017135172,manuela.martins586@aluno.ficticio.com,(85) 94379-4090,11-28-2003,Sobral,Federal,2025-01-06,Feira escolar
+A00164,Lívia Lima Martins,47679662065,livia.martins866@aluno.ficticio.com,(85) 92369-2774,2003-09-25,Itapipoca,Não informado,2025-01-18,Google
+A00165,Tatiane Almeida Lima,40552989488,tatiane.lima897@aluno.ficticio.com,(85) 96408-5851,2003-03-22,Horizonte,privada,2025-01-04,Google
+A00166,Isabela Nascimento Martins,09363246881,isabela.martins193@aluno.ficticio.com,(85) 94631-7141,2003-09-16,Sobral,Não informado,2025-02-26,instagram
+A00167,Rafaela Almeida Moura,79519873820,rafaela.moura172@aluno.ficticio.com,(85) 97634-9938,2007-10-27,Sobral,,2021-02-13,Google
+A00168,Davi Costa Nascimento,702.027.505-33,davi.nascimento655@aluno.ficticio.com,(85) 93368-3759,2007-03-08,Caucaia,Publica,2024-03-14,Feira escolar
+A00169,Lucas Santos Dias,69140890752,lucas.dias203@aluno.ficticio.com,(85) 92703-4582,2008-09-21,Itapipoca,Publica,2024-02-05,Indicação
+A00170,Isabela Dias Santos,02737779390,isabela.santos779@aluno.ficticio.com,(85) 92615-4836,12-07-2005,Maracanaú,Não informado,2025/02/16,Feira escolar
+A00171,Rafaela Gomes Pereira,444.046.262-25,rafaela.pereira526@aluno.ficticio.com,(85) 95230-9417,2005-08-08,Maracanau,Não informado,2023-03-24,Indicação
+A00172,Davi Martins Ribeiro,13202628388,davi.ribeiro289@aluno.ficticio.com,(85) 94258-7589,2004-05-21,Maracanau,,2024-02-23,Indicação
+A00173,Victor Moura Ribeiro,401.577.190-96,victor.ribeiro175@aluno.ficticio.com,,2004-02-22,Maracanau,Federal,2025-02-06,
+A00174,Nicolas Teixeira Moreira,199.505.953-53,nicolas.moreira610@aluno.ficticio.com,(85) 96915-6817,2003-07-14,Eusébio,Publica,2021-03-01,WhatsApp
+A00175,Karina Melo Gomes,45117663424,karina.gomes325@aluno.ficticio.com,(85) 96256-7846,2004-04-25,Horizonte,Federal,2023-01-14,WhatsApp
+A00176,Enzo Ferreira Rodrigues,889.658.416-76,enzo.rodrigues64@aluno.ficticio.com,(85) 93296-4424,2007-04-19,Fortaleza,,2021-02-01,Feira escolar
+A00177,Enzo Rodrigues Silva,359.238.472-14,enzo.silva268@aluno.ficticio.com,(85) 95141-5987,2008-10-21,Horizonte,privada,2023-01-09,instagram
+A00178,Rafaela Cardoso Cavalcanti,854.517.961-75,rafaela.cavalcanti867@aluno.ficticio.com,(85) 99727-6439,2005-01-10,Fortaleza,,2024-02-13,Feira escolar
+A00179,Arthur Melo Dias,71137439220,arthur.dias309@aluno.ficticio.com,(85) 93450-3793,2008-05-27,Aquiraz,Privada,2022-01-23,Indicação
+A00180,Gustavo Ferreira Melo,805.404.702-87,gustavo.melo516@aluno.ficticio.com,(85) 94057-1835,2004-12-17,Caucaia,Pública,2023-03-27,Indicação
+A00181,Yasmin Dias Cavalcanti,137.989.323-84,yasmin.cavalcanti187@aluno.ficticio.com,(85) 91225-9645,2006-11-01,fortaleza,Pública,2022-02-05,
+A00182,Tatiane Souza Moura,96790378602,tatiane.moura2@aluno.ficticio.com,,2005-12-02,Maracanaú,Publica,2023-03-28,Google
+A00183,Alice Almeida Moura,980.151.652-29,alice.moura533@aluno.ficticio.com,(85) 97020-8046,2003-01-06,Eusébio,Publica,03-26-2024,WhatsApp
+A00184,BRUNO RODRIGUES ROCHA,,bruno.rocha110@aluno.ficticio.com,(85) 96023-8696,2007-12-03,Crato,Publica,13/01/2022,WhatsApp
+A00185,Beatriz Almeida Pereira,58312297928,beatriz.pereira667@aluno.ficticio.com,(85) 94378-1620,2005/06/09,Sobral,Não informado,2023-03-01,Google
+A00186,Heitor Barbosa Cavalcanti,76502720755,heitor.cavalcanti30@aluno.ficticio.com,(85) 97928-4434,2008-10-18,Maracanau,Não informado,2024-03-07,Instagram
+A00187,Arthur Santos Teixeira,366.614.331-77,arthur.teixeira707@aluno.ficticio.com,,2007-12-02,Pacatuba,privada,2022-02-04,Indicação
+A00188,Enzo Gomes Correia,40725109505,enzo.correia13@aluno.ficticio.com,(85) 98866-6475,2006-04-12,FORTALEZA,Federal,2023-03-20,Indicação
+A00189,Alice Barbosa Ribeiro,294.223.781-80,alice.ribeiro225@aluno.ficticio.com,(85) 96411-1338,2006-03-22,Juazeiro do Norte,Privada,2023-03-04,instagram
+A00190,João Melo Rodrigues,56605616051,joao.rodrigues334@aluno.ficticio.com,(85) 98869-8362,2005-07-23,Sobral,Privada,2025-02-08,
+A00191,Mariana Araújo Araújo,15251554031,mariana.araujo90@aluno.ficticio.com,(85) 95891-5671,2007-07-16,Maracanaú,privada,2021-03-09,Google
+A00192,Isabela Cavalcanti Barbosa,033.668.918-61,isabela.barbosa334@aluno.ficticio.com,(85) 92624-1859,2007-03-08,Aquiraz,Não informado,2023-02-21,Feira escolar
+A00193,Isabela Nascimento Barbosa,947.724.984-74,isabela.barbosa648@aluno.ficticio.com,(85) 95376-2272,2005-07-17,Caucaia,Não informado,2024-01-21,instagram
+A00194,Pedro Araújo Silva,11743481513,pedro.silva47@aluno.ficticio.com,(85) 97477-3588,2008-02-01,Horizonte,Não informado,2024-01-08,instagram
+A00195,Arthur Martins Ferreira,79116233991,arthur.ferreira698@aluno.ficticio.com,(85) 92548-4088,2006-07-12,Itapipoca,,2022-02-06,WhatsApp
+A00196,Mariana Martins Araújo,73109969979,mariana.araujo116@aluno.ficticio.com,(85) 99363-9998,19/08/2007,Pacatuba,,2021-01-24,Google
+A00197,VICTOR CARVALHO SANTOS,51686284650,victor.santos244@aluno.ficticio.com,(85) 93593-6484,2007-11-01,Eusébio,privada,2023-01-13,Feira escolar
+A00198,Mariana Oliveira Gomes,405.015.182-64,mariana.gomes609@aluno.ficticio.com,(85) 91516-3068,2003-02-25,Fortaleza,Privada,2025-02-23,Indicação
+A00199,Antônio Ferreira Oliveira,77348327103,antonio.oliveira469@aluno.ficticio.com,(85) 92672-5839,2007-07-06,Caucaia,Publica,2021-01-18,Feira escolar
+A00200,Laura Teixeira Melo,095.733.276-03,laura.melo561@aluno.ficticio.com,(85) 93244-2219,2006-11-11,Pacatuba,Pública,2024-03-14,Google
+A00201,Pedro Rocha Ferreira,051.385.930-96,pedro.ferreira326@aluno.ficticio.com,(85) 91526-6564,2007-11-26,Sobral,Privada,2023-01-12,instagram
+A00202,Tatiane Rodrigues Souza,554.953.606-14,tatiane.souza827@aluno.ficticio.com,,2007-05-27,FORTALEZA,Federal,2024-03-09,WhatsApp
+A00203,Lívia Moura Ribeiro,582.307.637-45,livia.ribeiro244@aluno.ficticio.com,(85) 97834-4156,2003-09-24,Maracanaú,Privada,2023/03/11,Feira escolar
+A00204,Gustavo Lima Dias,61254009488,gustavo.dias692@aluno.ficticio.com,(85) 93540-6610,2006-01-23,Pacatuba,privada,2024-03-17,Google
+A00205,Henrique Silva Souza,581.887.708-42,henrique.souza145@aluno.ficticio.com,(85) 98659-5976,2005-05-23,Itapipoca,,2024-03-19,WhatsApp
+A00206,Heitor Ribeiro Carvalho,565.323.850-29,heitor.carvalho792@aluno.ficticio.com,(85) 98978-6088,2003-03-07,Pacatuba,Publica,2024-03-03,Indicação
+A00207,Karina Araújo Souza,967.954.915-52,karina.souza484@aluno.ficticio.com,(85) 99333-5525,2006-09-04,Fortaleza,privada,02-28-2023,Google
+A00208,Laura Pereira Rodrigues,81534438798,laura.rodrigues566@aluno.ficticio.com,(85) 94731-9496,2006-06-24,FORTALEZA,Não informado,01-23-2023,Google
+A00209,Beatriz Martins Silva,994.873.889-51,beatriz.silva741@aluno.ficticio.com,(85) 98976-3985,2007-12-01,Horizonte,Publica,2023-01-11,Google
+A00210,Henrique Moura Santos,61012426605,henrique.santos905@aluno.ficticio.com,(85) 99921-8933,2005-01-02,Eusébio,privada,2023-01-08,instagram
+A00211,Alice Ribeiro Rodrigues,52845673233,alice.rodrigues513@aluno.ficticio.com,,2005-07-12,Fortaleza,Privada,2021-03-11,
+A00212,Yasmin Santos Gomes,371.251.346-00,,(85) 97717-5265,2005-07-07,Eusébio,Privada,2021-02-16,Indicação
+A00213,Sofia Pereira Barbosa,10600721627,sofia.barbosa226@aluno.ficticio.com,,2005-02-27,Sobral,Federal,2024-01-08,Indicação
+A00214,RAFAEL DIAS MARTINS,792.324.622-22,rafael.martins209@aluno.ficticio.com,(85) 95109-6622,2008-03-06,Caucaia,Pública,2023-03-19,Instagram
+A00215,Maria Cavalcanti Teixeira,865.503.895-90,maria.teixeira623@aluno.ficticio.com,(85) 96408-4848,2008-07-08,Pacatuba,Pública,2022-02-17,
+A00216,Caio Martins Almeida,422.393.509-47,caio.almeida686@aluno.ficticio.com,(85) 93903-1798,04-19-2006,Pacatuba,Não informado,2021-02-15,Indicação
+A00217,Sofia Rocha Gomes,368.594.578-94,sofia.gomes756@aluno.ficticio.com,(85) 99375-4699,2005-07-07,Fortaleza,Não informado,03/01/2022,instagram
+A00218,Bruno Nascimento Barbosa,41568989247,bruno.barbosa894@aluno.ficticio.com,(85) 92555-2290,2006-03-20,Aquiraz,Pública,10/02/2023,Feira escolar
+A00219,Ana Almeida Moura,74160534368,ana.moura203@aluno.ficticio.com,(85) 94633-9616,2003-09-12,fortaleza,Pública,2024-01-08,Google
+A00220,Valentina Correia Rocha,44376152757,valentina.rocha391@aluno.ficticio.com,(85) 93709-9025,2003-02-17,Sobral,Privada,2025-03-02,WhatsApp
+A00221,Arthur Gomes Araújo,388.091.519-50,arthur.araujo556@aluno.ficticio.com,,2005-09-17,Caucaia,,2024-02-23,
+A00222,Lucas Lima Barbosa,072.340.357-47,lucas.barbosa816@aluno.ficticio.com,(85) 93572-8238,2007-02-18,Caucaia,Federal,2023-02-03,WhatsApp
+A00223,Isabela Cavalcanti Silva,78929119157,isabela.silva567@aluno.ficticio.com,(85) 91265-1626,2003-01-24,fortaleza,privada,2025-03-09,Instagram
+A00224,Gustavo Cardoso Correia,49384845518,gustavo.correia95@aluno.ficticio.com,(85) 98138-1862,2005-09-01,Horizonte,,2023-03-22,Instagram
+A00225,Antônio Dias Ribeiro,678.373.741-11,antonio.ribeiro439@aluno.ficticio.com,(85) 93845-9611,2003-08-03,Maracanaú,Publica,2023-03-15,Google
+A00226,Sofia Nascimento Oliveira,196.893.802-81,sofia.oliveira219@aluno.ficticio.com,(85) 93509-4505,2008-11-17,Horizonte,privada,2023-02-17,Indicação
+A00227,Davi Rodrigues Moura,13446568384,davi.moura441@aluno.ficticio.com,(85) 98704-3426,2006-08-09,FORTALEZA,privada,2021-02-05,instagram
+A00228,Manuela Santos Ribeiro,95696250566,manuela.ribeiro97@aluno.ficticio.com,(85) 94907-8088,2006-10-05,Crato,Privada,2022-03-06,instagram
+A00229,Eduarda Cavalcanti Cardoso,582.109.355-72,eduarda.cardoso194@aluno.ficticio.com,(85) 96402-9310,2007-02-12,Eusébio,privada,2021-03-01,instagram
+A00230,Carla Moreira Teixeira,34251064926,,(85) 97846-2004,2006-02-06,FORTALEZA,privada,2024/03/12,WhatsApp
+A00231,Karina Souza Correia,725.275.907-91,karina.correia426@aluno.ficticio.com,,2007-07-27,Pacatuba,Federal,2024-03-07,Feira escolar
+A00232,Lucas Oliveira Gomes,081.483.890-51,lucas.gomes996@aluno.ficticio.com,(85) 98799-4314,2007-08-15,Maracanau,Federal,2022-01-25,Instagram
+A00233,Ana Costa Rodrigues,75641714155,ana.rodrigues9@aluno.ficticio.com,(85) 96672-2468,2003-01-27,fortaleza,Privada,2024-02-07,
+A00234,Alice Ribeiro Cavalcanti,637.192.582-65,alice.cavalcanti687@aluno.ficticio.com,(85) 98811-4054,2006-04-15,Caucaia,Federal,2022-01-25,Feira escolar
+A00235,Diego Moreira Moura,94588887510,diego.moura891@aluno.ficticio.com,,2005-05-28,Maracanau,Federal,2024-01-02,Feira escolar
+A00236,Rafaela Cardoso Cavalcanti,07938643151,rafaela.cavalcanti568@aluno.ficticio.com,(85) 96342-3346,2007-05-21,Maracanau,Federal,2023-03-10,Google
+A00237,Manuela Araújo Silva,295.623.381-12,manuela.silva661@aluno.ficticio.com,(85) 99813-4744,2006-04-27,Maracanaú,privada,2021-02-24,Indicação
+A00238,Lucas Santos Barbosa,431.380.514-99,lucas.barbosa645@aluno.ficticio.com,(85) 95223-3661,2005-11-13,Eusébio,Federal,2025-01-13,Indicação
+A00239,Ana Moura Souza,431.951.640-03,ana.souza205@aluno.ficticio.com,,2003-11-05,FORTALEZA,Não informado,11/02/2023,Feira escolar
+A00240,João Gomes Correia,250.588.472-77,joao.correia954@aluno.ficticio.com,(85) 98877-6151,2004-02-06,Horizonte,Federal,2022-01-27,instagram
+A00241,Pedro Rodrigues Rodrigues,773.433.029-60,pedro.rodrigues23@aluno.ficticio.com,(85) 91519-3434,2006-08-07,fortaleza,Federal,2021-03-12,WhatsApp
+A00242,Olívia Melo Cavalcanti,554.895.099-53,olivia.cavalcanti605@aluno.ficticio.com,(85) 93628-6690,2003-03-03,Aquiraz,Federal,2022-03-13,Indicação
+A00243,Alice Souza Ferreira,089.602.798-38,alice.ferreira373@aluno.ficticio.com,(85) 98766-6987,2005-11-15,Caucaia,,2023-01-27,Feira escolar
+A00244,Helena Dias Ferreira,305.213.523-79,helena.ferreira300@aluno.ficticio.com,,2008-05-01,Eusébio,Privada,2025-02-21,Instagram
+A00245,Diego Martins Gomes,140.055.331-99,diego.gomes153@aluno.ficticio.com,(85) 96068-2555,2008-03-10,fortaleza,Pública,01-17-2023,instagram
+A00246,Eduarda Correia Moura,25952336174,eduarda.moura684@aluno.ficticio.com,,2008-02-14,Eusébio,Publica,20/02/2022,Indicação
+A00247,Olívia Barbosa Ferreira,77797045820,olivia.ferreira110@aluno.ficticio.com,(85) 99382-5445,2006-10-16,FORTALEZA,Privada,2024-02-04,
+A00248,Karina Cardoso Nascimento,977.534.089-40,karina.nascimento440@aluno.ficticio.com,(85) 92394-7198,2006-12-17,Caucaia,Privada,2021-01-05,WhatsApp
+A00249,Bruno Ribeiro Martins,39501306698,bruno.martins536@aluno.ficticio.com,(85) 97388-7155,05-22-2008,Juazeiro do Norte,privada,2022-02-02,
+A00250,Rafaela Cavalcanti Araújo,854.025.416-80,rafaela.araujo196@aluno.ficticio.com,(85) 98326-1759,2008-09-20,Itapipoca,privada,2022-01-06,
+A00251,Caio Rodrigues Silva,42416525080,caio.silva830@aluno.ficticio.com,(85) 98883-8976,2005-12-07,Pacatuba,Federal,2023-01-17,Indicação
+A00252,Beatriz Nascimento Gomes,01192435459,,(85) 95326-8870,2004-07-23,Aquiraz,Federal,2025-02-17,instagram
+A00253,Felipe Costa Carvalho,793.376.014-88,felipe.carvalho948@aluno.ficticio.com,(85) 96395-9398,2008-06-09,Juazeiro do Norte,Federal,2025-02-17,Feira escolar
+A00254,Enzo Santos Barbosa,25891739852,enzo.barbosa564@aluno.ficticio.com,(85) 98218-3599,2006-03-13,FORTALEZA,Privada,2025-03-02,instagram
+A00255,Sofia Gomes Barbosa,717.591.740-46,sofia.barbosa136@aluno.ficticio.com,(85) 92257-4299,2003-09-06,Maracanaú,Publica,2023-01-10,instagram
+A00256,Lucas Correia Rodrigues,540.319.781-15,lucas.rodrigues224@aluno.ficticio.com,(85) 91647-7167,2008-04-02,FORTALEZA,Publica,2024-02-13,WhatsApp
+A00257,Davi Santos Correia,371.326.571-27,davi.correia508@aluno.ficticio.com,,2006-01-28,Eusébio,privada,2024-03-08,instagram
+A00258,Eduarda Ribeiro Teixeira,940.019.090-19,eduarda.teixeira343@aluno.ficticio.com,(85) 98412-1700,2005-03-02,FORTALEZA,,2024-01-07,WhatsApp
+A00259,Caio Cardoso Barbosa,807.155.568-95,caio.barbosa386@aluno.ficticio.com,(85) 98143-4559,2008-10-25,FORTALEZA,Federal,2025-03-25,Google
+A00260,Maria Gomes Martins,54967473403,maria.martins561@aluno.ficticio.com,(85) 99840-6360,2004-12-17,Aquiraz,Pública,03-03-2024,Google
+A00261,Antônio Costa Cavalcanti,77340559646,antonio.cavalcanti361@aluno.ficticio.com,(85) 94008-4487,2008-10-09,Eusébio,Não informado,14/01/2025,instagram
+A00262,Victor Lima Moura,763.191.133-97,victor.moura55@aluno.ficticio.com,(85) 96439-6048,2007-01-11,Eusébio,privada,2021-03-03,Instagram
+A00263,Karina Rodrigues Carvalho,593.375.312-85,karina.carvalho973@aluno.ficticio.com,(85) 93544-9922,2005-02-27,Sobral,privada,2025-01-23,Feira escolar
+A00264,Manuela Costa Moura,130.272.342-81,manuela.moura903@aluno.ficticio.com,(85) 95106-9172,2004-11-16,FORTALEZA,Federal,2022-01-13,
+A00265,Mariana Oliveira Silva,711.469.950-28,mariana.silva302@aluno.ficticio.com,(85) 93150-4831,2006-05-23,Horizonte,Federal,2024/03/20,Feira escolar
+A00266,Manuela Souza Almeida,353.856.440-07,manuela.almeida334@aluno.ficticio.com,(85) 93347-1342,2007-05-02,Pacatuba,Federal,2025-01-28,Indicação
+A00267,Helena Martins Almeida,884.362.437-70,helena.almeida458@aluno.ficticio.com,,2004-07-03,Itapipoca,Privada,01-04-2024,WhatsApp
+A00268,Lívia Almeida Martins,81717738816,livia.martins731@aluno.ficticio.com,(85) 96030-8869,2004-12-19,Horizonte,Privada,2021-02-24,Indicação
+A00269,Karina Oliveira Ribeiro,115.683.476-59,karina.ribeiro242@aluno.ficticio.com,,2004-12-08,Maracanau,Privada,2023-03-27,
+A00270,Olívia Almeida Rodrigues,662.306.755-01,olivia.rodrigues124@aluno.ficticio.com,(85) 99524-1811,2008-11-16,Juazeiro do Norte,privada,2024-03-27,WhatsApp
+A00271,HENRIQUE GOMES ALMEIDA,329.579.949-59,henrique.almeida940@aluno.ficticio.com,(85) 98359-3454,2004-06-04,FORTALEZA,Publica,2024-02-21,WhatsApp
+A00272,Nicolas Rodrigues Carvalho,12686584067,nicolas.carvalho697@aluno.ficticio.com,(85) 98321-4310,2003-12-25,Maracanaú,Privada,18/03/2023,instagram
+A00273,Mariana Nascimento Ferreira,71771936483,mariana.ferreira557@aluno.ficticio.com,(85) 91016-3239,2005-01-09,Eusébio,Publica,2023-01-10,
+A00274,Samuel Santos Almeida,807.252.496-17,samuel.almeida597@aluno.ficticio.com,(85) 98956-1704,2007-02-01,Eusébio,Publica,2025-03-28,Feira escolar
+A00275,ANTÔNIO SANTOS CAVALCANTI,90722882883,,(85) 99283-7277,2005-04-24,FORTALEZA,Privada,2021-01-02,Google
+A00276,Gabriela Cavalcanti Almeida,715.464.662-15,gabriela.almeida652@aluno.ficticio.com,(85) 95538-5154,2006-02-15,Eusébio,privada,2023-02-18,
+A00277,Laura Martins Moura,,laura.moura170@aluno.ficticio.com,(85) 94433-6983,2005-08-15,Maracanau,Pública,2024-01-16,
+A00278,Gustavo Gomes Cavalcanti,285.881.711-35,gustavo.cavalcanti196@aluno.ficticio.com,(85) 92241-2561,2004-09-08,Maracanaú,Publica,2024-01-16,Feira escolar
+A00279,Sofia Gomes Souza,,sofia.souza957@aluno.ficticio.com,(85) 95292-8547,2006-05-11,Maracanaú,Privada,2023-02-16,
+A00280,Victor Araújo Carvalho,310.230.508-27,victor.carvalho63@aluno.ficticio.com,(85) 92189-8020,2005-06-28,fortaleza,Pública,2021-03-23,Indicação
+A00281,Carla Almeida Almeida,85040144922,carla.almeida384@aluno.ficticio.com,(85) 94641-3647,2003-09-24,Juazeiro do Norte,privada,2025-01-15,
+A00282,Isabela Rodrigues Nascimento,672.153.019-69,isabela.nascimento766@aluno.ficticio.com,(85) 97243-9793,2004-11-27,Maracanaú,Federal,2022-01-04,Feira escolar
+A00283,Bruno Santos Silva,42631592884,bruno.silva106@aluno.ficticio.com,(85) 98116-3402,2004-01-18,Maracanau,Publica,2022-03-08,
+A00284,Yasmin Rocha Barbosa,86952626166,yasmin.barbosa464@aluno.ficticio.com,(85) 98102-4083,2007-03-05,Itapipoca,Privada,2023-01-11,Instagram
+A00285,Samuel Ribeiro Lima,517.082.166-66,samuel.lima446@aluno.ficticio.com,(85) 98831-2618,2006-10-08,Juazeiro do Norte,privada,2025-02-28,Instagram
+A00286,Rafael Rodrigues Araújo,311.710.850-89,rafael.araujo435@aluno.ficticio.com,(85) 97801-7677,2003-11-21,Sobral,Federal,2025-03-25,
+A00287,Gabriela Teixeira Dias,03244913629,gabriela.dias54@aluno.ficticio.com,,18/01/2005,Eusébio,privada,2024-03-21,
+A00288,Bruno Ferreira Nascimento,40377025871,bruno.nascimento310@aluno.ficticio.com,(85) 97278-5522,11-08-2004,FORTALEZA,Pública,2021-02-23,instagram
+A00289,Bruno Martins Moura,10656068616,bruno.moura516@aluno.ficticio.com,(85) 92359-4126,2003-01-23,Itapipoca,Não informado,2021/01/23,
+A00290,Henrique Cardoso Gomes,,henrique.gomes293@aluno.ficticio.com,,2008-08-04,Crato,Pública,2025-02-17,Instagram
+A00291,Luísa Almeida Araújo,44561772448,luisa.araujo780@aluno.ficticio.com,(85) 93545-6681,2007-03-27,Fortaleza,Federal,2022/01/14,instagram
+A00292,Sofia Barbosa Moura,50001787281,sofia.moura524@aluno.ficticio.com,(85) 98357-3078,2008-02-12,Itapipoca,,2023-02-25,Google
+A00293,Diego Melo Martins,09077267938,diego.martins723@aluno.ficticio.com,(85) 97021-9974,2007-01-08,Crato,Pública,2023-02-12,
+A00294,Eduarda Moura Nascimento,29898008626,eduarda.nascimento329@aluno.ficticio.com,(85) 94091-8214,2003-08-10,Crato,privada,2021-02-16,Feira escolar
+A00295,Ana Santos Melo,437.670.901-53,ana.melo758@aluno.ficticio.com,(85) 97511-8035,2005-03-22,Caucaia,,2021-03-27,WhatsApp
+A00296,Gabriela Melo Moura,98836639819,gabriela.moura183@aluno.ficticio.com,(85) 94210-5003,2008-07-04,Sobral,privada,2021-03-12,Instagram
+A00297,Bruno Silva Costa,461.252.840-23,,(85) 92871-8416,2007-10-05,Itapipoca,Pública,2025-02-20,Indicação
+A00298,Rafael Ferreira Oliveira,774.622.204-83,rafael.oliveira741@aluno.ficticio.com,(85) 96390-4131,2008-04-12,Pacatuba,Privada,2023-03-02,
+A00299,Heitor Melo Barbosa,96161454372,heitor.barbosa394@aluno.ficticio.com,(85) 99416-9076,2007-08-09,Fortaleza,privada,2022-03-28,instagram
+A00300,Manuela Dias Martins,15766439187,manuela.martins697@aluno.ficticio.com,(85) 98140-8089,2003-01-13,Aquiraz,Pública,01-17-2025,
+A00301,Mariana Araújo Oliveira,96422145516,mariana.oliveira321@aluno.ficticio.com,,2004-04-06,Aquiraz,Pública,2022-03-03,instagram
+A00302,Antônio Almeida Moreira,95273543542,antonio.moreira514@aluno.ficticio.com,(85) 96495-5883,2003-12-20,Sobral,Privada,2024/01/23,WhatsApp
+A00303,Henrique Barbosa Ferreira,201.032.294-25,henrique.ferreira522@aluno.ficticio.com,(85) 95246-7136,2008-04-18,Maracanaú,Publica,2022-03-09,WhatsApp
+A00304,Rafaela Carvalho Rodrigues,97841675417,rafaela.rodrigues149@aluno.ficticio.com,,2004-06-02,Eusébio,Pública,2022-01-03,
+A00305,Henrique Ferreira Rocha,78661607208,henrique.rocha527@aluno.ficticio.com,(85) 93057-4386,2008-03-08,fortaleza,,2025-03-23,Indicação
+A00306,Alice Melo Nascimento,568.725.052-42,alice.nascimento356@aluno.ficticio.com,(85) 96048-8876,2005-11-04,fortaleza,Publica,2021-02-23,
+A00307,Antônio Oliveira Almeida,514.137.053-16,antonio.almeida155@aluno.ficticio.com,(85) 99574-8014,2004-05-03,FORTALEZA,privada,2021-01-08,instagram
+A00308,Victor Araújo Cardoso,647.743.091-07,victor.cardoso171@aluno.ficticio.com,(85) 94711-4156,2007-06-28,Pacatuba,,2024-01-24,
+A00309,Pedro Ferreira Lima,28863258274,,(85) 94506-7071,2007-04-03,Caucaia,Pública,2023-01-24,
+A00310,Antônio Araújo Carvalho,134.837.970-04,antonio.carvalho555@aluno.ficticio.com,(85) 99847-2707,2003-06-01,FORTALEZA,privada,2023-02-19,instagram
+A00311,Arthur Almeida Cardoso,421.552.139-22,arthur.cardoso60@aluno.ficticio.com,(85) 97346-7263,2006-05-14,FORTALEZA,privada,2023-03-09,Feira escolar
+A00312,Gustavo Almeida Dias,08816339171,gustavo.dias684@aluno.ficticio.com,(85) 92030-6624,08-19-2003,Eusébio,Pública,2025-01-25,Indicação
+A00313,Maria Cardoso Rocha,44330851087,maria.rocha933@aluno.ficticio.com,,2006-05-15,Itapipoca,Privada,2021-03-07,instagram
+A00314,João Moreira Moreira,73058518111,joao.moreira891@aluno.ficticio.com,(85) 98499-6878,2003-03-13,Maracanau,Pública,2022-02-14,Feira escolar
+A00315,Manuela Ferreira Rodrigues,650.899.026-51,manuela.rodrigues610@aluno.ficticio.com,,2008-02-11,Juazeiro do Norte,Não informado,2024-02-02,instagram
+A00316,Laura Rodrigues Moreira,878.458.404-99,laura.moreira71@aluno.ficticio.com,(85) 91443-7012,2005-03-19,Maracanaú,Pública,2023-02-01,Feira escolar
+A00317,Henrique Almeida Silva,82308143890,henrique.silva409@aluno.ficticio.com,(85) 96382-2315,2004-10-05,Caucaia,Não informado,2024-01-01,Instagram
+A00318,Helena Cardoso Ferreira,739.981.563-71,helena.ferreira958@aluno.ficticio.com,(85) 97155-8808,2008-09-12,Eusébio,Pública,2024-01-07,Google
+A00319,Eduarda Moreira Pereira,62474868716,eduarda.pereira320@aluno.ficticio.com,(85) 93025-5330,2004-06-24,Crato,Não informado,2023-03-04,WhatsApp
+A00320,Victor Martins Lima,10509998218,victor.lima366@aluno.ficticio.com,(85) 94185-8458,2004-06-18,Horizonte,Não informado,2025-02-14,Instagram
+A00321,Enzo Melo Moreira,511.116.369-11,enzo.moreira979@aluno.ficticio.com,,2007-05-17,Fortaleza,,2025-02-09,Google
+A00322,Alice Santos Martins,311.405.036-98,alice.martins893@aluno.ficticio.com,(85) 95188-6078,2007-01-11,Caucaia,Privada,2023-03-08,Google
+A00323,Davi Melo Santos,70063231774,davi.santos563@aluno.ficticio.com,(85) 97264-2284,2007-06-08,Itapipoca,privada,2021-03-03,
+A00324,Gabriela Dias Rodrigues,94534463780,gabriela.rodrigues768@aluno.ficticio.com,(85) 94463-8299,2004-12-27,Sobral,Não informado,2022-01-20,
+A00325,Karina Teixeira Costa,53960497481,karina.costa672@aluno.ficticio.com,(85) 96873-5092,2005-05-16,Pacatuba,Pública,2021-01-23,
+A00326,Olívia Rocha Correia,13096529901,olivia.correia593@aluno.ficticio.com,(85) 91486-5221,2005-06-02,Caucaia,Não informado,2023-03-25,
+A00327,Ana Dias Carvalho,96096323559,ana.carvalho324@aluno.ficticio.com,(85) 92728-4295,2008-07-19,Caucaia,Federal,2025-03-05,Instagram
+A00328,BRUNO PEREIRA OLIVEIRA,62737608145,bruno.oliveira122@aluno.ficticio.com,(85) 96799-7944,2005-08-19,fortaleza,Privada,2021-03-10,instagram
+A00329,Arthur Martins Nascimento,84091673516,arthur.nascimento80@aluno.ficticio.com,(85) 96471-6142,2007/07/14,Caucaia,,2024-03-01,Google
+A00330,Karina Gomes Almeida,511.157.388-71,karina.almeida315@aluno.ficticio.com,(85) 97020-2612,2003-10-22,Itapipoca,privada,2022-01-01,instagram
+A00331,Lívia Moura Melo,375.906.468-76,livia.melo177@aluno.ficticio.com,(85) 93828-9974,2003-05-02,fortaleza,Não informado,2025/02/14,Feira escolar
+A00332,Laura Carvalho Ribeiro,644.800.365-81,laura.ribeiro282@aluno.ficticio.com,,2004-05-16,Horizonte,privada,2023-01-24,Indicação
+A00333,Manuela Cardoso Oliveira,70125303637,manuela.oliveira130@aluno.ficticio.com,(85) 92164-2584,2006-04-22,Horizonte,privada,2021-03-10,Instagram
+A00334,Nicolas Santos Melo,017.914.023-62,nicolas.melo521@aluno.ficticio.com,(85) 97193-9752,2004-05-12,Juazeiro do Norte,Privada,2024-02-05,WhatsApp
+A00335,Sofia Lima Correia,832.245.291-00,sofia.correia644@aluno.ficticio.com,,2007-10-28,Juazeiro do Norte,Privada,2025/01/12,instagram
+A00336,Gabriela Santos Souza,518.054.183-00,,(85) 94761-1888,2008-01-15,Horizonte,Não informado,2022-01-14,Indicação
+A00337,Lívia Nascimento Moura,,livia.moura313@aluno.ficticio.com,(85) 91747-6632,2006-02-05,Itapipoca,Não informado,2025-03-25,instagram
+A00338,Gabriela Moreira Dias,686.800.705-00,gabriela.dias636@aluno.ficticio.com,(85) 99557-2475,2006-08-21,fortaleza,Privada,2021-03-25,WhatsApp
+A00339,Beatriz Lima Carvalho,31563246292,beatriz.carvalho331@aluno.ficticio.com,(85) 96606-1845,2007-05-05,Juazeiro do Norte,Não informado,2022-03-24,Indicação
+A00340,Mariana Dias Martins,98996517762,mariana.martins565@aluno.ficticio.com,(85) 97586-6481,2005-03-22,Aquiraz,,2021-01-16,
+A00341,Gustavo Moreira Araújo,,gustavo.araujo639@aluno.ficticio.com,(85) 95521-7679,2004/11/14,Pacatuba,Federal,2025-02-16,instagram
+A00342,Maria Santos Ferreira,66974808834,,(85) 91904-8809,2005-04-20,Juazeiro do Norte,Pública,2024-02-08,Instagram
+A00343,ANTÔNIO COSTA PEREIRA,48193315602,antonio.pereira285@aluno.ficticio.com,(85) 96449-4019,2006-01-26,Pacatuba,privada,2021-01-23,Instagram
+A00344,Henrique Nascimento Almeida,67225655872,henrique.almeida593@aluno.ficticio.com,(85) 92558-2222,2003-07-03,Juazeiro do Norte,,2022-03-07,Google
+A00345,João Carvalho Almeida,94953297861,joao.almeida1@aluno.ficticio.com,(85) 95093-8791,2008-10-22,Crato,Privada,2024-02-12,Instagram
+A00346,Victor Martins Dias,88594769050,victor.dias763@aluno.ficticio.com,(85) 92967-4320,2008-05-04,Maracanaú,Não informado,2021-03-22,Google
+A00347,Olívia Almeida Cavalcanti,11952231719,olivia.cavalcanti670@aluno.ficticio.com,(85) 98027-9566,2006-12-12,Sobral,Pública,2021-03-25,Instagram
+A00348,Pedro Dias Dias,014.328.106-08,pedro.dias733@aluno.ficticio.com,(85) 96253-2641,2005-10-22,Sobral,Publica,2024-01-17,instagram
+A00349,Isabela Lima Lima,19724700105,isabela.lima550@aluno.ficticio.com,(85) 92755-8650,2005-03-05,Aquiraz,,2024-03-18,Google
+A00350,Rafaela Nascimento Silva,550.592.407-40,rafaela.silva157@aluno.ficticio.com,(85) 92825-5563,2007-06-27,Caucaia,Não informado,2023-03-10,instagram
+A00351,Eduarda Gomes Silva,63804036927,eduarda.silva607@aluno.ficticio.com,(85) 91844-8137,2005-10-13,Horizonte,Não informado,2025-01-05,Instagram
+A00352,Carla Carvalho Carvalho,70708521534,carla.carvalho963@aluno.ficticio.com,(85) 96660-8867,2003-03-02,Eusébio,Pública,01-14-2024,Instagram
+A00353,Alice Nascimento Cardoso,99177356153,alice.cardoso217@aluno.ficticio.com,,2005-12-18,Caucaia,Publica,2021-02-15,WhatsApp
+A00354,Mariana Souza Araújo,018.183.889-57,mariana.araujo414@aluno.ficticio.com,(85) 91228-9354,2008-05-28,Crato,,2021-01-21,Google
+A00355,Enzo Nascimento Araújo,111.810.516-48,enzo.araujo696@aluno.ficticio.com,(85) 95900-7936,2008-07-13,Eusébio,Pública,2021-02-26,Feira escolar
+A00356,Bruno Lima Santos,49290185870,bruno.santos261@aluno.ficticio.com,(85) 91466-7696,2007-12-02,Horizonte,Não informado,2021-03-02,
+A00357,Gustavo Costa Gomes,818.804.430-81,gustavo.gomes253@aluno.ficticio.com,,2005-04-10,Itapipoca,Federal,2024-02-27,Google
+A00358,Maria Pereira Teixeira,43476871071,maria.teixeira63@aluno.ficticio.com,(85) 96776-1312,2003-04-05,Sobral,Publica,2023-03-26,Google
+A00359,Davi Silva Carvalho,406.658.012-70,davi.carvalho1@aluno.ficticio.com,,2005-02-24,Sobral,Não informado,2024-01-16,Instagram
+A00360,Diego Dias Oliveira,44066529222,diego.oliveira764@aluno.ficticio.com,,2007-03-07,Pacatuba,Publica,2025-03-14,Google
+A00361,Lívia Souza Almeida,619.010.734-92,livia.almeida884@aluno.ficticio.com,(85) 95215-4280,2007-02-27,Maracanaú,Não informado,2025-02-17,Feira escolar
+A00362,Tatiane Martins Ferreira,730.697.245-37,tatiane.ferreira717@aluno.ficticio.com,(85) 91047-3603,2003-04-15,Caucaia,Não informado,06/02/2023,instagram
+A00363,Gustavo Rodrigues Melo,88199034281,gustavo.melo473@aluno.ficticio.com,(85) 99387-8173,2007-03-11,Aquiraz,Privada,2021-02-05,WhatsApp
+A00364,Caio Araújo Almeida,475.501.086-69,caio.almeida164@aluno.ficticio.com,(85) 95867-2519,2005-10-10,FORTALEZA,Não informado,2023-01-18,Indicação
+A00365,Miguel Barbosa Silva,36994885745,miguel.silva460@aluno.ficticio.com,(85) 98423-7826,2007-04-21,Maracanau,Não informado,2021-01-25,Google
+A00366,Karina Barbosa Oliveira,863.184.693-91,karina.oliveira897@aluno.ficticio.com,(85) 93167-5438,2004-07-14,FORTALEZA,Privada,2025-01-07,Instagram
+A00367,Luísa Souza Teixeira,002.898.801-97,luisa.teixeira414@aluno.ficticio.com,(85) 97260-5957,2005-03-24,Maracanau,Não informado,2025-01-26,Google
+A00368,Victor Carvalho Dias,044.181.114-83,victor.dias44@aluno.ficticio.com,(85) 93560-4975,2008-07-15,Caucaia,Privada,2021-01-03,instagram
+A00369,Victor Melo Melo,03424442528,victor.melo529@aluno.ficticio.com,(85) 99034-5458,2006-01-03,Crato,Não informado,2024-02-28,Instagram
+A00370,Miguel Ribeiro Moreira,586.350.684-78,miguel.moreira330@aluno.ficticio.com,(85) 93066-1016,22/01/2004,Crato,privada,2023-02-05,Instagram
+A00371,Caio Oliveira Melo,559.010.456-90,caio.melo76@aluno.ficticio.com,(85) 91593-2022,2004-10-09,Fortaleza,Privada,2025-03-22,Instagram
+A00372,Davi Souza Ferreira,706.315.296-31,davi.ferreira264@aluno.ficticio.com,(85) 92377-1299,2007-09-01,Aquiraz,privada,2021-03-13,Instagram
+A00373,Enzo Santos Moreira,777.539.308-91,enzo.moreira13@aluno.ficticio.com,(85) 94989-9327,2007/04/05,Pacatuba,Federal,2024-02-04,
+A00374,Henrique Pereira Almeida,499.772.090-89,henrique.almeida980@aluno.ficticio.com,(85) 96635-4778,2004-08-07,Maracanaú,Privada,2025-03-04,Instagram
+A00375,Gabriela Almeida Almeida,11588976577,gabriela.almeida914@aluno.ficticio.com,(85) 93860-4199,2003-05-04,Maracanau,Pública,2023-01-19,Feira escolar
+A00376,Pedro Ferreira Silva,305.221.833-02,pedro.silva686@aluno.ficticio.com,(85) 97861-6719,2004-01-07,Sobral,Publica,2021-01-06,instagram
+A00377,Rafaela Carvalho Rocha,375.863.226-85,rafaela.rocha985@aluno.ficticio.com,(85) 93873-3924,2003-03-05,Eusébio,Pública,2023-03-28,
+A00378,João Rocha Teixeira,977.180.189-29,joao.teixeira359@aluno.ficticio.com,,2004-05-05,Aquiraz,Privada,2025-01-24,Google
+A00379,Beatriz Silva Souza,53046185084,beatriz.souza510@aluno.ficticio.com,(85) 96454-3402,2008-12-12,Maracanau,,2025-03-28,
+A00380,Beatriz Melo Dias,96070232243,beatriz.dias811@aluno.ficticio.com,(85) 91571-7515,2003-07-06,Eusébio,,2025-02-25,WhatsApp
+A00381,Beatriz Moreira Rocha,113.828.789-16,beatriz.rocha829@aluno.ficticio.com,(85) 98096-7876,2008-05-19,Caucaia,Privada,2022-01-28,WhatsApp
+A00382,LAURA BARBOSA NASCIMENTO,87719411539,laura.nascimento376@aluno.ficticio.com,(85) 92344-9365,2008-02-26,Itapipoca,Privada,2021-01-23,Google
+A00383,Laura Oliveira Santos,636.941.455-23,laura.santos479@aluno.ficticio.com,(85) 99693-1059,2003-11-04,Crato,privada,2022-02-15,instagram
+A00384,Sofia Costa Cavalcanti,74627799239,sofia.cavalcanti230@aluno.ficticio.com,,2008-10-09,Maracanau,Pública,2022-01-22,WhatsApp
+A00385,Tatiane Correia Moura,524.439.404-86,tatiane.moura1@aluno.ficticio.com,(85) 92244-9684,2005-09-26,Sobral,Não informado,2025-01-10,Google
+A00386,Antônio Araújo Moreira,684.814.422-75,antonio.moreira238@aluno.ficticio.com,(85) 93875-7418,2006-03-09,Maracanau,Privada,2023-02-12,instagram
+A00387,Olívia Santos Costa,638.101.970-84,,(85) 99904-4808,2006-03-07,Caucaia,privada,2025-02-17,Indicação
+A00388,Victor Lima Ferreira,02441192265,victor.ferreira993@aluno.ficticio.com,(85) 97618-3374,2007-04-18,Juazeiro do Norte,Pública,2023-03-08,instagram
+A00389,Karina Moreira Cavalcanti,18209105014,karina.cavalcanti305@aluno.ficticio.com,(85) 97437-5209,2003-02-08,FORTALEZA,Federal,2024-02-27,Feira escolar
+A00390,Caio Pereira Moreira,906.965.805-45,caio.moreira76@aluno.ficticio.com,(85) 99610-1594,2003-03-28,Maracanau,Privada,2024-02-14,instagram
+A00391,Enzo Rocha Souza,428.126.422-95,enzo.souza559@aluno.ficticio.com,,06-06-2004,Horizonte,privada,2024-03-03,instagram
+A00392,Valentina Dias Ferreira,,valentina.ferreira750@aluno.ficticio.com,(85) 93734-7481,2003-08-14,Pacatuba,Publica,2021-03-18,WhatsApp
+A00393,Tatiane Moreira Teixeira,109.738.824-35,tatiane.teixeira891@aluno.ficticio.com,(85) 98978-4380,2004-03-22,Itapipoca,Publica,2022-01-16,Feira escolar
+A00394,Luísa Martins Souza,18096360031,luisa.souza465@aluno.ficticio.com,(85) 93662-9543,04-07-2008,FORTALEZA,Não informado,2022-01-22,instagram
+A00395,Carla Cavalcanti Correia,289.870.156-51,carla.correia639@aluno.ficticio.com,(85) 96907-2557,2004-08-21,fortaleza,Pública,2022-02-26,Instagram
+A00396,Samuel Rocha Nascimento,13452105216,samuel.nascimento91@aluno.ficticio.com,(85) 95372-4243,2006-07-03,Aquiraz,Não informado,2024-01-24,Google
+A00397,Karina Gomes Dias,691.310.306-74,karina.dias712@aluno.ficticio.com,(85) 97231-5645,2004-04-16,Sobral,Privada,2024-02-14,WhatsApp
+A00398,Luísa Araújo Moura,681.882.347-24,luisa.moura944@aluno.ficticio.com,(85) 91640-7765,2006-02-17,Eusébio,Publica,2022-01-09,Instagram
+A00399,Karina Correia Lima,29739411676,,(85) 96749-5933,2004-08-22,Maracanaú,Publica,2024-01-16,Google
+A00400,Carla Lima Costa,37671135042,carla.costa167@aluno.ficticio.com,(85) 92843-7408,2003-07-19,Crato,privada,2023/03/19,instagram
+A00401,Heitor Teixeira Araújo,511.007.343-56,heitor.araujo180@aluno.ficticio.com,(85) 96522-1584,2004-11-22,Eusébio,Privada,2024/02/19,Feira escolar
+A00402,Antônio Carvalho Dias,307.970.657-21,antonio.dias293@aluno.ficticio.com,(85) 95951-9403,2006/02/25,Fortaleza,,2025-01-03,Indicação
+A00403,Manuela Correia Cardoso,70162902660,manuela.cardoso384@aluno.ficticio.com,(85) 97146-2823,2007-05-25,FORTALEZA,Publica,2022-03-06,instagram
+A00404,Samuel Carvalho Melo,032.677.207-06,samuel.melo928@aluno.ficticio.com,(85) 94222-7604,2005-02-22,Maracanaú,Pública,2023-02-15,WhatsApp
+A00405,Olívia Rocha Rocha,06957313938,olivia.rocha339@aluno.ficticio.com,(85) 95313-2697,2007-12-16,Horizonte,privada,2023-01-01,Feira escolar
+A00406,DAVI SILVA FERREIRA,48705212512,davi.ferreira268@aluno.ficticio.com,(85) 98602-6495,2005-09-06,Caucaia,Não informado,2024-01-21,
+A00407,Luísa Barbosa Ferreira,203.937.598-97,luisa.ferreira992@aluno.ficticio.com,(85) 94994-1726,2004-10-10,Horizonte,Privada,2025-01-05,Indicação
+A00408,Olívia Silva Melo,393.890.603-30,olivia.melo370@aluno.ficticio.com,(85) 93064-2955,2007-08-25,Fortaleza,privada,2023-02-01,Instagram
+A00409,Victor Lima Ribeiro,565.562.152-58,victor.ribeiro409@aluno.ficticio.com,(85) 95744-5226,2005-07-10,Maracanau,Pública,2021-03-01,Instagram
+A00410,Nicolas Moreira Silva,699.651.421-49,nicolas.silva826@aluno.ficticio.com,(85) 93332-2348,2007-02-25,Maracanau,Federal,2021-02-04,Google
+A00411,Alice Rocha Carvalho,317.754.001-55,alice.carvalho933@aluno.ficticio.com,,2006-03-07,Horizonte,Pública,2024-01-19,instagram
+A00412,Nicolas Rodrigues Ribeiro,04663854718,nicolas.ribeiro257@aluno.ficticio.com,(85) 93557-3962,2006-09-03,Horizonte,Privada,2024-02-28,Feira escolar
+A00413,Sofia Melo Rocha,465.105.152-02,sofia.rocha34@aluno.ficticio.com,(85) 93843-6370,24/07/2005,Crato,Federal,2021-02-25,
+A00414,Beatriz Gomes Pereira,85380676821,beatriz.pereira741@aluno.ficticio.com,(85) 93705-1329,2006-03-20,FORTALEZA,,2022-01-10,instagram
+A00415,Antônio Correia Carvalho,988.559.073-59,antonio.carvalho199@aluno.ficticio.com,(85) 94211-8608,2004-05-05,Aquiraz,Federal,2023-03-25,Google
+A00416,Pedro Ribeiro Gomes,581.156.794-05,pedro.gomes357@aluno.ficticio.com,(85) 92321-2002,2008-07-23,Aquiraz,Não informado,2025-03-19,Instagram
+A00417,Manuela Rodrigues Araújo,47646224880,manuela.araujo675@aluno.ficticio.com,(85) 92919-2179,2004-07-23,Itapipoca,Privada,23/02/2022,Indicação
+A00418,Miguel Cardoso Rodrigues,29851075860,miguel.rodrigues154@aluno.ficticio.com,(85) 98764-9704,2006-11-28,Caucaia,Publica,2025-02-03,Instagram
+A00419,Antônio Rodrigues Moreira,93409208295,antonio.moreira527@aluno.ficticio.com,(85) 93342-6679,2007-11-09,Aquiraz,Federal,2024-01-25,Instagram
+A00420,Manuela Gomes Rocha,245.010.928-75,manuela.rocha832@aluno.ficticio.com,(85) 97538-7402,2008-06-05,Crato,Federal,2024-02-09,Feira escolar
+A00421,Henrique Santos Martins,886.374.139-99,henrique.martins567@aluno.ficticio.com,(85) 92044-8004,2004-12-28,Maracanaú,,2024-03-13,instagram
+A00422,Felipe Cavalcanti Ferreira,31057687250,felipe.ferreira478@aluno.ficticio.com,(85) 96909-1107,2007-12-09,Fortaleza,privada,2023-02-16,Feira escolar
+A00423,Rafael Pereira Moreira,66723623644,rafael.moreira116@aluno.ficticio.com,(85) 94465-4756,2005-05-03,Pacatuba,Federal,2024-02-24,Feira escolar
+A00424,Laura Martins Oliveira,32192685928,laura.oliveira994@aluno.ficticio.com,(85) 95629-8824,2008-01-01,Maracanaú,Publica,2025-01-21,Indicação
+A00425,Nicolas Moreira Carvalho,366.013.233-16,nicolas.carvalho583@aluno.ficticio.com,(85) 98382-7654,2006-09-03,Pacatuba,Privada,2025-02-06,WhatsApp
+A00426,Nicolas Silva Moreira,26586595091,nicolas.moreira347@aluno.ficticio.com,(85) 92316-8686,02-16-2006,Maracanaú,Pública,2024-01-14,Instagram
+A00427,Mariana Moreira Rocha,72752843094,mariana.rocha898@aluno.ficticio.com,(85) 94875-7765,2004-04-26,Itapipoca,Pública,03-27-2024,instagram
+A00428,Samuel Teixeira Lima,43945500267,samuel.lima192@aluno.ficticio.com,(85) 99276-8370,2005-01-11,Maracanaú,Não informado,2022-01-18,Indicação
+A00429,Arthur Oliveira Nascimento,282.859.602-70,arthur.nascimento208@aluno.ficticio.com,(85) 98903-2538,2006-10-10,Fortaleza,Não informado,2025-02-09,Indicação
+A00430,Alice Lima Santos,56140213013,alice.santos531@aluno.ficticio.com,,2007-09-10,Maracanau,Privada,2024-01-15,WhatsApp
+A00431,Karina Santos Araújo,13618820227,karina.araujo299@aluno.ficticio.com,(85) 97695-4855,2005-12-14,Maracanaú,Publica,2023-02-24,Feira escolar
+A00432,Gustavo Rocha Carvalho,08365289992,gustavo.carvalho496@aluno.ficticio.com,(85) 97602-6340,2006-08-13,fortaleza,Pública,2025-01-28,Google
+A00433,Laura Gomes Cardoso,069.042.640-65,laura.cardoso373@aluno.ficticio.com,(85) 99674-3063,2005-04-23,Caucaia,Privada,2022/01/12,Google
+A00434,Yasmin Gomes Moreira,44934209488,yasmin.moreira458@aluno.ficticio.com,(85) 99573-1301,2005-11-22,Eusébio,Pública,02-13-2024,Google
+A00435,Arthur Oliveira Costa,346.897.196-39,arthur.costa208@aluno.ficticio.com,(85) 91110-4513,2004-04-11,Pacatuba,Não informado,2024-01-04,WhatsApp
+A00436,Eduarda Oliveira Carvalho,28191034028,eduarda.carvalho422@aluno.ficticio.com,(85) 94702-6566,2005-12-05,Itapipoca,Federal,2024-01-10,instagram
+A00437,Antônio Rocha Gomes,16052846976,antonio.gomes77@aluno.ficticio.com,(85) 94237-5322,2003-06-13,Horizonte,Publica,2025-02-17,Google
+A00438,Yasmin Araújo Costa,98374613844,yasmin.costa629@aluno.ficticio.com,(85) 98519-4504,2007-05-01,Juazeiro do Norte,Não informado,2022-02-25,Instagram
+A00439,Luísa Lima Martins,815.438.714-43,luisa.martins292@aluno.ficticio.com,(85) 93907-1054,2008-11-11,Caucaia,,2024-03-10,WhatsApp
+A00440,Manuela Oliveira Gomes,99169638562,manuela.gomes446@aluno.ficticio.com,(85) 92431-3298,2008-01-26,Caucaia,Não informado,2024-03-24,Feira escolar
+A00441,Felipe Oliveira Lima,522.651.325-91,felipe.lima21@aluno.ficticio.com,(85) 91020-3490,2004-01-09,Caucaia,Privada,02-15-2022,Instagram
+A00442,Valentina Ferreira Barbosa,936.938.507-15,valentina.barbosa643@aluno.ficticio.com,(85) 99272-1058,2008-10-20,fortaleza,privada,2023-02-03,Indicação
+A00443,Davi Correia Oliveira,339.466.483-82,davi.oliveira854@aluno.ficticio.com,(85) 91643-5353,2005-02-12,Sobral,Privada,2021-03-16,Indicação
+A00444,Maria Santos Lima,941.240.577-29,maria.lima846@aluno.ficticio.com,(85) 95552-1190,2008-01-17,Maracanau,Pública,2024-01-24,Feira escolar
+A00445,Gabriela Pereira Pereira,578.700.527-76,gabriela.pereira667@aluno.ficticio.com,,2008-12-07,Caucaia,Pública,2021-02-09,Google
+A00446,Luísa Silva Pereira,010.952.084-08,luisa.pereira588@aluno.ficticio.com,(85) 98629-6395,2004-05-09,Aquiraz,Pública,2024-02-04,Indicação
+A00447,Enzo Lima Correia,985.359.054-88,enzo.correia852@aluno.ficticio.com,(85) 98474-2216,2006-05-19,FORTALEZA,Privada,2025-03-12,Feira escolar
+A00448,Felipe Correia Teixeira,234.071.325-06,felipe.teixeira819@aluno.ficticio.com,,2003-05-20,Horizonte,Publica,2025-03-13,WhatsApp
+A00449,Maria Souza Silva,449.444.770-12,maria.silva555@aluno.ficticio.com,(85) 94869-9154,2005-10-14,Aquiraz,Pública,2024-02-20,WhatsApp
+A00450,Miguel Moura Araújo,42850509834,miguel.araujo994@aluno.ficticio.com,(85) 93866-3578,02-15-2004,Aquiraz,Privada,2025-03-10,
+A00451,Beatriz Gomes Lima,565.926.258-65,beatriz.lima574@aluno.ficticio.com,(85) 96808-4852,2008-11-22,Pacatuba,Pública,2024-02-07,Indicação
+A00452,Beatriz Nascimento Araújo,904.066.081-17,beatriz.araujo831@aluno.ficticio.com,(85) 99552-3680,2007-04-06,Aquiraz,Publica,2023-02-25,instagram
+A00453,Lucas Ferreira Barbosa,171.887.977-27,,(85) 91397-6728,2005-12-08,Itapipoca,Privada,2023-01-10,Indicação
+A00454,Samuel Costa Ribeiro,804.442.742-52,samuel.ribeiro957@aluno.ficticio.com,(85) 95477-5173,2003-06-13,Fortaleza,Privada,2023-01-25,WhatsApp
+A00455,Lucas Carvalho Teixeira,90665432783,lucas.teixeira540@aluno.ficticio.com,(85) 98492-2588,2005-01-14,Juazeiro do Norte,Federal,2025-02-12,Feira escolar
+A00456,Gabriela Santos Souza,785.187.226-34,gabriela.souza445@aluno.ficticio.com,,2006-01-17,Juazeiro do Norte,privada,2024-01-11,instagram
+A00457,Davi Melo Gomes,535.079.448-23,davi.gomes290@aluno.ficticio.com,(85) 93049-4049,2006-05-17,Itapipoca,,2023-03-23,instagram
+A00458,Alice Cavalcanti Moreira,77383873531,alice.moreira223@aluno.ficticio.com,(85) 93625-6105,2005-01-16,Crato,Privada,2021-02-23,
+A00459,Gustavo Nascimento Almeida,94652420412,gustavo.almeida171@aluno.ficticio.com,(85) 97868-7155,2003-02-14,Crato,Publica,2024-02-25,WhatsApp
+A00460,Olívia Pereira Almeida,24045231997,,(85) 99373-4568,11-15-2008,Eusébio,Federal,2024-01-09,Instagram
+A00461,Heitor Oliveira Melo,,heitor.melo183@aluno.ficticio.com,(85) 97937-8790,10/11/2004,Crato,Não informado,2024-01-21,Google
+A00462,Caio Lima Souza,29835067858,caio.souza360@aluno.ficticio.com,(85) 95719-8063,2005-06-24,Crato,Não informado,2023-03-24,Google
+A00463,Gustavo Almeida Martins,068.928.080-82,gustavo.martins880@aluno.ficticio.com,(85) 91484-6795,2008-07-20,FORTALEZA,Não informado,2025-02-02,Google
+A00464,Mariana Oliveira Oliveira,69922001456,mariana.oliveira848@aluno.ficticio.com,(85) 99569-8664,2007-05-20,Maracanaú,privada,2024-03-12,instagram
+A00465,Bruno Costa Ferreira,06749691513,bruno.ferreira693@aluno.ficticio.com,(85) 95372-9436,2007-06-02,fortaleza,Federal,2023-01-13,Indicação
+A00466,GUSTAVO ARAÚJO FERREIRA,174.503.695-83,gustavo.ferreira361@aluno.ficticio.com,(85) 94478-2590,2006-05-13,Sobral,privada,2025-02-17,Google
+A00467,Gabriela Santos Gomes,994.639.881-24,gabriela.gomes594@aluno.ficticio.com,(85) 97351-5167,2008-08-10,Maracanau,Não informado,2025-02-04,instagram
+A00468,Henrique Dias Silva,754.841.212-67,henrique.silva366@aluno.ficticio.com,(85) 91895-8391,25/06/2004,Juazeiro do Norte,Pública,2024-01-25,Instagram
+A00469,Mariana Carvalho Silva,76075177556,mariana.silva182@aluno.ficticio.com,(85) 91959-6907,2005-06-14,Pacatuba,Não informado,03/01/2025,Indicação
+A00470,Beatriz Almeida Barbosa,05202423561,beatriz.barbosa157@aluno.ficticio.com,(85) 97487-7457,2007-10-13,Sobral,privada,2023-01-13,Indicação
+A00471,Antônio Almeida Moura,45893405146,antonio.moura201@aluno.ficticio.com,(85) 98408-3714,2006-10-14,Aquiraz,Privada,2021-01-02,WhatsApp
+A00472,Samuel Ferreira Costa,277.476.507-17,samuel.costa721@aluno.ficticio.com,(85) 97980-1878,2006-03-12,FORTALEZA,Federal,2024-01-21,Instagram
+A00473,Diego Souza Dias,83338080449,diego.dias62@aluno.ficticio.com,(85) 98122-2528,2003-01-09,Crato,Não informado,2025-03-01,Feira escolar
+A00474,Arthur Pereira Silva,379.659.617-11,arthur.silva835@aluno.ficticio.com,(85) 95735-4979,2006-10-03,Aquiraz,Pública,2024-02-11,Instagram
+A00475,Enzo Almeida Araújo,28016247440,enzo.araujo25@aluno.ficticio.com,(85) 97900-2223,2006-12-26,Caucaia,privada,2022-01-15,Indicação
+A00476,Arthur Cardoso Almeida,59119320575,arthur.almeida221@aluno.ficticio.com,(85) 92781-2099,2005-02-10,Crato,,2022-01-25,Instagram
+A00477,Ana Ferreira Melo,50656397757,ana.melo192@aluno.ficticio.com,(85) 96761-7004,2003-01-11,Juazeiro do Norte,Não informado,2023-03-24,
+A00478,Caio Moura Ribeiro,868.989.125-82,caio.ribeiro293@aluno.ficticio.com,(85) 93919-7874,2004/07/03,Pacatuba,Não informado,2023-02-21,Google
+A00479,Manuela Almeida Cavalcanti,774.201.363-52,manuela.cavalcanti459@aluno.ficticio.com,(85) 95128-1801,2005-01-13,Sobral,Não informado,2025-02-25,Instagram
+A00480,Rafaela Souza Cardoso,36042855510,rafaela.cardoso375@aluno.ficticio.com,(85) 99046-5206,2006-12-03,FORTALEZA,Federal,2023-03-26,instagram
+A00481,Victor Martins Ribeiro,276.049.498-10,,(85) 91758-4265,2005-04-21,Pacatuba,Federal,01-07-2021,Feira escolar
+A00482,Caio Martins Teixeira,99377852613,caio.teixeira621@aluno.ficticio.com,(85) 94965-1107,2008-08-06,Itapipoca,Pública,2025-01-14,Feira escolar
+A00483,Arthur Santos Lima,18813478164,arthur.lima306@aluno.ficticio.com,(85) 97875-9502,2007-11-02,Caucaia,Pública,2024-03-02,Google
+A00484,Lucas Costa Nascimento,117.414.200-97,,(85) 91495-6359,2005-11-02,Fortaleza,Privada,2023-03-28,
+A00485,Alice Silva Silva,24121436622,alice.silva77@aluno.ficticio.com,(85) 97749-3180,2007-12-01,Pacatuba,privada,2025-02-17,Google
+A00486,Lucas Ribeiro Correia,831.413.181-11,lucas.correia157@aluno.ficticio.com,(85) 94976-5844,2007-07-07,Caucaia,Privada,2022-03-12,Google
+A00487,Mariana Teixeira Moura,08460569210,mariana.moura324@aluno.ficticio.com,(85) 91425-3902,2007-12-24,Fortaleza,Publica,2021-02-27,instagram
+A00488,Victor Pereira Oliveira,13620907528,victor.oliveira560@aluno.ficticio.com,(85) 96788-7329,05-16-2004,Crato,Federal,2022-01-10,Google
+A00489,Lívia Barbosa Cardoso,738.153.652-73,livia.cardoso340@aluno.ficticio.com,(85) 92805-7012,2004-11-21,Pacatuba,Publica,2022-03-02,Google
+A00490,Eduarda Oliveira Santos,22815147841,eduarda.santos984@aluno.ficticio.com,(85) 98467-4240,2007-06-21,Crato,Pública,2023-02-14,Google
+A00491,Diego Dias Correia,212.313.470-15,diego.correia961@aluno.ficticio.com,(85) 96855-7979,2008-09-04,Sobral,Federal,2024-02-14,Indicação
+A00492,Ana Moura Dias,513.693.874-89,ana.dias132@aluno.ficticio.com,(85) 96605-6495,2004-06-03,Fortaleza,Privada,2023-02-16,Feira escolar
+A00493,Carla Teixeira Costa,03091144593,carla.costa374@aluno.ficticio.com,(85) 95412-3704,2007-08-02,Maracanaú,Pública,20/02/2025,Instagram
+A00494,Beatriz Ribeiro Barbosa,522.214.484-24,beatriz.barbosa596@aluno.ficticio.com,(85) 93566-5558,2004-05-11,FORTALEZA,privada,2021-03-06,WhatsApp
+A00495,Diego Gomes Correia,82716459590,diego.correia213@aluno.ficticio.com,(85) 97596-6925,2008-05-14,Crato,privada,2023-03-23,
+A00496,João Dias Almeida,60583979469,joao.almeida399@aluno.ficticio.com,(85) 93308-1183,2008-12-28,Itapipoca,Não informado,2025-02-24,Instagram
+A00497,Olívia Correia Teixeira,092.490.264-68,olivia.teixeira536@aluno.ficticio.com,(85) 99742-5082,2005/12/06,Fortaleza,Pública,2024-01-02,Indicação
+A00498,Alice Pereira Moura,000.720.819-17,,(85) 94390-2138,2003-07-14,FORTALEZA,Pública,2024-02-18,WhatsApp
+A00499,Olívia Almeida Araújo,831.047.850-20,olivia.araujo37@aluno.ficticio.com,(85) 95234-1289,2005-04-03,Caucaia,Privada,2021-01-11,instagram
+A00500,Samuel Ferreira Cavalcanti,543.400.546-94,samuel.cavalcanti55@aluno.ficticio.com,(85) 94345-2543,2006-05-14,FORTALEZA,Não informado,2023/01/13,

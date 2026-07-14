@@ -1,0 +1,355 @@
+aprovacao_id,ano_vestibular,aluno_id,universidade,curso_aprovado,modalidade_vaga,chamada,bolsa_aprovacao,data_resultado,nota_final_vestibular,campus
+V000001,2021,A00024,uece,Arquitetura,PPI,SISU,Sim,2021-12-27,745.6,Crateús
+V000002,2021,A00025,UNILAB,Engenharia Civil,Cota escola pública,Vestibular próprio,Não,2021-01-08,674.4,Quixadá
+V000003,2021,A00026,UFRN,Enfermagem,PCD,SISU,Sim,2021-03-19,686.5,Fortaleza
+V000004,2021,A00046,UFC,Jornalismo,PCD,2ª chamada,Parcial,2021-03-08,837.4,Fortaleza
+V000005,2021,A00085,UFCA,Enfermagem,PCD,Vestibular próprio,,2021-12-21,673.6,Juazeiro
+V000006,2021,A00108,UECE,Jornalismo,ampla concorrencia,1ª chamada,Parcial,02-20-2021,865.6,
+V000007,2021,A00132,UECE,Enfermagem,Ampla concorrência,1ª chamada,Sim,2021-12-18,878.9,Crateús
+V000008,2021,A00137,UERN,Ciência da Computação,ampla concorrencia,1ª chamada,sim,2021-02-07,750.7,Quixadá
+V000009,2021,A00144,UVA,Engenharia Civil,Ampla concorrência,Vestibular próprio,Sim,2021-03-02,736.2,Crateús
+V000010,2021,A00176,UECE,Direito,PCD,Lista de espera,Parcial,2021-01-16,693.2,Crateús
+V000011,2021,A00199,UNIFOR,Engenharia de Software,,Lista de espera,Não,2021-01-01,844.4,Juazeiro
+V000012,2021,A00211,UFC,Psicologia,PPI,SISU,Não,2021-03-04,827.0,Crateús
+V000013,2021,A00216,Ufc,Engenharia de Software,PPI,Lista de espera,,2021-12-09,682.9,Fortaleza
+V000014,2021,A00227,UNILAB,Engenharia de Software,PCD,Vestibular próprio,Parcial,2021-03-17,749.4,Fortaleza
+V000015,2021,A00262,UFRN,Medicina,Ampla concorrência,2ª chamada,Não,2021-02-06,644.1,Sobral
+V000016,2021,A00288,UFRN,Fisioterapia,,Lista de espera,,2021-01-18,684.3,
+V000017,2021,A00294,UNIFOR,Design,PCD,SISU,Parcial,2021-01-05,625.6,Sobral
+V000018,2021,A00313,IFCE,Psicologia,PCD,2ª chamada,Sim,2021-01-03,493.9,
+V000019,2021,A00323,uece,Odontologia,Ampla concorrência,Vestibular próprio,,2021-03-21,740.4,Crateús
+V000020,2021,A00325,uece,Enfermagem,ampla concorrencia,2ª chamada,sim,2021-02-01,731.7,Fortaleza
+V000021,2021,A00333,UFRN,Administração,Ampla concorrência,Vestibular próprio,sim,2021-12-28,885.6,Quixadá
+V000022,2021,A00340,UNILAB,Psicologia,Cota escola pública,SISU,Não,2021-02-25,776.6,Juazeiro
+V000023,2021,A00356,UFRN,Fisioterapia,ampla concorrencia,Vestibular próprio,Sim,2021-02-06,764.8,
+V000024,2021,A00363,UFCA,Design,,Lista de espera,Não,2021-01-27,801.3,Fortaleza
+V000025,2021,A00368,UFPE,Odontologia,PPI,2ª chamada,Parcial,2021-03-01,715.0,Fortaleza
+V000026,2021,A00382,UNILAB,Direito,ampla concorrencia,2ª chamada,Parcial,2021-02-27,743.1,
+V000027,2021,A00413,Ufc,Administração,PCD,Vestibular próprio,Parcial,2021-02-19,721.2,Quixadá
+V000028,2021,A00445,UFCA,Arquitetura,ampla concorrencia,Lista de espera,Sim,2021-12-03,811.0,
+V000029,2021,A00481,UNIFOR,Direito,PCD,Vestibular próprio,Sim,2021-02-24,805.9,Crateús
+V000030,2021,A00487,UFPE,Direito,,Vestibular próprio,,2021-01-28,684.8,Juazeiro
+V000031,2021,A00499,UECE,Enfermagem,Cota escola pública,Vestibular próprio,Parcial,2021-12-08,612.0,Quixadá
+V000032,2021,A00507,uece,Engenharia de Software,ampla concorrencia,Lista de espera,Sim,2021-12-04,599.4,Fortaleza
+V000033,2021,A00524,UNIFOR,Economia,Ampla concorrência,2ª chamada,Não,2021-01-02,621.0,
+V000034,2021,A00530,UNILAB,Engenharia Civil,Cota escola pública,2ª chamada,sim,2021-03-23,677.1,
+V000035,2021,A00534,uece,Fisioterapia,PPI,2ª chamada,,2021-03-27,691.4,Sobral
+V000036,2021,A00536,UFCA,Administração,ampla concorrencia,Vestibular próprio,Não,02-15-2021,606.9,
+V000037,2021,A00547,IFCE,Administração,ampla concorrencia,1ª chamada,,2021-12-09,672.3,Juazeiro
+V000038,2021,A00582,Ufc,Fisioterapia,Ampla concorrência,Vestibular próprio,Não,2021-01-24,687.6,Crateús
+V000039,2021,A00595,UNILAB,Fisioterapia,Cota escola pública,1ª chamada,Não,2021-02-22,744.8,Crateús
+V000040,2021,A00625,UNIFOR,Fisioterapia,ampla concorrencia,SISU,Não,2021-03-27,595.0,Fortaleza
+V000041,2021,A00636,UFC,Design,ampla concorrencia,2ª chamada,,2021-03-25,724.5,Juazeiro
+V000042,2021,A00672,UNILAB,Enfermagem,,Lista de espera,,2021-01-18,787.0,Quixadá
+V000043,2021,A00689,UFCA,Enfermagem,PPI,Lista de espera,,2021-01-22,650.6,
+V000044,2021,A00721,UVA,Enfermagem,PPI,1ª chamada,,2021-12-12,697.2,Juazeiro
+V000045,2021,A00755,UERN,Enfermagem,Cota escola pública,2ª chamada,sim,2021-03-03,814.2,Fortaleza
+V000046,2021,A00764,UECE,Odontologia,,Lista de espera,Não,2021-03-17,724.0,
+V000047,2021,A00776,UFC,Odontologia,,Vestibular próprio,Não,2021-01-19,756.6,
+V000048,2021,A00791,UFC,Fisioterapia,PPI,SISU,sim,2021-02-09,815.3,Juazeiro
+V000049,2021,A00793,UVA,Enfermagem,,1ª chamada,Parcial,2021-12-23,633.8,Juazeiro
+V000050,2021,A00798,UERN,Fisioterapia,PCD,2ª chamada,sim,2021-03-12,699.6,Juazeiro
+V000051,2022,A00022,UFRN,Economia,PCD,2ª chamada,,2022-12-20,655.6,Sobral
+V000052,2022,A00025,UECE,Arquitetura,Cota escola pública,Vestibular próprio,,2022-02-18,742.7,
+V000053,2022,A00026,uece,Jornalismo,PPI,SISU,,2022-12-01,724.5,Fortaleza
+V000054,2022,A00035,UECE,Fisioterapia,Cota escola pública,Lista de espera,sim,2022-01-01,737.4,Juazeiro
+V000055,2022,A00048,UVA,Engenharia Civil,,2ª chamada,Não,2022-01-02,663.7,Juazeiro
+V000056,2022,A00054,UECE,Economia,,1ª chamada,Parcial,2022-12-13,619.0,Quixadá
+V000057,2022,A00076,UERN,Odontologia,PPI,1ª chamada,,2022-02-22,603.5,Sobral
+V000058,2022,A00083,Ufc,Administração,,Lista de espera,Sim,2022-12-12,734.1,
+V000059,2022,A00099,UECE,Arquitetura,Ampla concorrência,SISU,Não,2022-01-03,794.1,Fortaleza
+V000060,2022,A00110,UERN,Fisioterapia,,1ª chamada,Não,2022-12-25,787.6,Fortaleza
+V000061,2022,A00120,UECE,Administração,ampla concorrencia,Vestibular próprio,,2022-01-26,914.1,Crateús
+V000062,2022,A00148,uece,Economia,Cota escola pública,1ª chamada,Não,2022-01-19,890.5,Juazeiro
+V000063,2022,A00162,UNILAB,Design,PPI,Lista de espera,,2022-12-04,922.8,
+V000064,2022,A00181,UFC,Jornalismo,ampla concorrencia,SISU,Parcial,2022-01-04,755.2,Sobral
+V000065,2022,A00187,uece,Arquitetura,Ampla concorrência,2ª chamada,,2022-03-22,808.7,Quixadá
+V000066,2022,A00232,UECE,Arquitetura,Cota escola pública,Vestibular próprio,Parcial,2022-01-04,751.7,Fortaleza
+V000067,2022,A00275,Ufc,Engenharia Civil,Cota escola pública,Lista de espera,sim,2022-03-12,619.8,
+V000068,2022,A00299,UFC,Design,Cota escola pública,2ª chamada,,2022-02-27,732.9,
+V000069,2022,A00303,UNIFOR,Odontologia,Ampla concorrência,SISU,,01/12/2022,695.4,Sobral
+V000070,2022,A00304,UVA,Medicina,,1ª chamada,Parcial,2022-03-05,715.1,Crateús
+V000071,2022,A00313,UFRN,Enfermagem,PCD,2ª chamada,Não,2022-02-21,875.2,Juazeiro
+V000072,2022,A00355,UFCA,Enfermagem,,Lista de espera,sim,01-25-2022,681.1,Quixadá
+V000073,2022,A00381,UFPE,Ciência da Computação,Cota escola pública,Vestibular próprio,,2022-01-16,713.7,Fortaleza
+V000074,2022,A00394,UFPE,Design,PCD,Lista de espera,,2022-12-07,724.2,Quixadá
+V000075,2022,A00414,UNIFOR,Engenharia de Software,PCD,Vestibular próprio,Não,2022-12-18,792.4,Quixadá
+V000076,2022,A00417,UVA,Ciência da Computação,,Lista de espera,Sim,2022-12-12,815.7,Fortaleza
+V000077,2022,A00443,UERN,Administração,ampla concorrencia,Vestibular próprio,,2022-02-18,743.8,Fortaleza
+V000078,2022,A00476,UFCA,Jornalismo,PCD,2ª chamada,Sim,2022/02/27,729.4,Fortaleza
+V000079,2022,A00488,UNILAB,Odontologia,,Lista de espera,,2022-03-20,881.2,Fortaleza
+V000080,2022,A00489,UECE,Design,,SISU,,2022-12-28,779.0,Fortaleza
+V000081,2022,A00507,IFCE,Economia,Ampla concorrência,2ª chamada,Parcial,2022-01-10,757.6,Crateús
+V000082,2022,A00518,UVA,Jornalismo,PCD,Lista de espera,Sim,2022-02-10,792.9,Fortaleza
+V000083,2022,A00520,UNILAB,Jornalismo,ampla concorrencia,2ª chamada,Não,2022-01-15,693.2,Fortaleza
+V000084,2022,A00522,UVA,Arquitetura,,Vestibular próprio,Não,2022-12-25,680.9,Crateús
+V000085,2022,A00528,UVA,Odontologia,Ampla concorrência,SISU,sim,2022-01-27,796.2,Juazeiro
+V000086,2022,A00551,UFC,Odontologia,Cota escola pública,SISU,sim,2022-02-09,730.0,
+V000087,2022,A00556,UNIFOR,Engenharia de Software,PPI,SISU,sim,2022-03-13,523.9,Juazeiro
+V000088,2022,A00599,UFCA,Economia,Cota escola pública,Vestibular próprio,Sim,2022-12-07,851.3,Sobral
+V000089,2022,A00600,UECE,Engenharia Civil,Ampla concorrência,SISU,,2022-03-26,795.4,
+V000090,2022,A00616,UFC,Psicologia,,2ª chamada,Parcial,2022-03-20,721.8,Juazeiro
+V000091,2022,A00636,UNILAB,Odontologia,Ampla concorrência,Vestibular próprio,Não,2022-02-18,764.0,
+V000092,2022,A00650,UFPE,Design,ampla concorrencia,1ª chamada,Sim,2022-02-11,784.6,Juazeiro
+V000093,2022,A00654,UFRN,Economia,Ampla concorrência,Vestibular próprio,sim,2022-03-14,766.8,
+V000094,2022,A00675,UERN,Direito,,1ª chamada,sim,2022-03-02,611.4,Quixadá
+V000095,2022,A00699,UNILAB,Arquitetura,PPI,Lista de espera,,2022-02-15,689.5,Juazeiro
+V000096,2022,A00708,Ufc,Administração,Ampla concorrência,Vestibular próprio,,22/01/2022,682.4,Quixadá
+V000097,2022,A00714,UVA,Medicina,,1ª chamada,,2022-01-03,716.8,
+V000098,2022,A00718,UNIFOR,Engenharia de Software,ampla concorrencia,SISU,sim,2022-12-15,840.9,Crateús
+V000099,2022,A00721,uece,Engenharia Civil,,2ª chamada,Sim,25/01/2022,773.3,Quixadá
+V000100,2022,A00729,UVA,Direito,PPI,1ª chamada,Parcial,2022-01-26,708.3,
+V000101,2022,A00740,UNIFOR,Direito,Cota escola pública,1ª chamada,Sim,2022-12-22,670.9,Fortaleza
+V000102,2022,A00773,UERN,Psicologia,PPI,Vestibular próprio,Não,2022-01-28,815.1,Quixadá
+V000103,2022,A00794,uece,Direito,ampla concorrencia,Lista de espera,Parcial,2022-01-26,690.7,Juazeiro
+V000104,2023,A00001,UFPE,Engenharia de Software,PPI,2ª chamada,,2023-01-04,784.4,Sobral
+V000105,2023,A00006,Ufc,Engenharia Civil,Cota escola pública,Lista de espera,,2023-02-26,670.2,Quixadá
+V000106,2023,A00016,Ufc,Medicina,Cota escola pública,Lista de espera,Parcial,2023-01-14,898.3,Quixadá
+V000107,2023,A00019,uece,Design,Ampla concorrência,2ª chamada,Parcial,2023-01-11,851.2,Quixadá
+V000108,2023,A00023,UVA,Direito,PCD,SISU,sim,2023/12/10,678.2,
+V000109,2023,A00031,uece,Engenharia Civil,PCD,1ª chamada,,2023/02/20,903.6,Juazeiro
+V000110,2023,A00034,UFRN,Odontologia,ampla concorrencia,1ª chamada,Sim,24/03/2023,832.2,Sobral
+V000111,2023,A00060,UFC,Engenharia Civil,PCD,2ª chamada,Não,2023-01-12,718.1,Fortaleza
+V000112,2023,A00064,UNIFOR,Jornalismo,PCD,SISU,,2023-12-18,623.6,Sobral
+V000113,2023,A00069,UERN,Direito,PPI,2ª chamada,,2023-03-17,788.5,Sobral
+V000114,2023,A00077,uece,Engenharia Civil,Cota escola pública,SISU,Não,2023-12-18,610.1,Crateús
+V000115,2023,A00080,UERN,Engenharia Civil,,Vestibular próprio,Não,2023-02-19,923.1,Crateús
+V000116,2023,A00101,UVA,Ciência da Computação,Cota escola pública,SISU,,2023-02-14,777.9,
+V000117,2023,A00102,UFRN,Jornalismo,,SISU,sim,2023-03-09,643.0,Sobral
+V000118,2023,A00120,Ufc,Engenharia Civil,PPI,Lista de espera,sim,2023-03-18,591.2,Fortaleza
+V000119,2023,A00129,UNILAB,Engenharia Civil,ampla concorrencia,2ª chamada,sim,2023-03-26,757.9,Crateús
+V000120,2023,A00144,UFRN,Design,,Lista de espera,,2023-01-11,675.4,Crateús
+V000121,2023,A00156,UVA,Engenharia de Software,Cota escola pública,2ª chamada,Parcial,2023-12-08,627.7,Fortaleza
+V000122,2023,A00158,Ufc,Engenharia de Software,Ampla concorrência,2ª chamada,Sim,2023-01-08,582.4,Juazeiro
+V000123,2023,A00171,UVA,Arquitetura,,SISU,Parcial,2023-01-03,594.5,Fortaleza
+V000124,2023,A00175,UNILAB,Ciência da Computação,ampla concorrencia,2ª chamada,Não,2023/12/23,912.0,Fortaleza
+V000125,2023,A00177,uece,Engenharia Civil,PCD,Lista de espera,Não,2023-03-03,714.7,Quixadá
+V000126,2023,A00182,UERN,Arquitetura,PCD,2ª chamada,Não,2023-01-14,721.7,Sobral
+V000127,2023,A00197,IFCE,Odontologia,,2ª chamada,Parcial,2023-03-12,600.7,Crateús
+V000128,2023,A00201,UECE,Arquitetura,Cota escola pública,Lista de espera,Sim,02-01-2023,493.4,
+V000129,2023,A00209,UVA,Engenharia de Software,,SISU,Parcial,2023-03-14,772.5,Juazeiro
+V000130,2023,A00214,UVA,Psicologia,Ampla concorrência,1ª chamada,sim,2023-02-01,647.4,
+V000131,2023,A00224,UECE,Medicina,PPI,SISU,,2023-02-24,667.4,Quixadá
+V000132,2023,A00232,UFPE,Medicina,ampla concorrencia,Lista de espera,sim,2023-12-28,703.7,Quixadá
+V000133,2023,A00239,UFCA,Odontologia,Cota escola pública,SISU,Parcial,2023-12-11,739.2,Sobral
+V000134,2023,A00250,UFC,Engenharia de Software,Cota escola pública,1ª chamada,Não,2023-12-24,648.9,Juazeiro
+V000135,2023,A00251,UFCA,Fisioterapia,Ampla concorrência,1ª chamada,Não,2023-02-14,727.0,Quixadá
+V000136,2023,A00273,UVA,Economia,ampla concorrencia,Vestibular próprio,Sim,2023-01-16,647.8,Sobral
+V000137,2023,A00276,UERN,Odontologia,ampla concorrencia,Vestibular próprio,,2023-02-27,738.4,Sobral
+V000138,2023,A00279,UFC,Fisioterapia,,1ª chamada,sim,2023-02-04,648.3,Juazeiro
+V000139,2023,A00298,UFC,Medicina,ampla concorrencia,SISU,Parcial,2023-03-21,731.7,Juazeiro
+V000140,2023,A00303,UERN,Administração,PCD,1ª chamada,sim,2023-02-28,636.6,Fortaleza
+V000141,2023,A00304,UFPE,Odontologia,ampla concorrencia,Lista de espera,,2023-03-16,614.9,Juazeiro
+V000142,2023,A00310,UNILAB,Fisioterapia,Cota escola pública,1ª chamada,Parcial,2023-03-18,593.7,Crateús
+V000143,2023,A00316,IFCE,Direito,PPI,1ª chamada,Sim,2023-01-09,605.7,
+V000144,2023,A00364,UERN,Enfermagem,Cota escola pública,Lista de espera,sim,2023-02-08,831.3,Sobral
+V000145,2023,A00370,UFRN,Design,,SISU,Não,2023-03-11,698.6,Quixadá
+V000146,2023,A00375,UNIFOR,Arquitetura,PCD,Vestibular próprio,sim,2023-01-17,595.1,
+V000147,2023,A00377,UVA,Administração,PCD,2ª chamada,Não,2023-12-09,646.1,Sobral
+V000148,2023,A00383,UECE,Psicologia,ampla concorrencia,Vestibular próprio,Sim,2023-02-05,546.5,Sobral
+V000149,2023,A00388,UECE,Economia,PCD,Lista de espera,sim,2023-03-22,772.7,Fortaleza
+V000150,2023,A00398,UFCA,Jornalismo,ampla concorrencia,Vestibular próprio,Não,2023-12-26,705.6,Quixadá
+V000151,2023,A00404,UFC,Fisioterapia,PPI,SISU,Não,2023-12-13,712.9,Crateús
+V000152,2023,A00414,IFCE,Arquitetura,PCD,Vestibular próprio,Parcial,2023-03-12,693.6,Crateús
+V000153,2023,A00422,UNIFOR,Enfermagem,PPI,1ª chamada,Sim,2023-02-23,647.9,
+V000154,2023,A00431,IFCE,Engenharia de Software,Cota escola pública,Vestibular próprio,,2023-12-07,756.6,Crateús
+V000155,2023,A00433,uece,Design,PCD,Vestibular próprio,,2023-03-19,751.8,Quixadá
+V000156,2023,A00470,UNILAB,Medicina,Ampla concorrência,Vestibular próprio,,2023-12-15,867.2,Sobral
+V000157,2023,A00477,UNIFOR,Medicina,ampla concorrencia,SISU,,2023-03-02,687.9,Sobral
+V000158,2023,A00480,UNILAB,Medicina,PPI,Lista de espera,Não,2023-03-25,808.9,Quixadá
+V000159,2023,A00492,UNIFOR,Jornalismo,PCD,1ª chamada,,2023-12-24,776.8,Juazeiro
+V000160,2023,A00500,UNILAB,Medicina,PPI,Lista de espera,Não,2023-03-22,710.3,Sobral
+V000161,2023,A00525,Ufc,Engenharia de Software,PCD,Lista de espera,Não,2023-01-16,809.4,Crateús
+V000162,2023,A00531,UFPE,Direito,PPI,2ª chamada,Sim,2023-12-25,748.6,Fortaleza
+V000163,2023,A00558,UFC,Engenharia de Software,,1ª chamada,sim,2023-12-15,676.7,
+V000164,2023,A00567,UNILAB,Engenharia de Software,Cota escola pública,Vestibular próprio,Sim,2023-01-08,656.1,Fortaleza
+V000165,2023,A00575,UERN,Design,,SISU,Sim,2023-02-09,878.5,Fortaleza
+V000166,2023,A00593,UECE,Economia,Cota escola pública,2ª chamada,sim,2023-03-09,685.4,Crateús
+V000167,2023,A00608,UECE,Engenharia de Software,PCD,SISU,sim,2023-03-09,680.5,Fortaleza
+V000168,2023,A00623,UFPE,Psicologia,ampla concorrencia,SISU,Sim,2023-03-16,625.3,Fortaleza
+V000169,2023,A00630,uece,Psicologia,Cota escola pública,Lista de espera,sim,2023-03-01,792.0,
+V000170,2023,A00643,UFC,Odontologia,ampla concorrencia,SISU,Sim,2023-01-04,701.7,
+V000171,2023,A00654,IFCE,Direito,ampla concorrencia,Lista de espera,Sim,2023-01-12,604.2,Sobral
+V000172,2023,A00666,UFRN,Enfermagem,Ampla concorrência,2ª chamada,Não,2023-03-06,615.4,Sobral
+V000173,2023,A00670,UFCA,Ciência da Computação,Ampla concorrência,SISU,Parcial,2023-03-14,760.1,Fortaleza
+V000174,2023,A00675,UFC,Economia,PPI,SISU,,2023-01-06,635.8,Quixadá
+V000175,2023,A00690,IFCE,Arquitetura,ampla concorrencia,Vestibular próprio,Não,2023-01-27,590.5,Juazeiro
+V000176,2023,A00705,uece,Administração,Ampla concorrência,2ª chamada,Sim,2023-03-05,698.1,Crateús
+V000177,2023,A00739,UNILAB,Engenharia Civil,,Vestibular próprio,sim,2023-12-20,599.3,Crateús
+V000178,2023,A00748,UNIFOR,Engenharia Civil,PCD,1ª chamada,,2023-01-18,634.1,
+V000179,2023,A00753,UECE,Administração,,Lista de espera,Sim,2023-01-14,797.3,Juazeiro
+V000180,2023,A00772,UFCA,Psicologia,PPI,Vestibular próprio,Não,2023-12-27,707.0,
+V000181,2024,A00001,UFPE,Ciência da Computação,ampla concorrencia,1ª chamada,sim,2024-03-26,695.8,Juazeiro
+V000182,2024,A00006,UERN,Jornalismo,,Lista de espera,sim,2024-12-23,755.4,Crateús
+V000183,2024,A00023,UNIFOR,Enfermagem,PCD,1ª chamada,,2024-12-18,743.5,Crateús
+V000184,2024,A00027,UECE,Ciência da Computação,PCD,Lista de espera,,2024-03-16,748.2,Crateús
+V000185,2024,A00029,UECE,Medicina,PPI,SISU,Parcial,2024-03-22,596.2,Fortaleza
+V000186,2024,A00031,UFPE,Design,,Lista de espera,Sim,2024-01-04,786.3,Crateús
+V000187,2024,A00045,UFRN,Economia,Cota escola pública,1ª chamada,,2024-01-01,585.4,Quixadá
+V000188,2024,A00051,UFRN,Odontologia,Ampla concorrência,2ª chamada,Não,2024-12-05,694.8,Juazeiro
+V000189,2024,A00063,UNILAB,Fisioterapia,PCD,Lista de espera,sim,2024-03-09,843.7,Fortaleza
+V000190,2024,A00069,UFRN,Administração,Ampla concorrência,1ª chamada,Parcial,2024-02-08,841.2,
+V000191,2024,A00079,UECE,Odontologia,,Lista de espera,sim,2024-01-22,674.5,Crateús
+V000192,2024,A00090,UFRN,Ciência da Computação,ampla concorrencia,Vestibular próprio,Parcial,2024-03-09,748.1,Fortaleza
+V000193,2024,A00124,UECE,Arquitetura,ampla concorrencia,Vestibular próprio,Sim,01-16-2024,705.1,Crateús
+V000194,2024,A00133,UFRN,Ciência da Computação,,Vestibular próprio,Não,2024-03-20,579.6,Fortaleza
+V000195,2024,A00152,UERN,Enfermagem,PCD,2ª chamada,sim,2024-03-01,649.7,Fortaleza
+V000196,2024,A00157,Ufc,Psicologia,PCD,Lista de espera,,10/02/2024,809.1,
+V000197,2024,A00185,Ufc,Engenharia de Software,Cota escola pública,SISU,Sim,01-12-2024,696.0,Fortaleza
+V000198,2024,A00193,UERN,Design,Cota escola pública,1ª chamada,sim,2024-01-09,641.8,Quixadá
+V000199,2024,A00206,UFRN,Economia,,Vestibular próprio,Sim,2024-03-02,788.8,Fortaleza
+V000200,2024,A00230,UFCA,Economia,PCD,2ª chamada,Sim,2024-12-23,584.4,
+V000201,2024,A00247,UFPE,Engenharia Civil,PPI,Lista de espera,Parcial,2024-01-17,662.9,Crateús
+V000202,2024,A00250,UFRN,Economia,PCD,Lista de espera,Sim,2024-12-08,707.9,Fortaleza
+V000203,2024,A00260,Ufc,Engenharia Civil,PPI,1ª chamada,,2024-03-28,749.2,Juazeiro
+V000204,2024,A00265,UERN,Direito,Ampla concorrência,Lista de espera,Sim,2024-12-16,708.9,Sobral
+V000205,2024,A00270,IFCE,Engenharia Civil,Cota escola pública,Vestibular próprio,Não,2024-01-14,702.6,Sobral
+V000206,2024,A00277,IFCE,Medicina,Ampla concorrência,1ª chamada,Parcial,2024-01-11,746.0,Crateús
+V000207,2024,A00283,UNIFOR,Jornalismo,Ampla concorrência,Lista de espera,sim,2024-03-05,818.0,Crateús
+V000208,2024,A00349,UFPE,Odontologia,PCD,Lista de espera,Sim,2024-12-06,665.3,Juazeiro
+V000209,2024,A00352,UFCA,Medicina,ampla concorrencia,SISU,,2024-02-14,793.9,Quixadá
+V000210,2024,A00357,UERN,Economia,PCD,2ª chamada,Sim,2024-03-21,734.2,Sobral
+V000211,2024,A00369,UVA,Jornalismo,Cota escola pública,2ª chamada,Não,2024-12-23,577.0,Juazeiro
+V000212,2024,A00386,UNIFOR,Jornalismo,Cota escola pública,SISU,Parcial,2024-02-27,720.1,Sobral
+V000213,2024,A00390,IFCE,Economia,PPI,Lista de espera,Parcial,2024-12-26,734.2,
+V000214,2024,A00391,UERN,Engenharia de Software,Cota escola pública,SISU,Parcial,2024-01-02,726.1,Sobral
+V000215,2024,A00397,UNILAB,Administração,Ampla concorrência,SISU,Sim,2024-03-26,866.4,Quixadá
+V000216,2024,A00408,UERN,Direito,,Vestibular próprio,Parcial,2024-01-12,707.9,Sobral
+V000217,2024,A00421,UNIFOR,Design,Cota escola pública,1ª chamada,Sim,2024-12-09,703.9,Juazeiro
+V000218,2024,A00431,UNIFOR,Engenharia Civil,PCD,Vestibular próprio,Parcial,2024-02-13,725.5,Fortaleza
+V000219,2024,A00439,uece,Psicologia,Cota escola pública,Lista de espera,Parcial,2024-02-15,730.1,Sobral
+V000220,2024,A00444,UERN,Odontologia,Ampla concorrência,Vestibular próprio,,2024-02-17,695.9,
+V000221,2024,A00449,UFCA,Enfermagem,Cota escola pública,1ª chamada,Não,2024-12-16,836.3,Fortaleza
+V000222,2024,A00451,IFCE,Engenharia Civil,PCD,1ª chamada,Parcial,2024-03-16,514.0,Sobral
+V000223,2024,A00456,UFRN,Design,PCD,1ª chamada,Não,2024-12-14,658.7,Crateús
+V000224,2024,A00459,UECE,Administração,PPI,1ª chamada,sim,2024-01-09,889.5,Juazeiro
+V000225,2024,A00465,UNIFOR,Enfermagem,Cota escola pública,Lista de espera,,2024-12-10,585.8,Quixadá
+V000226,2024,A00491,UERN,Arquitetura,Cota escola pública,Lista de espera,Não,2024-03-10,750.8,Sobral
+V000227,2024,A00492,IFCE,Ciência da Computação,PPI,Vestibular próprio,Sim,2024-03-06,835.9,Sobral
+V000228,2024,A00497,UFCA,Direito,PPI,SISU,Sim,2024-02-02,749.7,
+V000229,2024,A00506,UVA,Fisioterapia,Ampla concorrência,2ª chamada,Não,2024-01-23,926.1,Sobral
+V000230,2024,A00509,UFC,Ciência da Computação,PCD,SISU,sim,2024-01-28,773.7,
+V000231,2024,A00518,UFRN,Administração,Ampla concorrência,Lista de espera,Não,01/03/2024,805.9,Juazeiro
+V000232,2024,A00539,UECE,Ciência da Computação,PCD,Lista de espera,,2024-03-27,767.6,
+V000233,2024,A00553,uece,Fisioterapia,Ampla concorrência,1ª chamada,Parcial,2024/12/15,615.6,Quixadá
+V000234,2024,A00577,UECE,Psicologia,PCD,Vestibular próprio,Sim,2024-03-03,705.5,Crateús
+V000235,2024,A00588,IFCE,Ciência da Computação,PPI,Lista de espera,,2024-12-18,584.2,Quixadá
+V000236,2024,A00592,UFC,Arquitetura,,Lista de espera,Não,2024-01-11,760.7,Crateús
+V000237,2024,A00596,UFPE,Medicina,,1ª chamada,,2024-03-04,751.1,Quixadá
+V000238,2024,A00598,UECE,Psicologia,Cota escola pública,1ª chamada,Não,2024-02-16,759.3,
+V000239,2024,A00609,UFCA,Enfermagem,PPI,1ª chamada,Parcial,2024-01-25,847.6,
+V000240,2024,A00611,UNIFOR,Psicologia,,Vestibular próprio,Sim,2024-03-02,719.6,Sobral
+V000241,2024,A00614,UNIFOR,Enfermagem,ampla concorrencia,1ª chamada,Parcial,2024-02-21,716.3,Juazeiro
+V000242,2024,A00615,UFCA,Medicina,Ampla concorrência,1ª chamada,sim,01-04-2024,752.4,Juazeiro
+V000243,2024,A00624,uece,Arquitetura,Ampla concorrência,1ª chamada,Parcial,2024-02-23,775.5,Juazeiro
+V000244,2024,A00628,UFRN,Engenharia de Software,Cota escola pública,2ª chamada,sim,2024-03-25,868.0,Juazeiro
+V000245,2024,A00633,IFCE,Administração,PPI,Vestibular próprio,Sim,2024-02-19,743.9,Fortaleza
+V000246,2024,A00638,UECE,Odontologia,PPI,Lista de espera,Não,2024-12-08,744.1,Sobral
+V000247,2024,A00646,UERN,Engenharia de Software,Cota escola pública,SISU,Sim,2024-01-06,661.6,Crateús
+V000248,2024,A00666,UFRN,Odontologia,ampla concorrencia,1ª chamada,Não,12-03-2024,777.0,Sobral
+V000249,2024,A00667,Ufc,Economia,ampla concorrencia,SISU,Sim,2024-02-19,673.3,Quixadá
+V000250,2024,A00706,UNILAB,Enfermagem,ampla concorrencia,2ª chamada,,2024-03-07,862.8,Sobral
+V000251,2024,A00716,UVA,Engenharia Civil,Ampla concorrência,Vestibular próprio,Sim,01-23-2024,705.5,Crateús
+V000252,2024,A00723,UVA,Psicologia,,SISU,Não,2024-01-02,779.1,Sobral
+V000253,2024,A00724,Ufc,Direito,,Lista de espera,Não,2024-01-17,802.6,Sobral
+V000254,2024,A00725,UERN,Enfermagem,Ampla concorrência,Lista de espera,Parcial,2024-01-25,642.1,
+V000255,2024,A00745,UNIFOR,Psicologia,PCD,Lista de espera,,2024-03-13,930.1,Sobral
+V000256,2024,A00759,UERN,Administração,PCD,SISU,Não,2024-03-26,790.3,Sobral
+V000257,2024,A00763,UNILAB,Arquitetura,ampla concorrencia,SISU,Parcial,2024-01-15,783.1,Crateús
+V000258,2024,A00779,UFRN,Economia,Ampla concorrência,2ª chamada,sim,01-13-2024,670.6,Fortaleza
+V000259,2024,A00784,UFRN,Fisioterapia,PCD,Vestibular próprio,Sim,2024-01-27,693.1,Sobral
+V000260,2025,A00008,UFPE,Medicina,Ampla concorrência,SISU,Parcial,2025-02-07,525.8,Crateús
+V000261,2025,A00017,IFCE,Medicina,PPI,Vestibular próprio,Parcial,2025-02-03,730.0,Quixadá
+V000262,2025,A00021,uece,Administração,,2ª chamada,Parcial,2025-12-08,744.5,Quixadá
+V000263,2025,A00037,Ufc,Medicina,PCD,SISU,Não,2025-02-12,617.5,Crateús
+V000264,2025,A00047,UFRN,Enfermagem,ampla concorrencia,Lista de espera,Parcial,07/12/2025,709.2,Crateús
+V000265,2025,A00049,UFCA,Fisioterapia,PPI,2ª chamada,Sim,2025-01-16,782.9,Sobral
+V000266,2025,A00051,UFC,Design,Cota escola pública,Vestibular próprio,Não,2025-03-17,710.7,Juazeiro
+V000267,2025,A00059,UERN,Economia,PCD,Vestibular próprio,Não,2025/01/19,786.2,Quixadá
+V000268,2025,A00062,UFC,Ciência da Computação,PCD,2ª chamada,Parcial,2025-03-13,777.4,Juazeiro
+V000269,2025,A00068,IFCE,Direito,Cota escola pública,1ª chamada,sim,2025-12-17,623.1,Juazeiro
+V000270,2025,A00081,UVA,Medicina,ampla concorrencia,Lista de espera,Parcial,2025-02-03,742.2,Fortaleza
+V000271,2025,A00082,UERN,Medicina,PPI,2ª chamada,Não,2025-01-17,604.8,Fortaleza
+V000272,2025,A00086,UVA,Direito,Ampla concorrência,Lista de espera,Parcial,2025-12-18,790.1,Quixadá
+V000273,2025,A00087,UFRN,Enfermagem,Ampla concorrência,SISU,Não,2025-03-20,722.0,
+V000274,2025,A00096,UNILAB,Arquitetura,ampla concorrencia,SISU,Parcial,2025-01-21,713.1,Juazeiro
+V000275,2025,A00107,UFCA,Engenharia de Software,,SISU,,2025-03-05,739.8,
+V000276,2025,A00109,UFRN,Psicologia,,1ª chamada,Sim,2025-03-26,728.3,Juazeiro
+V000277,2025,A00111,uece,Fisioterapia,Ampla concorrência,Lista de espera,sim,2025-02-09,771.6,Juazeiro
+V000278,2025,A00130,UNILAB,Direito,ampla concorrencia,Vestibular próprio,Não,2025-12-13,638.5,Fortaleza
+V000279,2025,A00133,UNILAB,Direito,PCD,SISU,Parcial,2025-12-24,894.6,Quixadá
+V000280,2025,A00149,UFC,Design,ampla concorrencia,1ª chamada,,2025-12-14,795.7,Crateús
+V000281,2025,A00152,IFCE,Design,ampla concorrencia,SISU,sim,2025-01-12,745.2,Quixadá
+V000282,2025,A00173,UVA,Odontologia,Ampla concorrência,Lista de espera,,2025-12-19,591.5,
+V000283,2025,A00202,IFCE,Medicina,PPI,Vestibular próprio,Não,2025-12-21,650.4,Fortaleza
+V000284,2025,A00209,UFRN,Design,Cota escola pública,Vestibular próprio,Não,2025-03-20,832.2,Juazeiro
+V000285,2025,A00220,UVA,Economia,Cota escola pública,2ª chamada,Não,2025-02-21,736.4,Quixadá
+V000286,2025,A00223,UFRN,Engenharia de Software,PCD,1ª chamada,Sim,2025-03-17,701.0,Juazeiro
+V000287,2025,A00226,UFC,Design,,2ª chamada,,2025-02-24,795.5,Fortaleza
+V000288,2025,A00238,UVA,Economia,PPI,1ª chamada,Sim,2025-03-01,686.9,Juazeiro
+V000289,2025,A00252,UNIFOR,Arquitetura,PCD,SISU,,2025-03-11,657.7,Quixadá
+V000290,2025,A00254,UERN,Odontologia,ampla concorrencia,2ª chamada,sim,2025-01-23,827.9,Sobral
+V000291,2025,A00259,UFC,Odontologia,ampla concorrencia,SISU,sim,2025-02-26,735.7,
+V000292,2025,A00263,IFCE,Fisioterapia,,1ª chamada,,2025-02-13,870.9,Juazeiro
+V000293,2025,A00274,IFCE,Administração,,Vestibular próprio,sim,2025-03-01,711.5,
+V000294,2025,A00286,UNILAB,Administração,ampla concorrencia,SISU,Sim,2025-01-09,497.5,Juazeiro
+V000295,2025,A00297,IFCE,Engenharia Civil,PPI,1ª chamada,sim,2025-12-27,606.0,Juazeiro
+V000296,2025,A00300,Ufc,Engenharia Civil,,2ª chamada,sim,2025-01-07,738.0,Fortaleza
+V000297,2025,A00305,UECE,Enfermagem,Ampla concorrência,SISU,sim,2025-01-01,774.2,
+V000298,2025,A00331,UERN,Medicina,Cota escola pública,2ª chamada,Parcial,2025-01-21,861.0,
+V000299,2025,A00357,UNILAB,Direito,,Vestibular próprio,sim,01-09-2025,475.4,
+V000300,2025,A00367,Ufc,Jornalismo,PPI,Vestibular próprio,,2025-02-01,597.9,
+V000301,2025,A00379,Ufc,Economia,Ampla concorrência,Vestibular próprio,sim,2025-02-04,677.9,Quixadá
+V000302,2025,A00385,UECE,Odontologia,PCD,1ª chamada,,2025-02-11,768.0,Fortaleza
+V000303,2025,A00387,UFPE,Design,Cota escola pública,Vestibular próprio,Não,2025-12-20,758.9,
+V000304,2025,A00389,UFPE,Medicina,PCD,Vestibular próprio,Sim,2025-12-24,770.8,
+V000305,2025,A00416,UECE,Arquitetura,Ampla concorrência,SISU,Não,2025-01-22,735.0,Sobral
+V000306,2025,A00423,IFCE,Arquitetura,Ampla concorrência,2ª chamada,Parcial,2025-12-16,653.7,
+V000307,2025,A00424,UNILAB,Engenharia de Software,Cota escola pública,Vestibular próprio,Não,2025-12-21,861.5,
+V000308,2025,A00450,Ufc,Economia,ampla concorrencia,Lista de espera,Sim,2025-12-25,776.7,
+V000309,2025,A00467,uece,Arquitetura,Ampla concorrência,SISU,,2025-01-11,796.4,
+V000310,2025,A00469,UFPE,Odontologia,ampla concorrencia,2ª chamada,,2025-01-22,900.4,Crateús
+V000311,2025,A00473,UNILAB,Jornalismo,PPI,1ª chamada,,2025-02-21,803.8,
+V000312,2025,A00485,UNILAB,Jornalismo,Ampla concorrência,SISU,sim,2025-01-18,708.8,Sobral
+V000313,2025,A00504,UNIFOR,Design,PCD,1ª chamada,sim,2025-02-10,664.3,Fortaleza
+V000314,2025,A00512,UNILAB,Jornalismo,Ampla concorrência,SISU,Parcial,2025-02-15,686.0,
+V000315,2025,A00519,UVA,Ciência da Computação,Cota escola pública,Lista de espera,Não,2025-03-20,829.9,
+V000316,2025,A00541,UECE,Psicologia,Cota escola pública,SISU,Sim,2025-01-03,802.4,
+V000317,2025,A00580,UECE,Engenharia de Software,,SISU,Sim,2025-01-20,694.8,Crateús
+V000318,2025,A00581,UNILAB,Direito,PCD,SISU,Parcial,2025-02-27,763.4,
+V000319,2025,A00589,UERN,Arquitetura,PCD,SISU,Não,2025-01-06,675.9,Crateús
+V000320,2025,A00612,UFCA,Fisioterapia,PPI,Vestibular próprio,,2025-12-23,747.5,Quixadá
+V000321,2025,A00615,uece,Jornalismo,,Vestibular próprio,Parcial,2025-12-07,675.7,Sobral
+V000322,2025,A00620,UVA,Jornalismo,ampla concorrencia,2ª chamada,sim,2025-02-11,619.3,Juazeiro
+V000323,2025,A00641,uece,Arquitetura,Ampla concorrência,Lista de espera,sim,2025-02-14,633.1,Quixadá
+V000324,2025,A00644,UERN,Engenharia de Software,PCD,SISU,,2025-03-18,689.6,Quixadá
+V000325,2025,A00645,Ufc,Engenharia de Software,Cota escola pública,1ª chamada,Parcial,2025-02-11,714.2,Fortaleza
+V000326,2025,A00649,UFC,Psicologia,PCD,SISU,sim,2025-03-20,652.8,Crateús
+V000327,2025,A00660,UFRN,Administração,ampla concorrencia,SISU,Não,2025-01-23,697.5,
+V000328,2025,A00663,UNILAB,Direito,PCD,2ª chamada,Não,2025-01-25,761.7,Fortaleza
+V000329,2025,A00664,UFC,Direito,ampla concorrencia,Lista de espera,Sim,2025-03-26,690.5,Quixadá
+V000330,2025,A00684,UECE,Arquitetura,Ampla concorrência,2ª chamada,Sim,2025-02-07,744.3,Quixadá
+V000331,2025,A00700,UVA,Fisioterapia,Ampla concorrência,2ª chamada,Sim,2025-02-02,712.3,Juazeiro
+V000332,2025,A00704,UFCA,Enfermagem,Cota escola pública,Lista de espera,,2025-12-28,532.2,Crateús
+V000333,2025,A00705,IFCE,Enfermagem,ampla concorrencia,SISU,Não,2025-01-23,695.4,Quixadá
+V000334,2025,A00706,Ufc,Direito,PPI,2ª chamada,Parcial,2025-02-12,718.8,Juazeiro
+V000335,2025,A00723,Ufc,Psicologia,Cota escola pública,1ª chamada,,2025-03-18,815.1,Crateús
+V000336,2025,A00728,UNIFOR,Design,PPI,Vestibular próprio,Não,2025-01-13,493.3,
+V000337,2025,A00743,UNIFOR,Administração,PPI,2ª chamada,sim,2025-01-07,811.1,Juazeiro
+V000338,2025,A00761,UFPE,Engenharia Civil,,2ª chamada,Parcial,2025-01-17,773.5,Fortaleza
+V000339,2025,A00768,Ufc,Administração,Cota escola pública,1ª chamada,Parcial,2025-02-04,947.7,Crateús
+V000340,2024,A00250,UFRN,Economia,PCD,Cadastro duplicado?,Sim,2024-12-08,707.9,Fortaleza
+V000341,2025,A00081,UVA,Medicina,ampla concorrencia,Cadastro duplicado?,Parcial,2025-02-03,742.2,Fortaleza
+V000342,2024,A00506,UVA,Fisioterapia,Ampla concorrência,Cadastro duplicado?,Não,2024-01-23,926.1,Sobral
+V000343,2025,A00130,UNILAB,Direito,ampla concorrencia,Cadastro duplicado?,Não,2025-12-13,638.5,Fortaleza
+V000344,2025,A00416,UECE,Arquitetura,Ampla concorrência,Cadastro duplicado?,Não,2025-01-22,735.0,Sobral
+V000345,2024,A00716,UVA,Engenharia Civil,Ampla concorrência,Cadastro duplicado?,Sim,01-23-2024,705.5,Crateús
+V000346,2025,A00589,UERN,Arquitetura,PCD,Cadastro duplicado?,Não,2025-01-06,675.9,Crateús
+V000347,2025,A00645,Ufc,Engenharia de Software,Cota escola pública,Cadastro duplicado?,Parcial,2025-02-11,714.2,Fortaleza
+V000348,2025,A00649,UFC,Psicologia,PCD,Cadastro duplicado?,sim,2025-03-20,652.8,Crateús
+V000349,2024,A00725,UERN,Enfermagem,Ampla concorrência,Cadastro duplicado?,Parcial,2024-01-25,642.1,
+V000350,2024,A00724,Ufc,Direito,,Cadastro duplicado?,Não,2024-01-17,802.6,Sobral
+V000351,2024,A00390,IFCE,Economia,PPI,Cadastro duplicado?,Parcial,2024-12-26,734.2,
+V000352,2024,A00638,UECE,Odontologia,PPI,Cadastro duplicado?,Não,2024-12-08,744.1,Sobral
+V000353,2024,A00706,UNILAB,Enfermagem,ampla concorrencia,Cadastro duplicado?,,2024-03-07,862.8,Sobral
+V000354,2023,A00158,Ufc,Engenharia de Software,Ampla concorrência,Cadastro duplicado?,Sim,2023-01-08,582.4,Juazeiro
