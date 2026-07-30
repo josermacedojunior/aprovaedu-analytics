@@ -1,0 +1,1023 @@
+﻿aluno_id,ano,aulas_registradas,aulas_presente,taxa_presenca,aprovado,cidade,escola_origem
+A00001,2023,76,65,0.8553,1,Fortaleza,Não informado
+A00001,2024,58,52,0.8966,1,Fortaleza,Não informado
+A00002,2025,67,61,0.9104,0,Crato,Federal
+A00003,2022,88,78,0.8864,0,Horizonte,Privada
+A00004,2021,68,58,0.8529,0,Juazeiro do Norte,Pública
+A00005,2022,106,95,0.8962,0,Caucaia,Não informado
+A00006,2023,72,65,0.9028,1,Horizonte,Privada
+A00006,2024,76,71,0.9342,1,Horizonte,Privada
+A00007,2024,49,41,0.8367,0,Maracanaú,Não informado
+A00008,2024,50,44,0.88,0,Itapipoca,Pública
+A00008,2025,70,58,0.8286,1,Itapipoca,Pública
+A00009,2021,76,65,0.8553,0,Fortaleza,Privada
+A00010,2022,96,85,0.8854,0,Sobral,Privada
+A00011,2021,55,48,0.8727,0,Aquiraz,Não informado
+A00011,2022,62,50,0.8065,0,Aquiraz,Não informado
+A00012,2023,77,64,0.8312,0,Eusébio,Pública
+A00012,2024,71,65,0.9155,0,Eusébio,Pública
+A00013,2021,63,52,0.8254,0,Maracanaú,Pública
+A00014,2023,44,40,0.9091,0,Juazeiro do Norte,Privada
+A00015,2022,73,67,0.9178,0,Fortaleza,Não informado
+A00016,2022,61,52,0.8525,0,Fortaleza,Federal
+A00016,2023,70,58,0.8286,1,Fortaleza,Federal
+A00017,2025,70,60,0.8571,1,Juazeiro do Norte,Pública
+A00018,2022,92,87,0.9457,0,Fortaleza,Não informado
+A00019,2023,80,70,0.875,1,Fortaleza,Não informado
+A00020,2024,70,64,0.9143,0,Fortaleza,Não informado
+A00021,2025,58,51,0.8793,1,Aquiraz,Pública
+A00022,2022,77,61,0.7922,1,Fortaleza,Privada
+A00022,2023,80,71,0.8875,0,Fortaleza,Privada
+A00023,2023,62,58,0.9355,1,Juazeiro do Norte,Não informado
+A00023,2024,48,43,0.8958,1,Juazeiro do Norte,Não informado
+A00024,2021,62,57,0.9194,1,Maracanaú,Federal
+A00024,2022,87,77,0.8851,0,Maracanaú,Federal
+A00025,2021,69,57,0.8261,1,Crato,Pública
+A00025,2022,67,65,0.9701,1,Crato,Pública
+A00026,2021,50,45,0.9,1,Juazeiro do Norte,Privada
+A00026,2022,71,64,0.9014,1,Juazeiro do Norte,Privada
+A00027,2024,66,59,0.8939,1,Pacatuba,Pública
+A00028,2023,57,51,0.8947,0,Pacatuba,Pública
+A00029,2024,45,42,0.9333,1,Eusébio,Pública
+A00030,2025,83,71,0.8554,0,Fortaleza,Privada
+A00031,2022,67,58,0.8657,0,Crato,Privada
+A00031,2023,83,76,0.9157,1,Crato,Privada
+A00031,2024,52,46,0.8846,1,Crato,Privada
+A00032,2024,81,70,0.8642,0,Sobral,Não informado
+A00033,2021,69,59,0.8551,0,Maracanaú,Não informado
+A00033,2022,56,48,0.8571,0,Maracanaú,Não informado
+A00034,2023,78,65,0.8333,1,Juazeiro do Norte,Federal
+A00035,2022,78,65,0.8333,1,Eusébio,Federal
+A00036,2023,93,78,0.8387,0,Sobral,Pública
+A00037,2024,78,65,0.8333,0,Fortaleza,Federal
+A00037,2025,97,88,0.9072,1,Fortaleza,Federal
+A00038,2022,71,58,0.8169,0,Sobral,Pública
+A00038,2023,81,73,0.9012,0,Sobral,Pública
+A00039,2023,52,49,0.9423,0,Fortaleza,Pública
+A00040,2021,71,64,0.9014,0,Pacatuba,Pública
+A00041,2023,60,49,0.8167,0,Horizonte,Federal
+A00042,2023,92,83,0.9022,0,Eusébio,Pública
+A00043,2022,95,85,0.8947,0,Pacatuba,Pública
+A00044,2024,79,63,0.7975,0,Maracanaú,Pública
+A00045,2023,80,70,0.875,0,Itapipoca,Não informado
+A00045,2024,85,74,0.8706,1,Itapipoca,Não informado
+A00046,2021,43,41,0.9535,1,Fortaleza,Pública
+A00047,2025,86,78,0.907,1,Sobral,Pública
+A00048,2022,94,81,0.8617,1,Pacatuba,Pública
+A00049,2025,97,86,0.8866,1,Horizonte,Privada
+A00050,2021,73,69,0.9452,0,Itapipoca,Privada
+A00051,2024,79,70,0.8861,1,Eusébio,Privada
+A00051,2025,96,85,0.8854,1,Eusébio,Privada
+A00052,2023,58,50,0.8621,0,Maracanaú,Privada
+A00053,2021,68,57,0.8382,0,Itapipoca,Federal
+A00054,2022,80,69,0.8625,1,Crato,Privada
+A00055,2025,80,65,0.8125,0,Fortaleza,Privada
+A00056,2022,73,64,0.8767,0,Fortaleza,Não informado
+A00057,2021,68,65,0.9559,0,Crato,Não informado
+A00058,2022,91,81,0.8901,0,Maracanaú,Pública
+A00059,2025,90,85,0.9444,1,Caucaia,Privada
+A00060,2022,84,75,0.8929,0,Itapipoca,Não informado
+A00060,2023,85,72,0.8471,1,Itapipoca,Não informado
+A00061,2025,71,62,0.8732,0,Juazeiro do Norte,Pública
+A00062,2024,74,66,0.8919,0,Fortaleza,Não informado
+A00062,2025,90,77,0.8556,1,Fortaleza,Não informado
+A00063,2024,73,67,0.9178,1,Horizonte,Privada
+A00063,2025,64,53,0.8281,0,Horizonte,Privada
+A00064,2022,89,78,0.8764,0,Sobral,Pública
+A00064,2023,48,43,0.8958,1,Sobral,Pública
+A00065,2025,77,69,0.8961,0,Maracanaú,Privada
+A00066,2023,96,81,0.8438,0,Maracanaú,Pública
+A00067,2021,68,60,0.8824,0,Eusébio,Pública
+A00068,2024,81,72,0.8889,0,Eusébio,Pública
+A00068,2025,98,85,0.8673,1,Eusébio,Pública
+A00069,2023,73,64,0.8767,1,Itapipoca,Não informado
+A00069,2024,84,75,0.8929,1,Itapipoca,Não informado
+A00070,2022,94,84,0.8936,0,Fortaleza,Privada
+A00071,2022,62,56,0.9032,0,Aquiraz,Federal
+A00072,2021,44,37,0.8409,0,Fortaleza,Pública
+A00073,2021,83,75,0.9036,0,Maracanaú,Privada
+A00074,2022,87,79,0.908,0,Fortaleza,Pública
+A00075,2024,63,59,0.9365,0,Juazeiro do Norte,Privada
+A00076,2022,65,61,0.9385,1,Aquiraz,Privada
+A00076,2023,95,88,0.9263,0,Aquiraz,Privada
+A00077,2022,98,84,0.8571,0,Horizonte,Privada
+A00077,2023,85,77,0.9059,1,Horizonte,Privada
+A00078,2021,84,69,0.8214,0,Fortaleza,Não informado
+A00078,2022,66,52,0.7879,0,Fortaleza,Não informado
+A00079,2024,65,60,0.9231,1,Maracanaú,Pública
+A00079,2025,85,77,0.9059,0,Maracanaú,Pública
+A00080,2023,56,51,0.9107,1,Itapipoca,Pública
+A00081,2025,83,76,0.9157,1,Fortaleza,Não informado
+A00082,2025,76,65,0.8553,1,Crato,Pública
+A00083,2022,99,91,0.9192,1,Crato,Não informado
+A00084,2025,62,60,0.9677,0,Fortaleza,Não informado
+A00085,2021,81,73,0.9012,1,Pacatuba,Privada
+A00086,2025,76,69,0.9079,1,Aquiraz,Privada
+A00087,2024,72,60,0.8333,0,Aquiraz,Pública
+A00087,2025,76,67,0.8816,1,Aquiraz,Pública
+A00088,2022,94,82,0.8723,0,Aquiraz,Privada
+A00088,2023,68,61,0.8971,0,Aquiraz,Privada
+A00089,2024,96,88,0.9167,0,Aquiraz,Não informado
+A00090,2024,57,44,0.7719,1,Sobral,Privada
+A00091,2023,96,90,0.9375,0,Aquiraz,Pública
+A00091,2024,55,49,0.8909,0,Aquiraz,Pública
+A00092,2022,67,60,0.8955,0,Caucaia,Privada
+A00093,2024,71,63,0.8873,0,Pacatuba,Pública
+A00094,2022,85,68,0.8,0,Crato,Não informado
+A00095,2022,74,66,0.8919,0,Fortaleza,Pública
+A00095,2023,73,67,0.9178,0,Fortaleza,Pública
+A00096,2025,69,59,0.8551,1,Crato,Privada
+A00097,2023,77,62,0.8052,0,Horizonte,Não informado
+A00098,2022,44,38,0.8636,0,Fortaleza,Privada
+A00099,2022,81,70,0.8642,1,Pacatuba,Privada
+A00100,2025,56,45,0.8036,0,Aquiraz,Privada
+A00101,2023,78,68,0.8718,1,Maracanaú,Federal
+A00102,2021,88,77,0.875,0,Horizonte,Federal
+A00102,2022,93,83,0.8925,0,Horizonte,Federal
+A00102,2023,55,50,0.9091,1,Horizonte,Federal
+A00103,2021,64,61,0.9531,0,Pacatuba,Privada
+A00104,2022,74,64,0.8649,0,Eusébio,Privada
+A00104,2023,72,62,0.8611,0,Eusébio,Privada
+A00104,2024,79,76,0.962,0,Eusébio,Privada
+A00105,2023,75,69,0.92,0,Aquiraz,Não informado
+A00106,2023,75,67,0.8933,0,Horizonte,Privada
+A00107,2024,62,55,0.8871,0,Juazeiro do Norte,Federal
+A00107,2025,69,63,0.913,1,Juazeiro do Norte,Federal
+A00108,2021,58,49,0.8448,1,Itapipoca,Não informado
+A00109,2024,43,39,0.907,0,Itapipoca,Privada
+A00109,2025,90,79,0.8778,1,Itapipoca,Privada
+A00110,2022,57,53,0.9298,1,Juazeiro do Norte,Federal
+A00111,2024,84,76,0.9048,0,Crato,Privada
+A00111,2025,70,60,0.8571,1,Crato,Privada
+A00112,2021,97,86,0.8866,0,Fortaleza,Pública
+A00113,2024,59,49,0.8305,0,Aquiraz,Privada
+A00113,2025,51,43,0.8431,0,Aquiraz,Privada
+A00114,2022,68,62,0.9118,0,Caucaia,Federal
+A00114,2023,60,53,0.8833,0,Caucaia,Federal
+A00115,2021,83,70,0.8434,0,Maracanaú,Não informado
+A00115,2022,64,61,0.9531,0,Maracanaú,Não informado
+A00116,2025,56,48,0.8571,0,Caucaia,Pública
+A00117,2024,78,71,0.9103,0,Maracanaú,Não informado
+A00118,2024,59,51,0.8644,0,Sobral,Pública
+A00119,2023,65,61,0.9385,0,Aquiraz,Pública
+A00120,2021,60,52,0.8667,0,Maracanaú,Federal
+A00120,2022,67,53,0.791,1,Maracanaú,Federal
+A00120,2023,64,53,0.8281,1,Maracanaú,Federal
+A00121,2023,84,71,0.8452,0,Aquiraz,Federal
+A00122,2024,81,73,0.9012,0,Aquiraz,Não informado
+A00123,2024,71,62,0.8732,0,Maracanaú,Federal
+A00124,2024,57,49,0.8596,1,Maracanaú,Não informado
+A00125,2023,63,57,0.9048,0,Fortaleza,Privada
+A00125,2024,67,60,0.8955,0,Fortaleza,Privada
+A00126,2023,72,67,0.9306,0,Maracanaú,Não informado
+A00127,2025,81,71,0.8765,0,Juazeiro do Norte,Federal
+A00128,2022,78,69,0.8846,0,Maracanaú,Federal
+A00129,2023,56,46,0.8214,1,Itapipoca,Não informado
+A00129,2024,74,69,0.9324,0,Itapipoca,Não informado
+A00129,2025,80,68,0.85,0,Itapipoca,Não informado
+A00130,2025,71,64,0.9014,1,Maracanaú,Pública
+A00131,2025,80,73,0.9125,0,Aquiraz,Não informado
+A00132,2021,84,80,0.9524,1,Sobral,Pública
+A00133,2024,54,53,0.9815,1,Pacatuba,Não informado
+A00133,2025,80,67,0.8375,1,Pacatuba,Não informado
+A00134,2024,68,62,0.9118,0,Maracanaú,Privada
+A00134,2025,59,53,0.8983,0,Maracanaú,Privada
+A00135,2022,71,59,0.831,0,Eusébio,Pública
+A00136,2025,51,42,0.8235,0,Crato,Não informado
+A00137,2021,77,72,0.9351,1,Itapipoca,Privada
+A00138,2024,73,66,0.9041,0,Fortaleza,Não informado
+A00138,2025,87,76,0.8736,0,Fortaleza,Não informado
+A00139,2024,67,57,0.8507,0,Pacatuba,Não informado
+A00139,2025,85,81,0.9529,0,Pacatuba,Não informado
+A00140,2021,69,61,0.8841,0,Fortaleza,Não informado
+A00140,2022,73,65,0.8904,0,Fortaleza,Não informado
+A00141,2021,66,56,0.8485,0,Fortaleza,Pública
+A00142,2023,58,55,0.9483,0,Caucaia,Pública
+A00143,2023,64,58,0.9062,0,Sobral,Privada
+A00143,2024,63,57,0.9048,0,Sobral,Privada
+A00144,2021,68,61,0.8971,1,Itapipoca,Privada
+A00144,2022,108,92,0.8519,0,Itapipoca,Privada
+A00144,2023,70,63,0.9,1,Itapipoca,Privada
+A00145,2023,71,65,0.9155,0,Maracanaú,Pública
+A00145,2024,58,55,0.9483,0,Maracanaú,Pública
+A00146,2025,79,76,0.962,0,Aquiraz,Federal
+A00147,2023,53,47,0.8868,0,Fortaleza,Não informado
+A00148,2022,75,66,0.88,1,Eusébio,Pública
+A00149,2025,79,67,0.8481,1,Crato,Pública
+A00150,2021,78,67,0.859,0,Caucaia,Privada
+A00151,2024,46,43,0.9348,0,Itapipoca,Não informado
+A00152,2024,87,79,0.908,1,Maracanaú,Privada
+A00152,2025,85,74,0.8706,1,Maracanaú,Privada
+A00153,2023,63,54,0.8571,0,Eusébio,Privada
+A00154,2023,49,45,0.9184,0,Aquiraz,Não informado
+A00155,2022,72,64,0.8889,0,Itapipoca,Não informado
+A00156,2023,54,49,0.9074,1,Maracanaú,Privada
+A00157,2024,48,40,0.8333,1,Fortaleza,Privada
+A00158,2023,82,74,0.9024,1,Fortaleza,Pública
+A00159,2024,59,53,0.8983,0,Maracanaú,Pública
+A00159,2025,80,71,0.8875,0,Maracanaú,Pública
+A00160,2025,76,69,0.9079,0,Crato,Pública
+A00161,2025,66,58,0.8788,0,Fortaleza,Federal
+A00162,2022,73,63,0.863,1,Aquiraz,Não informado
+A00162,2023,83,74,0.8916,0,Aquiraz,Não informado
+A00163,2025,94,81,0.8617,0,Sobral,Federal
+A00164,2025,65,57,0.8769,0,Itapipoca,Não informado
+A00165,2025,74,69,0.9324,0,Horizonte,Privada
+A00166,2025,78,72,0.9231,0,Sobral,Não informado
+A00167,2021,68,63,0.9265,0,Sobral,Não informado
+A00168,2024,64,58,0.9062,0,Caucaia,Pública
+A00168,2025,75,69,0.92,0,Caucaia,Pública
+A00169,2024,79,68,0.8608,0,Itapipoca,Pública
+A00170,2025,55,44,0.8,0,Maracanaú,Não informado
+A00171,2023,52,45,0.8654,1,Maracanaú,Não informado
+A00172,2024,86,71,0.8256,0,Maracanaú,Não informado
+A00173,2025,64,58,0.9062,1,Maracanaú,Federal
+A00174,2021,86,75,0.8721,0,Eusébio,Pública
+A00175,2023,62,56,0.9032,1,Horizonte,Federal
+A00175,2024,62,57,0.9194,0,Horizonte,Federal
+A00176,2021,47,43,0.9149,1,Fortaleza,Não informado
+A00177,2023,72,62,0.8611,1,Horizonte,Privada
+A00177,2024,61,51,0.8361,0,Horizonte,Privada
+A00178,2024,82,77,0.939,0,Fortaleza,Não informado
+A00179,2022,77,66,0.8571,0,Aquiraz,Privada
+A00180,2023,89,77,0.8652,0,Caucaia,Pública
+A00181,2022,73,63,0.863,1,Fortaleza,Pública
+A00182,2023,79,67,0.8481,1,Maracanaú,Pública
+A00183,2024,73,65,0.8904,0,Eusébio,Pública
+A00184,2022,50,44,0.88,0,Crato,Pública
+A00185,2023,68,62,0.9118,0,Sobral,Não informado
+A00185,2024,53,46,0.8679,1,Sobral,Não informado
+A00186,2024,87,78,0.8966,0,Maracanaú,Não informado
+A00187,2022,83,73,0.8795,1,Pacatuba,Privada
+A00188,2023,86,75,0.8721,0,Fortaleza,Federal
+A00189,2023,51,44,0.8627,0,Juazeiro do Norte,Privada
+A00189,2024,76,62,0.8158,0,Juazeiro do Norte,Privada
+A00190,2025,93,81,0.871,0,Sobral,Privada
+A00191,2021,67,56,0.8358,0,Maracanaú,Privada
+A00192,2023,79,67,0.8481,0,Aquiraz,Não informado
+A00193,2024,69,64,0.9275,1,Caucaia,Não informado
+A00194,2024,83,70,0.8434,0,Horizonte,Não informado
+A00194,2025,81,76,0.9383,0,Horizonte,Não informado
+A00195,2022,66,57,0.8636,0,Itapipoca,Não informado
+A00196,2021,70,62,0.8857,0,Pacatuba,Não informado
+A00197,2023,52,46,0.8846,1,Eusébio,Privada
+A00198,2025,77,67,0.8701,0,Fortaleza,Privada
+A00199,2021,80,72,0.9,1,Caucaia,Pública
+A00200,2024,68,60,0.8824,0,Pacatuba,Pública
+A00201,2023,87,75,0.8621,1,Sobral,Privada
+A00201,2024,72,63,0.875,0,Sobral,Privada
+A00201,2025,91,80,0.8791,0,Sobral,Privada
+A00202,2024,81,72,0.8889,0,Fortaleza,Federal
+A00202,2025,92,79,0.8587,1,Fortaleza,Federal
+A00203,2023,92,80,0.8696,0,Maracanaú,Privada
+A00204,2024,66,55,0.8333,0,Pacatuba,Privada
+A00205,2024,54,47,0.8704,0,Itapipoca,Não informado
+A00206,2024,48,42,0.875,1,Pacatuba,Pública
+A00206,2025,78,69,0.8846,0,Pacatuba,Pública
+A00207,2023,67,60,0.8955,0,Fortaleza,Privada
+A00208,2023,72,70,0.9722,0,Fortaleza,Não informado
+A00208,2024,63,55,0.873,0,Fortaleza,Não informado
+A00209,2023,80,66,0.825,1,Horizonte,Pública
+A00209,2024,61,53,0.8689,0,Horizonte,Pública
+A00209,2025,95,83,0.8737,1,Horizonte,Pública
+A00210,2023,74,65,0.8784,0,Eusébio,Privada
+A00211,2021,61,58,0.9508,1,Fortaleza,Privada
+A00212,2021,65,59,0.9077,0,Eusébio,Privada
+A00213,2024,92,73,0.7935,0,Sobral,Federal
+A00213,2025,91,78,0.8571,0,Sobral,Federal
+A00214,2023,56,51,0.9107,1,Caucaia,Pública
+A00215,2022,104,87,0.8365,0,Pacatuba,Pública
+A00216,2021,76,68,0.8947,1,Pacatuba,Não informado
+A00217,2022,70,60,0.8571,0,Fortaleza,Não informado
+A00218,2023,65,55,0.8462,0,Aquiraz,Pública
+A00219,2024,62,55,0.8871,0,Fortaleza,Pública
+A00219,2025,92,72,0.7826,0,Fortaleza,Pública
+A00220,2025,59,56,0.9492,1,Sobral,Privada
+A00221,2024,54,49,0.9074,0,Caucaia,Não informado
+A00222,2023,94,82,0.8723,0,Caucaia,Federal
+A00222,2024,77,67,0.8701,0,Caucaia,Federal
+A00223,2025,82,72,0.878,1,Fortaleza,Privada
+A00224,2023,71,62,0.8732,1,Horizonte,Não informado
+A00224,2024,81,76,0.9383,0,Horizonte,Não informado
+A00225,2023,71,62,0.8732,0,Maracanaú,Pública
+A00225,2024,55,49,0.8909,0,Maracanaú,Pública
+A00226,2023,64,55,0.8594,0,Horizonte,Privada
+A00226,2024,65,56,0.8615,0,Horizonte,Privada
+A00226,2025,85,77,0.9059,1,Horizonte,Privada
+A00227,2021,51,45,0.8824,1,Fortaleza,Privada
+A00228,2022,90,82,0.9111,0,Crato,Privada
+A00229,2021,47,37,0.7872,0,Eusébio,Privada
+A00230,2024,62,53,0.8548,1,Fortaleza,Privada
+A00231,2024,77,69,0.8961,0,Pacatuba,Federal
+A00232,2022,88,75,0.8523,1,Maracanaú,Federal
+A00232,2023,88,75,0.8523,1,Maracanaú,Federal
+A00232,2024,72,63,0.875,0,Maracanaú,Federal
+A00233,2024,71,65,0.9155,0,Fortaleza,Privada
+A00234,2022,94,80,0.8511,0,Caucaia,Federal
+A00235,2024,55,50,0.9091,0,Maracanaú,Federal
+A00236,2023,87,76,0.8736,0,Maracanaú,Federal
+A00236,2024,78,74,0.9487,0,Maracanaú,Federal
+A00237,2021,77,69,0.8961,0,Maracanaú,Privada
+A00238,2025,84,67,0.7976,1,Eusébio,Federal
+A00239,2023,75,69,0.92,1,Fortaleza,Não informado
+A00240,2022,67,61,0.9104,0,Horizonte,Federal
+A00240,2023,96,86,0.8958,0,Horizonte,Federal
+A00241,2021,99,94,0.9495,0,Fortaleza,Federal
+A00242,2022,58,54,0.931,0,Aquiraz,Federal
+A00243,2023,55,47,0.8545,0,Caucaia,Não informado
+A00244,2025,66,55,0.8333,0,Eusébio,Privada
+A00245,2023,95,81,0.8526,0,Fortaleza,Pública
+A00246,2022,59,50,0.8475,0,Eusébio,Pública
+A00247,2024,56,51,0.9107,1,Fortaleza,Privada
+A00247,2025,62,57,0.9194,0,Fortaleza,Privada
+A00248,2021,76,60,0.7895,0,Caucaia,Privada
+A00249,2022,63,59,0.9365,0,Juazeiro do Norte,Privada
+A00249,2023,88,75,0.8523,0,Juazeiro do Norte,Privada
+A00250,2022,79,74,0.9367,0,Itapipoca,Privada
+A00250,2023,72,59,0.8194,1,Itapipoca,Privada
+A00250,2024,70,60,0.8571,1,Itapipoca,Privada
+A00251,2023,73,66,0.9041,1,Pacatuba,Federal
+A00252,2025,71,63,0.8873,1,Aquiraz,Federal
+A00253,2025,58,55,0.9483,0,Juazeiro do Norte,Federal
+A00254,2025,60,51,0.85,1,Fortaleza,Privada
+A00255,2023,44,38,0.8636,0,Maracanaú,Pública
+A00256,2024,53,49,0.9245,0,Fortaleza,Pública
+A00256,2025,80,69,0.8625,0,Fortaleza,Pública
+A00257,2024,82,72,0.878,0,Eusébio,Privada
+A00258,2024,63,58,0.9206,0,Fortaleza,Não informado
+A00259,2025,59,49,0.8305,1,Fortaleza,Federal
+A00260,2024,77,67,0.8701,1,Aquiraz,Pública
+A00261,2025,67,58,0.8657,0,Eusébio,Não informado
+A00262,2021,48,44,0.9167,1,Eusébio,Privada
+A00263,2025,85,70,0.8235,1,Sobral,Privada
+A00264,2022,82,72,0.878,0,Fortaleza,Federal
+A00265,2024,83,74,0.8916,1,Horizonte,Federal
+A00265,2025,89,76,0.8539,0,Horizonte,Federal
+A00266,2025,71,64,0.9014,0,Pacatuba,Federal
+A00267,2024,85,75,0.8824,0,Itapipoca,Privada
+A00267,2025,66,62,0.9394,0,Itapipoca,Privada
+A00268,2021,66,59,0.8939,0,Horizonte,Privada
+A00269,2023,80,73,0.9125,0,Maracanaú,Privada
+A00270,2024,77,71,0.9221,1,Juazeiro do Norte,Privada
+A00271,2024,51,46,0.902,0,Fortaleza,Pública
+A00271,2025,60,53,0.8833,0,Fortaleza,Pública
+A00272,2023,66,57,0.8636,0,Maracanaú,Privada
+A00273,2023,60,58,0.9667,1,Eusébio,Pública
+A00274,2025,80,72,0.9,1,Eusébio,Pública
+A00275,2021,80,69,0.8625,0,Fortaleza,Privada
+A00275,2022,72,67,0.9306,1,Fortaleza,Privada
+A00276,2023,76,62,0.8158,1,Eusébio,Privada
+A00277,2024,75,69,0.92,1,Maracanaú,Pública
+A00278,2024,67,60,0.8955,0,Maracanaú,Pública
+A00279,2023,73,65,0.8904,1,Maracanaú,Privada
+A00280,2021,80,73,0.9125,0,Fortaleza,Pública
+A00281,2025,67,63,0.9403,0,Juazeiro do Norte,Privada
+A00282,2022,82,68,0.8293,0,Maracanaú,Federal
+A00283,2022,83,70,0.8434,0,Maracanaú,Pública
+A00283,2023,95,80,0.8421,0,Maracanaú,Pública
+A00283,2024,72,62,0.8611,1,Maracanaú,Pública
+A00284,2023,74,66,0.8919,0,Itapipoca,Privada
+A00285,2025,80,70,0.875,0,Juazeiro do Norte,Privada
+A00286,2025,59,52,0.8814,1,Sobral,Federal
+A00287,2024,62,52,0.8387,0,Eusébio,Privada
+A00288,2021,68,60,0.8824,1,Fortaleza,Pública
+A00288,2022,73,58,0.7945,0,Fortaleza,Pública
+A00289,2021,80,74,0.925,0,Itapipoca,Não informado
+A00290,2025,77,67,0.8701,0,Crato,Pública
+A00291,2022,75,67,0.8933,0,Fortaleza,Federal
+A00292,2023,63,57,0.9048,0,Itapipoca,Não informado
+A00293,2023,80,73,0.9125,0,Crato,Pública
+A00294,2021,78,67,0.859,1,Crato,Privada
+A00295,2021,69,61,0.8841,0,Caucaia,Não informado
+A00296,2021,62,54,0.871,0,Sobral,Privada
+A00296,2022,91,79,0.8681,0,Sobral,Privada
+A00297,2025,49,41,0.8367,1,Itapipoca,Pública
+A00298,2023,60,58,0.9667,1,Pacatuba,Privada
+A00299,2022,85,75,0.8824,1,Fortaleza,Privada
+A00300,2025,93,79,0.8495,1,Aquiraz,Pública
+A00301,2022,67,59,0.8806,0,Aquiraz,Pública
+A00302,2024,55,49,0.8909,0,Sobral,Privada
+A00303,2022,65,57,0.8769,1,Maracanaú,Pública
+A00303,2023,75,69,0.92,1,Maracanaú,Pública
+A00304,2022,87,70,0.8046,1,Eusébio,Pública
+A00304,2023,86,78,0.907,1,Eusébio,Pública
+A00305,2025,84,81,0.9643,1,Fortaleza,Não informado
+A00306,2021,62,55,0.8871,0,Fortaleza,Pública
+A00307,2021,98,84,0.8571,0,Fortaleza,Privada
+A00308,2024,61,56,0.918,0,Pacatuba,Não informado
+A00309,2023,82,72,0.878,0,Caucaia,Pública
+A00310,2023,82,70,0.8537,1,Fortaleza,Privada
+A00311,2023,68,60,0.8824,0,Fortaleza,Privada
+A00311,2024,46,38,0.8261,0,Fortaleza,Privada
+A00312,2025,67,59,0.8806,0,Eusébio,Pública
+A00313,2021,75,67,0.8933,1,Itapipoca,Privada
+A00313,2022,92,80,0.8696,1,Itapipoca,Privada
+A00314,2022,95,75,0.7895,0,Maracanaú,Pública
+A00315,2024,62,57,0.9194,0,Juazeiro do Norte,Não informado
+A00315,2025,81,71,0.8765,0,Juazeiro do Norte,Não informado
+A00316,2023,67,60,0.8955,1,Maracanaú,Pública
+A00317,2024,66,59,0.8939,0,Caucaia,Não informado
+A00317,2025,95,84,0.8842,0,Caucaia,Não informado
+A00318,2024,79,70,0.8861,0,Eusébio,Pública
+A00319,2023,69,60,0.8696,0,Crato,Não informado
+A00320,2025,80,69,0.8625,0,Horizonte,Não informado
+A00321,2025,64,58,0.9062,0,Fortaleza,Não informado
+A00322,2023,83,74,0.8916,0,Caucaia,Privada
+A00323,2021,60,53,0.8833,1,Itapipoca,Privada
+A00324,2022,81,70,0.8642,0,Sobral,Não informado
+A00324,2023,87,77,0.8851,0,Sobral,Não informado
+A00325,2021,84,77,0.9167,1,Pacatuba,Pública
+A00326,2023,82,76,0.9268,0,Caucaia,Não informado
+A00326,2024,72,69,0.9583,0,Caucaia,Não informado
+A00327,2025,84,73,0.869,0,Caucaia,Federal
+A00328,2021,60,53,0.8833,0,Fortaleza,Privada
+A00328,2022,97,87,0.8969,0,Fortaleza,Privada
+A00329,2024,83,74,0.8916,0,Caucaia,Não informado
+A00329,2025,85,75,0.8824,0,Caucaia,Não informado
+A00330,2022,76,68,0.8947,0,Itapipoca,Privada
+A00331,2025,86,79,0.9186,1,Fortaleza,Não informado
+A00332,2023,82,69,0.8415,0,Horizonte,Privada
+A00333,2021,69,56,0.8116,1,Horizonte,Privada
+A00334,2024,65,56,0.8615,0,Juazeiro do Norte,Privada
+A00335,2025,74,63,0.8514,0,Juazeiro do Norte,Privada
+A00336,2022,91,82,0.9011,0,Horizonte,Não informado
+A00337,2025,66,61,0.9242,0,Itapipoca,Não informado
+A00338,2021,67,64,0.9552,0,Fortaleza,Privada
+A00338,2022,60,58,0.9667,0,Fortaleza,Privada
+A00339,2022,97,83,0.8557,0,Juazeiro do Norte,Não informado
+A00340,2021,64,53,0.8281,1,Aquiraz,Não informado
+A00341,2025,94,83,0.883,0,Pacatuba,Federal
+A00342,2024,63,55,0.873,0,Juazeiro do Norte,Pública
+A00343,2021,74,68,0.9189,0,Pacatuba,Privada
+A00343,2022,101,90,0.8911,0,Pacatuba,Privada
+A00344,2022,66,58,0.8788,0,Juazeiro do Norte,Não informado
+A00344,2023,53,46,0.8679,0,Juazeiro do Norte,Não informado
+A00345,2024,79,74,0.9367,0,Crato,Privada
+A00346,2021,69,62,0.8986,0,Maracanaú,Não informado
+A00346,2022,92,81,0.8804,0,Maracanaú,Não informado
+A00347,2021,55,47,0.8545,0,Sobral,Pública
+A00348,2024,65,58,0.8923,0,Sobral,Pública
+A00349,2024,89,78,0.8764,1,Aquiraz,Não informado
+A00349,2025,61,52,0.8525,0,Aquiraz,Não informado
+A00350,2023,46,43,0.9348,0,Caucaia,Não informado
+A00351,2025,79,73,0.9241,0,Horizonte,Não informado
+A00352,2024,69,57,0.8261,1,Eusébio,Pública
+A00353,2021,87,80,0.9195,0,Caucaia,Pública
+A00354,2021,86,77,0.8953,0,Crato,Não informado
+A00355,2021,59,48,0.8136,0,Eusébio,Pública
+A00355,2022,72,65,0.9028,1,Eusébio,Pública
+A00356,2021,50,45,0.9,1,Horizonte,Não informado
+A00357,2024,63,59,0.9365,1,Itapipoca,Federal
+A00357,2025,64,57,0.8906,1,Itapipoca,Federal
+A00358,2023,68,61,0.8971,0,Sobral,Pública
+A00359,2024,90,84,0.9333,0,Sobral,Não informado
+A00360,2025,56,49,0.875,0,Pacatuba,Pública
+A00361,2025,62,52,0.8387,0,Maracanaú,Não informado
+A00362,2023,61,52,0.8525,0,Caucaia,Não informado
+A00363,2021,80,67,0.8375,1,Aquiraz,Privada
+A00363,2022,56,46,0.8214,0,Aquiraz,Privada
+A00364,2023,78,68,0.8718,1,Fortaleza,Não informado
+A00365,2021,77,66,0.8571,0,Maracanaú,Não informado
+A00366,2025,68,61,0.8971,0,Fortaleza,Privada
+A00367,2025,79,71,0.8987,1,Maracanaú,Não informado
+A00368,2021,74,63,0.8514,1,Caucaia,Privada
+A00369,2024,62,53,0.8548,1,Crato,Não informado
+A00370,2023,90,75,0.8333,1,Crato,Privada
+A00370,2024,60,50,0.8333,0,Crato,Privada
+A00371,2025,85,73,0.8588,0,Fortaleza,Privada
+A00372,2021,100,88,0.88,0,Aquiraz,Privada
+A00373,2024,75,64,0.8533,0,Pacatuba,Federal
+A00374,2025,78,72,0.9231,0,Maracanaú,Privada
+A00375,2023,82,61,0.7439,1,Maracanaú,Pública
+A00376,2021,56,47,0.8393,0,Sobral,Pública
+A00377,2023,60,53,0.8833,1,Eusébio,Pública
+A00378,2025,74,66,0.8919,0,Aquiraz,Privada
+A00379,2025,55,45,0.8182,1,Maracanaú,Não informado
+A00380,2025,62,54,0.871,0,Eusébio,Não informado
+A00381,2022,96,86,0.8958,1,Caucaia,Privada
+A00382,2021,81,76,0.9383,1,Itapipoca,Privada
+A00383,2022,67,60,0.8955,0,Crato,Privada
+A00383,2023,72,63,0.875,1,Crato,Privada
+A00384,2022,74,65,0.8784,0,Maracanaú,Pública
+A00385,2025,58,54,0.931,1,Sobral,Não informado
+A00386,2023,64,64,1.0,0,Maracanaú,Privada
+A00386,2024,71,58,0.8169,1,Maracanaú,Privada
+A00387,2025,95,86,0.9053,1,Caucaia,Privada
+A00388,2023,70,62,0.8857,1,Juazeiro do Norte,Pública
+A00388,2024,58,49,0.8448,0,Juazeiro do Norte,Pública
+A00389,2024,77,69,0.8961,0,Fortaleza,Federal
+A00389,2025,57,50,0.8772,1,Fortaleza,Federal
+A00390,2024,77,71,0.9221,1,Maracanaú,Privada
+A00390,2025,74,68,0.9189,0,Maracanaú,Privada
+A00391,2024,74,66,0.8919,1,Horizonte,Privada
+A00392,2021,62,57,0.9194,0,Pacatuba,Pública
+A00392,2022,58,50,0.8621,0,Pacatuba,Pública
+A00393,2022,97,93,0.9588,0,Itapipoca,Pública
+A00394,2022,95,82,0.8632,1,Fortaleza,Não informado
+A00395,2022,92,85,0.9239,0,Fortaleza,Pública
+A00395,2023,61,54,0.8852,0,Fortaleza,Pública
+A00396,2024,76,63,0.8289,0,Aquiraz,Não informado
+A00396,2025,91,81,0.8901,0,Aquiraz,Não informado
+A00397,2024,94,80,0.8511,1,Sobral,Privada
+A00398,2022,70,63,0.9,0,Eusébio,Pública
+A00398,2023,47,44,0.9362,1,Eusébio,Pública
+A00399,2024,62,54,0.871,0,Maracanaú,Pública
+A00400,2023,61,54,0.8852,0,Crato,Privada
+A00401,2024,81,67,0.8272,0,Eusébio,Privada
+A00402,2025,88,79,0.8977,0,Fortaleza,Não informado
+A00403,2022,54,48,0.8889,0,Fortaleza,Pública
+A00404,2023,54,51,0.9444,1,Maracanaú,Pública
+A00405,2023,86,76,0.8837,0,Horizonte,Privada
+A00406,2024,69,64,0.9275,0,Caucaia,Não informado
+A00407,2025,87,77,0.8851,0,Horizonte,Privada
+A00408,2023,84,76,0.9048,0,Fortaleza,Privada
+A00408,2024,72,61,0.8472,1,Fortaleza,Privada
+A00409,2021,76,68,0.8947,0,Maracanaú,Pública
+A00410,2021,77,66,0.8571,0,Maracanaú,Federal
+A00410,2022,88,67,0.7614,0,Maracanaú,Federal
+A00411,2024,59,47,0.7966,0,Horizonte,Pública
+A00412,2024,44,37,0.8409,0,Horizonte,Privada
+A00413,2021,73,65,0.8904,1,Crato,Federal
+A00414,2022,75,67,0.8933,1,Fortaleza,Não informado
+A00414,2023,79,69,0.8734,1,Fortaleza,Não informado
+A00415,2023,60,52,0.8667,0,Aquiraz,Federal
+A00416,2025,79,72,0.9114,1,Aquiraz,Não informado
+A00417,2022,78,70,0.8974,1,Itapipoca,Privada
+A00418,2025,95,88,0.9263,0,Caucaia,Pública
+A00419,2024,54,47,0.8704,0,Aquiraz,Federal
+A00419,2025,80,68,0.85,0,Aquiraz,Federal
+A00420,2024,58,51,0.8793,0,Crato,Federal
+A00421,2024,77,67,0.8701,1,Maracanaú,Não informado
+A00421,2025,75,64,0.8533,0,Maracanaú,Não informado
+A00422,2023,62,57,0.9194,1,Fortaleza,Privada
+A00423,2024,72,62,0.8611,0,Pacatuba,Federal
+A00423,2025,78,66,0.8462,1,Pacatuba,Federal
+A00424,2025,96,84,0.875,1,Maracanaú,Pública
+A00425,2025,76,66,0.8684,0,Pacatuba,Privada
+A00426,2024,64,58,0.9062,0,Maracanaú,Pública
+A00427,2024,70,65,0.9286,0,Itapipoca,Pública
+A00428,2022,90,83,0.9222,0,Maracanaú,Não informado
+A00429,2025,93,76,0.8172,0,Fortaleza,Não informado
+A00430,2024,88,76,0.8636,0,Maracanaú,Privada
+A00431,2023,56,47,0.8393,1,Maracanaú,Pública
+A00431,2024,63,59,0.9365,1,Maracanaú,Pública
+A00431,2025,91,79,0.8681,0,Maracanaú,Pública
+A00432,2025,81,75,0.9259,0,Fortaleza,Pública
+A00433,2022,90,85,0.9444,0,Caucaia,Privada
+A00433,2023,77,65,0.8442,1,Caucaia,Privada
+A00434,2024,95,80,0.8421,0,Eusébio,Pública
+A00435,2024,74,61,0.8243,0,Pacatuba,Não informado
+A00435,2025,84,78,0.9286,0,Pacatuba,Não informado
+A00436,2024,67,57,0.8507,0,Itapipoca,Federal
+A00437,2025,76,67,0.8816,0,Horizonte,Pública
+A00438,2022,82,73,0.8902,0,Juazeiro do Norte,Não informado
+A00439,2024,76,68,0.8947,1,Caucaia,Não informado
+A00439,2025,77,66,0.8571,0,Caucaia,Não informado
+A00440,2024,64,56,0.875,0,Caucaia,Não informado
+A00440,2025,85,75,0.8824,0,Caucaia,Não informado
+A00441,2022,105,96,0.9143,0,Caucaia,Privada
+A00442,2023,78,66,0.8462,0,Fortaleza,Privada
+A00442,2024,89,75,0.8427,0,Fortaleza,Privada
+A00443,2021,70,60,0.8571,0,Sobral,Privada
+A00443,2022,68,59,0.8676,1,Sobral,Privada
+A00444,2024,75,61,0.8133,1,Maracanaú,Pública
+A00445,2021,65,56,0.8615,1,Caucaia,Pública
+A00446,2024,78,71,0.9103,0,Aquiraz,Pública
+A00447,2025,67,57,0.8507,0,Fortaleza,Privada
+A00448,2025,67,61,0.9104,0,Horizonte,Pública
+A00449,2024,85,74,0.8706,1,Aquiraz,Pública
+A00450,2025,82,73,0.8902,1,Aquiraz,Privada
+A00451,2024,84,74,0.881,1,Pacatuba,Pública
+A00452,2023,82,69,0.8415,0,Aquiraz,Pública
+A00453,2023,68,57,0.8382,0,Itapipoca,Privada
+A00453,2024,64,58,0.9062,0,Itapipoca,Privada
+A00454,2023,62,56,0.9032,0,Fortaleza,Privada
+A00455,2025,81,65,0.8025,0,Juazeiro do Norte,Federal
+A00456,2024,79,67,0.8481,1,Juazeiro do Norte,Privada
+A00457,2023,83,75,0.9036,0,Itapipoca,Não informado
+A00458,2021,83,72,0.8675,0,Crato,Privada
+A00459,2024,77,61,0.7922,1,Crato,Pública
+A00459,2025,64,61,0.9531,0,Crato,Pública
+A00460,2024,52,46,0.8846,0,Eusébio,Federal
+A00461,2024,93,83,0.8925,0,Crato,Não informado
+A00462,2023,65,58,0.8923,0,Crato,Não informado
+A00463,2025,61,48,0.7869,0,Fortaleza,Não informado
+A00464,2024,62,55,0.8871,0,Maracanaú,Privada
+A00465,2023,59,53,0.8983,0,Fortaleza,Federal
+A00465,2024,63,54,0.8571,1,Fortaleza,Federal
+A00466,2025,61,50,0.8197,0,Sobral,Privada
+A00467,2025,69,62,0.8986,1,Maracanaú,Não informado
+A00468,2024,81,78,0.963,0,Juazeiro do Norte,Pública
+A00469,2025,77,74,0.961,1,Pacatuba,Não informado
+A00470,2023,60,49,0.8167,1,Sobral,Privada
+A00470,2024,84,76,0.9048,0,Sobral,Privada
+A00470,2025,105,97,0.9238,0,Sobral,Privada
+A00471,2021,59,56,0.9492,0,Aquiraz,Privada
+A00471,2022,85,73,0.8588,0,Aquiraz,Privada
+A00472,2024,83,74,0.8916,0,Fortaleza,Federal
+A00472,2025,59,57,0.9661,0,Fortaleza,Federal
+A00473,2025,71,66,0.9296,1,Crato,Não informado
+A00474,2024,80,69,0.8625,0,Aquiraz,Pública
+A00475,2022,97,84,0.866,0,Caucaia,Privada
+A00476,2022,47,43,0.9149,1,Crato,Não informado
+A00477,2023,80,72,0.9,1,Juazeiro do Norte,Não informado
+A00478,2023,74,65,0.8784,0,Pacatuba,Não informado
+A00479,2025,70,68,0.9714,0,Sobral,Não informado
+A00480,2023,83,69,0.8313,1,Fortaleza,Federal
+A00481,2021,54,45,0.8333,1,Pacatuba,Federal
+A00481,2022,86,79,0.9186,0,Pacatuba,Federal
+A00482,2025,94,83,0.883,0,Itapipoca,Pública
+A00483,2024,66,57,0.8636,0,Caucaia,Pública
+A00484,2023,87,81,0.931,0,Fortaleza,Privada
+A00485,2025,85,73,0.8588,1,Pacatuba,Privada
+A00486,2022,76,68,0.8947,0,Caucaia,Privada
+A00487,2021,65,58,0.8923,1,Fortaleza,Pública
+A00488,2022,67,56,0.8358,1,Crato,Federal
+A00489,2022,48,43,0.8958,1,Pacatuba,Pública
+A00490,2023,76,70,0.9211,0,Crato,Pública
+A00490,2024,67,60,0.8955,0,Crato,Pública
+A00491,2024,68,54,0.7941,1,Sobral,Federal
+A00492,2023,65,58,0.8923,1,Fortaleza,Privada
+A00492,2024,81,75,0.9259,1,Fortaleza,Privada
+A00493,2025,66,54,0.8182,0,Maracanaú,Pública
+A00494,2021,70,66,0.9429,0,Fortaleza,Privada
+A00495,2023,52,45,0.8654,0,Crato,Privada
+A00496,2025,66,59,0.8939,0,Itapipoca,Não informado
+A00497,2024,56,48,0.8571,1,Fortaleza,Pública
+A00498,2024,69,62,0.8986,0,Fortaleza,Pública
+A00499,2021,79,71,0.8987,1,Caucaia,Privada
+A00500,2023,52,48,0.9231,1,Fortaleza,Não informado
+A00501,2024,53,45,0.8491,0,Juazeiro do Norte,Privada
+A00502,2021,93,79,0.8495,0,Fortaleza,Federal
+A00503,2025,54,46,0.8519,0,Sobral,Não informado
+A00504,2025,100,82,0.82,1,Aquiraz,Não informado
+A00505,2025,67,55,0.8209,0,Aquiraz,Pública
+A00506,2024,71,62,0.8732,1,Maracanaú,Privada
+A00507,2021,86,78,0.907,1,Fortaleza,Privada
+A00507,2022,85,75,0.8824,1,Fortaleza,Privada
+A00508,2024,77,68,0.8831,0,Caucaia,Privada
+A00509,2023,94,90,0.9574,0,Maracanaú,Pública
+A00509,2024,58,55,0.9483,1,Maracanaú,Pública
+A00510,2023,65,59,0.9077,0,Caucaia,Privada
+A00511,2024,86,77,0.8953,0,Itapipoca,Pública
+A00511,2025,83,72,0.8675,0,Itapipoca,Pública
+A00512,2025,76,63,0.8289,1,Fortaleza,Privada
+A00513,2024,64,56,0.875,0,Caucaia,Privada
+A00514,2024,74,69,0.9324,0,Fortaleza,Pública
+A00514,2025,70,66,0.9429,0,Fortaleza,Pública
+A00515,2024,67,59,0.8806,0,Aquiraz,Pública
+A00516,2025,89,78,0.8764,0,Maracanaú,Privada
+A00517,2024,52,45,0.8654,0,Fortaleza,Pública
+A00518,2022,62,54,0.871,1,Horizonte,Não informado
+A00518,2023,77,63,0.8182,0,Horizonte,Não informado
+A00518,2024,84,72,0.8571,1,Horizonte,Não informado
+A00519,2025,70,61,0.8714,1,Maracanaú,Não informado
+A00520,2021,81,62,0.7654,0,Fortaleza,Pública
+A00520,2022,62,53,0.8548,1,Fortaleza,Pública
+A00521,2021,72,63,0.875,0,Maracanaú,Pública
+A00522,2022,90,75,0.8333,1,Sobral,Privada
+A00522,2023,51,44,0.8627,0,Sobral,Privada
+A00523,2023,86,68,0.7907,0,Sobral,Privada
+A00524,2021,58,45,0.7759,1,Caucaia,Privada
+A00525,2023,86,75,0.8721,1,Aquiraz,Federal
+A00525,2024,78,67,0.859,0,Aquiraz,Federal
+A00526,2021,87,78,0.8966,0,Maracanaú,Não informado
+A00527,2024,88,79,0.8977,0,Eusébio,Privada
+A00528,2022,85,71,0.8353,1,Fortaleza,Privada
+A00529,2024,75,69,0.92,0,Fortaleza,Não informado
+A00530,2021,78,67,0.859,1,Maracanaú,Privada
+A00531,2021,66,59,0.8939,0,Crato,Pública
+A00531,2022,87,82,0.9425,0,Crato,Pública
+A00531,2023,89,83,0.9326,1,Crato,Pública
+A00532,2025,95,83,0.8737,0,Juazeiro do Norte,Pública
+A00533,2025,93,79,0.8495,0,Sobral,Privada
+A00534,2021,68,60,0.8824,1,Itapipoca,Pública
+A00535,2023,69,60,0.8696,0,Pacatuba,Privada
+A00536,2021,53,50,0.9434,1,Fortaleza,Não informado
+A00537,2022,76,69,0.9079,0,Caucaia,Privada
+A00538,2022,79,71,0.8987,0,Maracanaú,Privada
+A00539,2024,73,65,0.8904,1,Aquiraz,Não informado
+A00540,2025,79,69,0.8734,0,Maracanaú,Federal
+A00541,2025,69,61,0.8841,1,Crato,Federal
+A00542,2021,80,70,0.875,0,Sobral,Não informado
+A00543,2023,59,54,0.9153,0,Pacatuba,Federal
+A00544,2022,100,87,0.87,0,Horizonte,Não informado
+A00544,2023,79,72,0.9114,0,Horizonte,Não informado
+A00545,2025,57,51,0.8947,0,Maracanaú,Federal
+A00546,2025,82,70,0.8537,0,Fortaleza,Pública
+A00547,2021,76,63,0.8289,1,Horizonte,Federal
+A00548,2023,77,64,0.8312,0,Aquiraz,Privada
+A00549,2024,61,53,0.8689,0,Crato,Não informado
+A00550,2021,66,53,0.803,0,Aquiraz,Não informado
+A00551,2022,79,69,0.8734,1,Fortaleza,Não informado
+A00552,2024,79,71,0.8987,0,Crato,Privada
+A00553,2022,54,44,0.8148,0,Juazeiro do Norte,Privada
+A00553,2023,66,59,0.8939,0,Juazeiro do Norte,Privada
+A00553,2024,82,74,0.9024,1,Juazeiro do Norte,Privada
+A00554,2021,74,65,0.8784,0,Juazeiro do Norte,Pública
+A00555,2023,77,64,0.8312,0,Fortaleza,Pública
+A00556,2022,84,76,0.9048,1,Juazeiro do Norte,Pública
+A00557,2023,74,66,0.8919,0,Fortaleza,Não informado
+A00558,2023,72,66,0.9167,1,Maracanaú,Privada
+A00559,2021,55,49,0.8909,0,Fortaleza,Pública
+A00559,2022,70,61,0.8714,0,Fortaleza,Pública
+A00560,2021,99,90,0.9091,0,Fortaleza,Pública
+A00561,2023,88,74,0.8409,0,Caucaia,Privada
+A00562,2022,89,78,0.8764,0,Eusébio,Privada
+A00563,2021,86,73,0.8488,0,Maracanaú,Não informado
+A00564,2025,83,77,0.9277,0,Fortaleza,Privada
+A00565,2023,71,58,0.8169,0,Aquiraz,Privada
+A00566,2022,78,69,0.8846,0,Sobral,Federal
+A00567,2023,55,51,0.9273,1,Crato,Pública
+A00568,2025,93,79,0.8495,0,Maracanaú,Pública
+A00569,2022,62,55,0.8871,0,Eusébio,Não informado
+A00570,2025,70,64,0.9143,0,Sobral,Federal
+A00571,2022,65,57,0.8769,0,Aquiraz,Privada
+A00571,2023,87,81,0.931,0,Aquiraz,Privada
+A00571,2024,70,63,0.9,0,Aquiraz,Privada
+A00572,2024,53,48,0.9057,0,Sobral,Pública
+A00573,2025,84,78,0.9286,0,Juazeiro do Norte,Não informado
+A00574,2023,56,51,0.9107,0,Juazeiro do Norte,Privada
+A00575,2023,97,83,0.8557,1,Fortaleza,Privada
+A00575,2024,74,60,0.8108,0,Fortaleza,Privada
+A00576,2023,64,51,0.7969,0,Eusébio,Federal
+A00577,2024,68,59,0.8676,1,Itapipoca,Privada
+A00578,2021,81,69,0.8519,0,Sobral,Federal
+A00579,2025,78,73,0.9359,0,Maracanaú,Não informado
+A00580,2025,58,48,0.8276,1,Aquiraz,Não informado
+A00581,2025,84,72,0.8571,1,Crato,Federal
+A00582,2021,90,84,0.9333,1,Fortaleza,Não informado
+A00583,2024,84,70,0.8333,0,Horizonte,Não informado
+A00584,2025,84,74,0.881,0,Itapipoca,Federal
+A00585,2024,86,81,0.9419,0,Horizonte,Pública
+A00586,2021,68,62,0.9118,0,Pacatuba,Não informado
+A00587,2025,79,71,0.8987,0,Fortaleza,Não informado
+A00588,2024,63,55,0.873,1,Horizonte,Pública
+A00588,2025,103,86,0.835,0,Horizonte,Pública
+A00589,2025,98,87,0.8878,1,Juazeiro do Norte,Pública
+A00590,2023,73,67,0.9178,0,Juazeiro do Norte,Privada
+A00591,2021,60,50,0.8333,0,Maracanaú,Pública
+A00592,2024,95,85,0.8947,1,Fortaleza,Pública
+A00593,2022,87,73,0.8391,0,Juazeiro do Norte,Pública
+A00593,2023,76,70,0.9211,1,Juazeiro do Norte,Pública
+A00594,2023,70,68,0.9714,0,Eusébio,Privada
+A00595,2021,61,59,0.9672,1,Juazeiro do Norte,Federal
+A00595,2022,68,57,0.8382,0,Juazeiro do Norte,Federal
+A00596,2024,58,52,0.8966,1,Horizonte,Privada
+A00597,2024,69,62,0.8986,0,Fortaleza,Não informado
+A00598,2024,75,64,0.8533,1,Maracanaú,Não informado
+A00599,2022,95,80,0.8421,1,Horizonte,Pública
+A00600,2022,85,77,0.9059,1,Fortaleza,Não informado
+A00601,2023,81,69,0.8519,0,Sobral,Pública
+A00601,2024,71,67,0.9437,0,Sobral,Pública
+A00602,2025,81,71,0.8765,0,Fortaleza,Não informado
+A00603,2024,82,75,0.9146,0,Fortaleza,Privada
+A00604,2023,59,51,0.8644,0,Sobral,Não informado
+A00605,2021,83,69,0.8313,0,Eusébio,Não informado
+A00606,2023,79,71,0.8987,0,Horizonte,Privada
+A00607,2022,50,45,0.9,0,Fortaleza,Federal
+A00608,2023,82,68,0.8293,1,Aquiraz,Não informado
+A00609,2024,64,59,0.9219,1,Fortaleza,Privada
+A00610,2022,88,80,0.9091,0,Maracanaú,Federal
+A00611,2024,51,47,0.9216,1,Aquiraz,Não informado
+A00612,2025,60,51,0.85,1,Sobral,Privada
+A00613,2022,64,54,0.8438,0,Juazeiro do Norte,Federal
+A00614,2024,68,59,0.8676,1,Fortaleza,Pública
+A00615,2023,60,50,0.8333,0,Pacatuba,Não informado
+A00615,2024,55,46,0.8364,1,Pacatuba,Não informado
+A00615,2025,69,57,0.8261,1,Pacatuba,Não informado
+A00616,2022,58,52,0.8966,1,Maracanaú,Pública
+A00617,2023,52,46,0.8846,0,Caucaia,Privada
+A00618,2021,92,79,0.8587,0,Maracanaú,Pública
+A00619,2024,64,58,0.9062,0,Maracanaú,Pública
+A00620,2025,60,58,0.9667,1,Pacatuba,Privada
+A00621,2021,69,62,0.8986,0,Fortaleza,Não informado
+A00622,2023,53,44,0.8302,0,Maracanaú,Não informado
+A00623,2023,71,62,0.8732,1,Maracanaú,Não informado
+A00624,2023,68,56,0.8235,0,Aquiraz,Não informado
+A00624,2024,81,66,0.8148,1,Aquiraz,Não informado
+A00624,2025,88,77,0.875,0,Aquiraz,Não informado
+A00625,2021,71,61,0.8592,1,Sobral,Pública
+A00625,2022,63,58,0.9206,0,Sobral,Pública
+A00625,2023,57,54,0.9474,0,Sobral,Pública
+A00626,2025,78,69,0.8846,0,Maracanaú,Federal
+A00627,2021,80,71,0.8875,0,Eusébio,Pública
+A00627,2022,91,78,0.8571,0,Eusébio,Pública
+A00627,2023,63,52,0.8254,0,Eusébio,Pública
+A00628,2024,77,68,0.8831,1,Fortaleza,Federal
+A00628,2025,89,79,0.8876,0,Fortaleza,Federal
+A00629,2022,102,90,0.8824,0,Fortaleza,Não informado
+A00630,2023,76,65,0.8553,1,Fortaleza,Não informado
+A00630,2024,70,60,0.8571,0,Fortaleza,Não informado
+A00631,2023,61,52,0.8525,0,Pacatuba,Federal
+A00632,2025,70,62,0.8857,0,Itapipoca,Privada
+A00633,2024,88,78,0.8864,1,Crato,Não informado
+A00634,2022,76,65,0.8553,0,Fortaleza,Pública
+A00635,2025,85,71,0.8353,0,Sobral,Não informado
+A00636,2021,82,70,0.8537,1,Crato,Pública
+A00636,2022,62,53,0.8548,1,Crato,Pública
+A00637,2022,79,68,0.8608,0,Eusébio,Não informado
+A00638,2024,62,52,0.8387,1,Maracanaú,Privada
+A00639,2025,89,80,0.8989,0,Itapipoca,Federal
+A00640,2024,65,52,0.8,0,Maracanaú,Pública
+A00641,2024,73,66,0.9041,0,Horizonte,Privada
+A00641,2025,63,56,0.8889,1,Horizonte,Privada
+A00642,2023,89,81,0.9101,0,Aquiraz,Não informado
+A00642,2024,84,78,0.9286,0,Aquiraz,Não informado
+A00643,2023,79,69,0.8734,1,Fortaleza,Não informado
+A00644,2025,77,66,0.8571,1,Sobral,Não informado
+A00645,2025,73,66,0.9041,1,Sobral,Pública
+A00646,2023,42,38,0.9048,0,Eusébio,Não informado
+A00646,2024,77,69,0.8961,1,Eusébio,Não informado
+A00647,2024,46,41,0.8913,0,Itapipoca,Não informado
+A00647,2025,71,62,0.8732,0,Itapipoca,Não informado
+A00648,2021,67,59,0.8806,0,Maracanaú,Pública
+A00649,2024,69,58,0.8406,0,Fortaleza,Não informado
+A00649,2025,81,73,0.9012,1,Fortaleza,Não informado
+A00650,2022,79,69,0.8734,1,Juazeiro do Norte,Não informado
+A00650,2023,90,76,0.8444,0,Juazeiro do Norte,Não informado
+A00651,2022,94,74,0.7872,0,Aquiraz,Federal
+A00652,2021,82,78,0.9512,0,Maracanaú,Federal
+A00653,2024,76,70,0.9211,0,Fortaleza,Federal
+A00654,2022,74,68,0.9189,1,Eusébio,Federal
+A00654,2023,78,71,0.9103,1,Eusébio,Federal
+A00655,2025,71,66,0.9296,0,Maracanaú,Privada
+A00656,2025,58,51,0.8793,0,Fortaleza,Pública
+A00657,2024,67,56,0.8358,0,Caucaia,Privada
+A00658,2024,60,53,0.8833,0,Fortaleza,Pública
+A00659,2023,88,78,0.8864,0,Pacatuba,Federal
+A00659,2024,76,66,0.8684,0,Pacatuba,Federal
+A00660,2024,60,50,0.8333,0,Pacatuba,Não informado
+A00660,2025,91,75,0.8242,1,Pacatuba,Não informado
+A00661,2022,72,61,0.8472,0,Crato,Pública
+A00662,2022,87,70,0.8046,0,Caucaia,Pública
+A00663,2025,87,78,0.8966,1,Fortaleza,Não informado
+A00664,2025,78,67,0.859,1,Fortaleza,Não informado
+A00665,2022,103,88,0.8544,0,Fortaleza,Federal
+A00666,2023,89,80,0.8989,1,Juazeiro do Norte,Privada
+A00666,2024,65,59,0.9077,1,Juazeiro do Norte,Privada
+A00666,2025,77,72,0.9351,0,Juazeiro do Norte,Privada
+A00667,2024,87,83,0.954,1,Maracanaú,Privada
+A00668,2024,64,60,0.9375,0,Aquiraz,Privada
+A00669,2025,72,66,0.9167,0,Sobral,Federal
+A00670,2023,76,64,0.8421,1,Maracanaú,Pública
+A00670,2024,60,50,0.8333,0,Maracanaú,Pública
+A00671,2022,57,48,0.8421,0,Eusébio,Privada
+A00671,2023,80,66,0.825,0,Eusébio,Privada
+A00672,2021,77,70,0.9091,1,Crato,Privada
+A00673,2025,64,50,0.7812,0,Maracanaú,Não informado
+A00674,2025,56,44,0.7857,0,Fortaleza,Não informado
+A00675,2022,87,75,0.8621,1,Juazeiro do Norte,Pública
+A00675,2023,64,52,0.8125,1,Juazeiro do Norte,Pública
+A00676,2022,98,88,0.898,0,Pacatuba,Não informado
+A00677,2022,99,93,0.9394,0,Maracanaú,Federal
+A00677,2023,70,62,0.8857,0,Maracanaú,Federal
+A00678,2024,52,44,0.8462,0,Caucaia,Não informado
+A00679,2024,46,37,0.8043,0,Fortaleza,Pública
+A00680,2024,72,64,0.8889,0,Fortaleza,Pública
+A00680,2025,65,55,0.8462,0,Fortaleza,Pública
+A00681,2024,78,65,0.8333,0,Maracanaú,Pública
+A00682,2023,74,64,0.8649,0,Crato,Não informado
+A00683,2024,74,69,0.9324,0,Itapipoca,Não informado
+A00684,2025,76,64,0.8421,1,Fortaleza,Pública
+A00685,2024,69,61,0.8841,0,Fortaleza,Federal
+A00686,2024,76,70,0.9211,0,Eusébio,Pública
+A00687,2022,96,84,0.875,0,Fortaleza,Privada
+A00688,2023,84,70,0.8333,0,Eusébio,Não informado
+A00689,2021,70,59,0.8429,1,Maracanaú,Não informado
+A00689,2022,94,84,0.8936,0,Maracanaú,Não informado
+A00690,2023,65,58,0.8923,1,Maracanaú,Não informado
+A00690,2024,88,75,0.8523,0,Maracanaú,Não informado
+A00691,2023,61,57,0.9344,0,Itapipoca,Privada
+A00692,2022,82,75,0.9146,0,Fortaleza,Privada
+A00693,2025,81,68,0.8395,0,Fortaleza,Não informado
+A00694,2025,83,73,0.8795,0,Horizonte,Privada
+A00695,2024,53,49,0.9245,0,Aquiraz,Privada
+A00696,2024,65,59,0.9077,0,Itapipoca,Pública
+A00697,2024,71,67,0.9437,0,Caucaia,Federal
+A00698,2021,65,56,0.8615,0,Pacatuba,Pública
+A00699,2022,54,49,0.9074,1,Maracanaú,Não informado
+A00700,2024,45,36,0.8,0,Sobral,Privada
+A00700,2025,77,63,0.8182,1,Sobral,Privada
+A00701,2025,100,89,0.89,0,Pacatuba,Não informado
+A00702,2024,79,73,0.9241,0,Juazeiro do Norte,Federal
+A00702,2025,85,72,0.8471,0,Juazeiro do Norte,Federal
+A00703,2024,73,67,0.9178,0,Caucaia,Não informado
+A00703,2025,63,54,0.8571,0,Caucaia,Não informado
+A00704,2025,95,78,0.8211,1,Itapipoca,Federal
+A00705,2023,85,72,0.8471,1,Horizonte,Não informado
+A00705,2024,73,62,0.8493,0,Horizonte,Não informado
+A00705,2025,87,75,0.8621,1,Horizonte,Não informado
+A00706,2024,64,59,0.9219,1,Itapipoca,Não informado
+A00706,2025,69,60,0.8696,1,Itapipoca,Não informado
+A00707,2022,46,36,0.7826,0,Juazeiro do Norte,Não informado
+A00708,2022,89,82,0.9213,1,Fortaleza,Federal
+A00709,2024,89,79,0.8876,0,Maracanaú,Pública
+A00710,2024,68,59,0.8676,0,Maracanaú,Pública
+A00711,2024,72,59,0.8194,0,Pacatuba,Pública
+A00712,2023,73,58,0.7945,0,Horizonte,Pública
+A00713,2024,66,60,0.9091,0,Fortaleza,Privada
+A00714,2022,87,76,0.8736,1,Juazeiro do Norte,Pública
+A00715,2025,50,44,0.88,0,Maracanaú,Pública
+A00716,2023,77,67,0.8701,0,Caucaia,Não informado
+A00716,2024,82,70,0.8537,1,Caucaia,Não informado
+A00717,2021,43,37,0.8605,0,Fortaleza,Não informado
+A00718,2022,83,73,0.8795,1,Horizonte,Privada
+A00719,2025,87,79,0.908,0,Eusébio,Privada
+A00720,2021,74,66,0.8919,0,Crato,Não informado
+A00721,2021,65,54,0.8308,1,Maracanaú,Não informado
+A00721,2022,87,79,0.908,1,Maracanaú,Não informado
+A00722,2024,64,54,0.8438,0,Sobral,Não informado
+A00723,2024,57,46,0.807,1,Aquiraz,Pública
+A00723,2025,93,82,0.8817,1,Aquiraz,Pública
+A00724,2024,69,64,0.9275,1,Itapipoca,Pública
+A00725,2023,74,65,0.8784,0,Sobral,Não informado
+A00725,2024,80,73,0.9125,1,Sobral,Não informado
+A00726,2023,63,54,0.8571,0,Maracanaú,Não informado
+A00727,2024,55,52,0.9455,0,Juazeiro do Norte,Não informado
+A00728,2025,79,68,0.8608,1,Fortaleza,Não informado
+A00729,2022,43,37,0.8605,1,Maracanaú,Não informado
+A00729,2023,89,76,0.8539,0,Maracanaú,Não informado
+A00730,2024,82,75,0.9146,0,Sobral,Privada
+A00731,2025,84,72,0.8571,0,Aquiraz,Privada
+A00732,2024,76,66,0.8684,0,Horizonte,Pública
+A00732,2025,80,69,0.8625,0,Horizonte,Pública
+A00733,2022,90,77,0.8556,0,Fortaleza,Pública
+A00733,2023,72,65,0.9028,0,Fortaleza,Pública
+A00734,2024,46,42,0.913,0,Sobral,Privada
+A00735,2023,76,66,0.8684,0,Eusébio,Privada
+A00736,2024,49,42,0.8571,0,Crato,Não informado
+A00737,2023,50,47,0.94,0,Fortaleza,Pública
+A00738,2025,70,62,0.8857,0,Horizonte,Não informado
+A00739,2023,78,70,0.8974,1,Sobral,Pública
+A00740,2022,92,81,0.8804,1,Maracanaú,Privada
+A00740,2023,91,77,0.8462,0,Maracanaú,Privada
+A00741,2024,87,76,0.8736,0,Maracanaú,Privada
+A00742,2021,83,73,0.8795,0,Juazeiro do Norte,Não informado
+A00743,2024,44,41,0.9318,0,Aquiraz,Privada
+A00743,2025,87,77,0.8851,1,Aquiraz,Privada
+A00744,2024,61,48,0.7869,0,Fortaleza,Privada
+A00744,2025,58,52,0.8966,0,Fortaleza,Privada
+A00745,2024,75,66,0.88,1,Itapipoca,Pública
+A00746,2024,56,51,0.9107,0,Fortaleza,Não informado
+A00747,2023,68,57,0.8382,0,Caucaia,Privada
+A00748,2022,88,78,0.8864,0,Sobral,Não informado
+A00748,2023,86,73,0.8488,1,Sobral,Não informado
+A00749,2025,72,65,0.9028,0,Caucaia,Privada
+A00750,2021,61,51,0.8361,0,Horizonte,Pública
+A00750,2022,74,64,0.8649,0,Horizonte,Pública
+A00751,2024,86,75,0.8721,0,Fortaleza,Privada
+A00751,2025,70,60,0.8571,0,Fortaleza,Privada
+A00752,2022,78,75,0.9615,0,Fortaleza,Pública
+A00753,2023,84,74,0.881,1,Aquiraz,Pública
+A00754,2021,55,46,0.8364,0,Maracanaú,Não informado
+A00755,2021,84,72,0.8571,1,Crato,Não informado
+A00756,2023,94,80,0.8511,0,Horizonte,Federal
+A00757,2025,62,58,0.9355,0,Eusébio,Privada
+A00758,2025,94,90,0.9574,0,Itapipoca,Federal
+A00759,2024,53,49,0.9245,1,Horizonte,Não informado
+A00760,2024,72,61,0.8472,0,Crato,Federal
+A00760,2025,72,69,0.9583,0,Crato,Federal
+A00761,2025,62,56,0.9032,1,Eusébio,Privada
+A00762,2023,61,55,0.9016,0,Fortaleza,Não informado
+A00763,2024,69,59,0.8551,1,Maracanaú,Federal
+A00764,2021,58,51,0.8793,1,Aquiraz,Não informado
+A00765,2021,78,68,0.8718,0,Crato,Privada
+A00766,2023,63,54,0.8571,0,Crato,Federal
+A00767,2024,65,54,0.8308,0,Sobral,Privada
+A00768,2025,88,80,0.9091,1,Juazeiro do Norte,Privada
+A00769,2023,69,68,0.9855,0,Itapipoca,Privada
+A00770,2023,49,38,0.7755,0,Pacatuba,Pública
+A00771,2022,92,82,0.8913,0,Caucaia,Federal
+A00772,2023,91,80,0.8791,1,Itapipoca,Não informado
+A00773,2022,66,56,0.8485,1,Maracanaú,Não informado
+A00774,2021,76,65,0.8553,0,Fortaleza,Não informado
+A00775,2021,73,63,0.863,0,Itapipoca,Pública
+A00776,2021,58,50,0.8621,1,Sobral,Privada
+A00777,2023,82,71,0.8659,0,Maracanaú,Privada
+A00778,2025,54,53,0.9815,0,Caucaia,Privada
+A00779,2024,65,58,0.8923,1,Juazeiro do Norte,Federal
+A00780,2025,72,63,0.875,0,Fortaleza,Privada
+A00781,2025,79,67,0.8481,0,Aquiraz,Privada
+A00782,2025,90,81,0.9,0,Caucaia,Federal
+A00783,2021,70,62,0.8857,0,Eusébio,Privada
+A00784,2024,65,56,0.8615,1,Maracanaú,Pública
+A00785,2021,60,55,0.9167,0,Crato,Pública
+A00786,2024,84,74,0.881,0,Horizonte,Pública
+A00786,2025,79,65,0.8228,0,Horizonte,Pública
+A00787,2025,85,74,0.8706,0,Itapipoca,Pública
+A00788,2025,85,79,0.9294,0,Crato,Privada
+A00789,2024,82,75,0.9146,0,Maracanaú,Pública
+A00790,2023,80,70,0.875,0,Pacatuba,Não informado
+A00790,2024,50,40,0.8,0,Pacatuba,Não informado
+A00791,2021,93,85,0.914,1,Pacatuba,Privada
+A00792,2025,75,68,0.9067,0,Crato,Pública
+A00793,2021,89,73,0.8202,1,Sobral,Pública
+A00794,2022,49,46,0.9388,1,Pacatuba,Não informado
+A00795,2023,52,43,0.8269,0,Eusébio,Federal
+A00796,2021,93,81,0.871,0,Fortaleza,Federal
+A00797,2024,68,62,0.9118,0,Pacatuba,Pública
+A00797,2025,97,84,0.866,0,Pacatuba,Pública
+A00798,2021,87,73,0.8391,1,Horizonte,Pública
+A00799,2025,76,67,0.8816,0,Eusébio,Privada
+A00800,2025,81,71,0.8765,0,Aquiraz,Pública

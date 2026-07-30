@@ -1,0 +1,14 @@
+# Testado com Python 3.8.0. Versoes fixadas para reprodutibilidade -
+# especialmente relevante em Python 3.8, ja fora do suporte oficial upstream,
+# onde versoes mais novas de algumas libs podem parar de instalar.
+pandas==2.0.3
+numpy==1.24.4
+matplotlib==3.7.5
+plotly==6.9.0
+streamlit==1.40.1
+scikit-learn==1.3.2
+kaleido==0.2.1
+nbformat==5.10.4
+nbclient==0.10.1
+nbconvert==7.16.6
+ipykernel==6.29.5
